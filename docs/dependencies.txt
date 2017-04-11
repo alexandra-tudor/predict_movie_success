@@ -1,0 +1,12 @@
+https://conda.io/docs/install/quick.html
+
+https://pypi.python.org/pypi/omdb/0.2.0
+
+
+https://docs.mongodb.com/master/tutorial/install-mongodb-on-ubuntu/?_ga=1.35318305.1681261689.1488536811
+(Install MongoDB Community Edition)
+
+se porneste cu service mongod start
+se verifica cu service mongod status'
+
+https://pypi.python.org/pypi/pytrends

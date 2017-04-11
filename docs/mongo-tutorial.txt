@@ -1,0 +1,9 @@
+se porneste cu service mongod start
+se verifica cu service mongod status
+
+ca sa deschideti shell-ul mongo: in terminal scrieti mongo :))
+
+show dbs (asa vedeti toate bazele de date)
+use nume_baza_de_date ca sa treceti pe o anumita baza de date
+db.movie.find() (asa vedeti toate intrarile in colectia movie)
+
