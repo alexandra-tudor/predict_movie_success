@@ -9,7 +9,7 @@ ia = IMDb()
 # 	print the_matrix['title']
 # 	print the_matrix['actors']
 
-for index in xrange(1, 5999998):
+for index in range(1, 5999998):
 	the_matrix = ia.get_movie(str(index))
 
 	print()
