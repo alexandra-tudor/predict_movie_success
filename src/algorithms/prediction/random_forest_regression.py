@@ -1,5 +1,6 @@
 import pandas as pd
-import sklearn.linear_model as LinReg
+import numpy as np
+from sklearn.ensemble import RandomForestRegressor
 import sklearn.metrics as metrics
 
 df_train = pd.read_csv('../../../data/sample_dataset.csv', sep='\t')
@@ -10,12 +11,16 @@ vars = ['Title_words_no', 'Title_length',
 		  'Runtime',
 		  'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western',
 		  ]
-train_labels = df_train[['IMDb_Rating']]
+train_labels = np.array(df_train[['IMDb_Rating']]).transpose()[0]
 
 train = df_train[vars]
 print (train.shape)
 
-lr = LinReg.LinearRegression().fit(train, train_labels)
+regressor = RandomForestRegressor(n_estimators=150, min_samples_split=2)
+regressor.fit(train, train_labels)
 
-pred_train = lr.predict(train)
+pred_train = regressor.predict(train)
+print (pred_train)
+print (train_labels)
 print("R-squared =", metrics.r2_score(train_labels, pred_train))
+
