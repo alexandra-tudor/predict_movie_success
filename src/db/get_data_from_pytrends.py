@@ -1,20 +1,17 @@
 import json
-from pymongo import MongoClient
-from pytrends.request import TrendReq
 from time import strptime
-import pandas as pd
 
-# enter your own credentials
+import pandas as pd
+from pytrends.request import TrendReq
+
+from src.db.movie_mongo import getCursor
+
 google_username = ""
 google_password = ""
 # Login to Google. Only need to run this once, the rest of requests will use the same session.
 pytrend = TrendReq(google_username, google_password, custom_useragent='My PyTrends Script')
 
-client = MongoClient()
-db = client.movies
-collection = db['movie']
-cursor = collection.find({"Released" : {'$ne':'N/A'}})
-
+cursor = getCursor()
 popularity = {}
 
 for document in cursor:

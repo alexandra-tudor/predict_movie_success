@@ -1,7 +1,7 @@
-from sklearn import svm
-import pandas as pd
 import numpy as np
+import pandas as pd
 import sklearn.metrics as metrics
+from sklearn import svm
 
 df_train = pd.read_csv('../../../data/2_class_rating_dataset.csv', sep='\t')
 

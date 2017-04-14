@@ -1,13 +1,16 @@
 from __future__ import print_function
-from imdb import IMDb
-import omdb
+
 import json
 from pprint import pprint
-from pymongo import MongoClient
+
+import omdb
+from imdb import IMDb
+
+from src.db.movie_mongo import connect
 
 ia = IMDb()
 
-for index in range(1, 5999998):
+for index in range(294733, 5999998):
 	the_matrix = ia.get_movie(str(index))
 	title = ""
 	year = ""
@@ -16,6 +19,7 @@ for index in range(1, 5999998):
 		year = the_matrix['year']
 	except:
 		print ("Data not found for index : " + str(index))
+		continue
 
 	res = omdb.request(t=title, y=int(year), r='json')
 	json_content = res.content
@@ -25,7 +29,5 @@ for index in range(1, 5999998):
 		continue
 	pprint(json_data)
 
-	client = MongoClient()
-	db = client.movies
-
+	db = connect()
 	result = db.movie.insert_one(json_data)

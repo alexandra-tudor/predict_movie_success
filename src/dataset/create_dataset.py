@@ -19,7 +19,8 @@ import pandas as pd
 from dateutil import parser
 
 from src.db.movie_mongo import getCursor
-from src.features.structures import genre_features_map
+from src.features.holiday_calendar import HolidayCalendar
+from src.features.structures import weekday_no_map, genre_features_map
 
 header = ['IMDbID',
 		  'Title', 'Title_words_no', 'Title_length',
@@ -31,9 +32,10 @@ header = ['IMDbID',
 		  # 'Director_average_income_past_movies', 'Writers_average_income_past_movies', 'Actors_average_income_past_movies',
 		  # 'Language',
 		  # 'Country',
-		  'IMDb_Rating', # this becomes a binary feature: < 0.8 (0), >= 0.8 (1)
+		  'IMDb_Rating',
 		  # 'IMDb_Votes',
-		  # 'BoxOffice_income'
+		  # 'BoxOffice_income',
+          'isUSHoliday'
           ]
 
 data_frame = pd.DataFrame(columns=header)
@@ -59,7 +61,7 @@ for document in cursor:
 	month_binary_features[month_nr-1] = 1; print ("month_binary_features " + str(month_binary_features))
 	weekday_binary_features = [0] * 7
 	weekday = parser.parse(release_date).strftime('%A'); print ("weekday " + weekday)
-	weekday_no = weekday[weekday]; print ("weekday_no " + str(weekday_no))
+	weekday_no = weekday_no_map[weekday]; print ("weekday_no " + str(weekday_no))
 	weekday_binary_features[weekday_no] = 1; print ("weekday_binary_features " + str(weekday_binary_features))
 	Runtime = document['Runtime']; print ("Runtime " + Runtime)
 	genre_binary_features = [0] * len(genre_features_map.keys())
@@ -76,20 +78,19 @@ for document in cursor:
 
 	# Language = document['Language']
 	# Country = document['Country']
-	IMDb_Rating_value = float(str(document['imdbRating'])); print ("IMDb_Rating: " + str(IMDb_Rating_value))
-	if IMDb_Rating_value < 7:
-		IMDb_Rating = 0
-	else:
-		IMDb_Rating = 1
+	IMDb_Rating = document['imdbRating']; print ("IMDb_Rating: " + IMDb_Rating)
 	# IMDb_Votes  = document['imdbVotes']
 	# BoxOffice_income = document['BoxOffice']
+	holidayCalendar = HolidayCalendar()
+	isUSHoliday = holidayCalendar.is_US_holiday(int(day), month_nr, int(year))
 
 	row = [str(IMDbID), str(Title), Title_words_no, Title_length]
 	row += month_binary_features
 	row += weekday_binary_features
 	row += [int(str(Runtime).split()[0])]
 	row += genre_binary_features
-	row += [IMDb_Rating]
+	row += [float(str(IMDb_Rating))]
+	row += [isUSHoliday]
 
 	print (row)
 
@@ -97,4 +98,4 @@ for document in cursor:
 	index += 1
 
 print (data_frame)
-data_frame.to_csv("../../data/2_class_rating_dataset.csv", sep='\t')
+data_frame.to_csv("../../data/sample_dataset.csv", sep='\t')
