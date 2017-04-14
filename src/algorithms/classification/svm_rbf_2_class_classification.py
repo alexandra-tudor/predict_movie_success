@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import sklearn.metrics as metrics
 
-df_train = pd.read_csv('../../../data/2_class_rating_dataset.csv', sep='\t')
+df_train = pd.read_csv('../../../data/10_class_rating_dataset.csv', sep='\t')
 
 vars = ['Title_words_no', 'Title_length',
 		  'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December',
