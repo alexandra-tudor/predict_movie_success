@@ -10,7 +10,7 @@ from src.db.movie_mongo import connect
 
 ia = IMDb()
 
-for index in range(294733, 5999998):
+for index in range(297467, 5999998):
 	the_matrix = ia.get_movie(str(index))
 	title = ""
 	year = ""

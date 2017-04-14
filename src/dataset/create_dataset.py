@@ -35,7 +35,8 @@ header = ['IMDbID',
 		  'IMDb_Rating',
 		  # 'IMDb_Votes',
 		  # 'BoxOffice_income',
-          'isUSHoliday'
+          'isUSHoliday',
+          'remake' # for some movies there are more release years e.g. 1994/2014 --> the movie from 2014 is a remake
           ]
 
 data_frame = pd.DataFrame(columns=header)
