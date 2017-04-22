@@ -26,7 +26,8 @@ genre_features_map = {
 	'Talk-Show': 24,
 	'Thriller': 25,
 	'War': 26,
-	'Western': 27
+	'Western': 27,
+	'Film-Noir': 28
 }
 
 weekday_no_map = {
