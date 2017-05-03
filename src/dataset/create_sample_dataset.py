@@ -40,7 +40,7 @@ data_frame = pd.DataFrame(columns=header)
 print (data_frame)
 
 # get data from each entry in mongo database
-cursor = getCursor()
+cursor, db = getCursor()
 index = 0
 for document in cursor:
 	print ("")

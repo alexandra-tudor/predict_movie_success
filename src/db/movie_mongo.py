@@ -19,4 +19,4 @@ def getCursor():
 		}
 	)
 
-	return cursor
+	return cursor, db

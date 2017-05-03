@@ -11,7 +11,7 @@ google_password = ""
 # Login to Google. Only need to run this once, the rest of requests will use the same session.
 pytrend = TrendReq(google_username, google_password, custom_useragent='My PyTrends Script')
 
-cursor = getCursor()
+cursor, db = getCursor()
 popularity = {}
 
 for document in cursor:
