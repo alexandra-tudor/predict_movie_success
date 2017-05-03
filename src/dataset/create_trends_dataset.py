@@ -18,6 +18,7 @@ from time import strptime
 import pandas as pd
 from dateutil import parser
 
+from src.db.get_data_from_pytrends import get_trends
 from src.db.movie_mongo import getCursor
 from src.features.complex_features import person_academy_awards
 from src.features.holiday_calendar import HolidayCalendar
@@ -38,7 +39,8 @@ header = ['IMDbID',
 		  # 'BoxOffice_income',
           'isUSHoliday',
           'remake', # for some movies there are more release years e.g. 1994/2014 --> the movie from 2014 is a remake
-          'totalActorsAwardsNo'
+          'totalActorsAwardsNo',
+          'trendsWeek1', 'trendsWeek2', 'trendsWeek3', 'trendsWeek4'
           ]
 
 data_frame = pd.DataFrame(columns=header)
@@ -56,9 +58,6 @@ for document in cursor:
 
 	Title = re.sub(r'[^\x00-\x7F]+', '', document['Title']); print ("Title " + Title)
 	IMDbID = document['imdbID']; print ("IMDbID " + IMDbID)
-	if IMDbID == 'tt0094296':
-		break
-
 	Title_words_no = len(Title.split()); print ("Title_words_no " + str(Title_words_no))
 	Title_length = len(Title); print ("Title_length " + str(Title_length))
 	release_date = document['Released']; print ("Realease date: " + release_date)
@@ -66,7 +65,8 @@ for document in cursor:
 	day, month, year = release_date.split()
 	actors = document["Actors"]; print ("Actors: " + actors)
 
-	if int(year) < 1900:
+	# google trends has data since 2004
+	if int(year) < 2005:
 		continue
 
 	month_nr = strptime(month,'%b').tm_mon; print ("month_nr " + str(month_nr))
@@ -106,6 +106,8 @@ for document in cursor:
 	for a in actors:
 		rewards_no += person_academy_awards(a, int(year))
 
+	trends_data, avgs = get_trends(Title, int(year), month_nr, int(day))
+
 	row = [str(IMDbID), str(Title), Title_words_no, Title_length]
 	row += month_binary_features
 	row += weekday_binary_features
@@ -115,6 +117,7 @@ for document in cursor:
 	row += [isUSHoliday]
 	row += [remake]
 	row += [rewards_no]
+	row += [avgs[0], avgs[1], avgs[2], avgs[3]]
 
 	print (row)
 
@@ -122,4 +125,4 @@ for document in cursor:
 	index += 1
 
 print (data_frame)
-data_frame.to_csv("../../data/dataset.csv", sep='\t')
+data_frame.to_csv("../../data/trends_dataset.csv", sep='\t')
