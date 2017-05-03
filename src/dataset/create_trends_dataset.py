@@ -29,7 +29,7 @@ header = ['IMDbID',
 		  'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December',
 		  'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday',
 		  'Runtime',
-		  'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western',
+		  'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
 		  # 'Director_average_rating_past_movies', 'Writers_average_rating_past_movies', 'Actors_average_rating_past_movies',
 		  # 'Director_average_income_past_movies', 'Writers_average_income_past_movies', 'Actors_average_income_past_movies',
 		  # 'Language',
@@ -77,7 +77,7 @@ for document in cursor:
 	weekday_no = weekday_no_map[weekday]; print ("weekday_no " + str(weekday_no))
 	weekday_binary_features[weekday_no] = 1; print ("weekday_binary_features " + str(weekday_binary_features))
 	Runtime = document['Runtime']; print ("Runtime " + Runtime + " " + str(Runtime).strip(','))
-	genre_binary_features = [0] * len(genre_features_map.keys())
+	genre_binary_features = [0] * len(genre_features_map.keys()); print ("Genres: " + str(len(genre_features_map.keys())))
 	Genre_list = document['Genre'].split(','); print ("Genre_list " + str(Genre_list))
 	for g in Genre_list:
 		genre_binary_features[genre_features_map[str(g).strip()]] = 1
@@ -95,7 +95,7 @@ for document in cursor:
 	# IMDb_Votes  = document['imdbVotes']
 	# BoxOffice_income = document['BoxOffice']
 	holidayCalendar = HolidayCalendar()
-	isUSHoliday = holidayCalendar.is_US_holiday(int(day), month_nr, int(year))
+	isUSHoliday = int(holidayCalendar.is_US_holiday(int(day), month_nr, int(year)))
 
 	remake = 0
 	if "/" in yearString:
@@ -117,6 +117,7 @@ for document in cursor:
 	row += [isUSHoliday]
 	row += [remake]
 	row += [rewards_no]
+	print (avgs)
 	row += [avgs[0], avgs[1], avgs[2], avgs[3]]
 
 	print (row)

@@ -22,7 +22,8 @@ def get_trends(movie_title, year, month, day):
 	time_frame = (start_time_frame + ' ' + end_time_frame).encode('utf-8')
 
 	# Create payload and capture API tokens. Only needed for interest_over_time(), interest_by_region() & related_queries()
-	pytrend.build_payload(kw_list=[movie_title], gprop='web', timeframe=time_frame)
+	pytrend.build_payload(kw_list=[movie_title], gprop='web', timeframe='today 1-m')
+	print (movie_title)
 
 	interest_over_time_df_web = []
 	# Interest Over Time
@@ -30,13 +31,14 @@ def get_trends(movie_title, year, month, day):
 		interest_over_time_df_web = pytrend.interest_over_time()
 	except KeyError:
 		print ("KeyError occurred when executing interest_over_time_df_web = pytrend.interest_over_time()")
+		return [], [0, 0, 0, 0]
 
 	print (interest_over_time_df_web)
 
 	last_month_before_release_popularity_web = [(pd.to_datetime(r[0]).strftime("%d-%m-%Y"), r[1]) for r in interest_over_time_df_web.itertuples()]
 
 	averages = []
-	for i in range(3):
+	for i in range(4):
 		avg_searches = 0.0
 		num = 0
 		for _,v in last_month_before_release_popularity_web:
