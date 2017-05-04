@@ -11,16 +11,37 @@ from src.db.movie_mongo import connect
 ia = IMDb()
 db = connect()
 
+
+def isNumber(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
 with open('../../data/movies.list') as f:
 	for line in f:
-		cols = line.split()
-		year = cols[-1]
-		title = cols[0].replace('#', '')
+
+		if line.startswith("("):
+			continue
+
+		cols = []
+		c = line.split('(')
+
+		year = c[1].split(')')[0]
+		title = c[0].replace('#', '')[:-1]
 
 		print (title + " -- " + year)
 
+		if not isNumber(year):
+			continue
+
 		if '-' in year:
 			year = year.split('-')[0]
+
+		if '/' in year:
+			year = year.split('/')[0]
 
 		print (year)
 

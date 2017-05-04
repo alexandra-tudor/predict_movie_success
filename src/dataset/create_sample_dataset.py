@@ -93,4 +93,5 @@ for document in cursor:
 	index += 1
 
 print (data_frame)
+data_frame.drop_duplicates()
 data_frame.to_csv("../../data/sample_dataset.csv", sep='\t')

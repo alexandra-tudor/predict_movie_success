@@ -22,3 +22,6 @@ def print_correlation_matrix(df, size=10):
 if __name__ == "__main__":
 	df_train = pd.read_csv('../../data/sample_dataset_no_magical.csv', sep='\t')
 	print_correlation_matrix(df_train)
+
+	df_train = pd.read_csv('../../data/trends_dataset.csv', sep='\t')
+	print_correlation_matrix(df_train)

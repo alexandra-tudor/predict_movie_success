@@ -3,13 +3,14 @@ import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 import sklearn.metrics as metrics
 
-df_train = pd.read_csv('../../../data/sample_dataset.csv', sep='\t')
+df_train = pd.read_csv('../../../data/trends_dataset.csv', sep='\t')
 
 vars = ['Title_words_no', 'Title_length',
 		  'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December',
 		  'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday',
 		  'Runtime',
 		  'Action', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western',
+		  'Film-Noir',	'IMDb_Rating',	'isUSHoliday',	'remake',	'totalActorsAwardsNo',	'trendsWeek1',	'trendsWeek2',	'trendsWeek3',	'trendsWeek4'
 		  ]
 train_labels = np.array(df_train[['IMDb_Rating']]).transpose()[0]
 
