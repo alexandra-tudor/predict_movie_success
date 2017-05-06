@@ -1,0 +1,294 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'2016'
+p4
+(lp5
+S'Hidden Figures'
+p6
+aS'La La Land'
+p7
+aS'Arrival'
+p8
+aS'Hacksaw Ridge'
+p9
+aS'Fences'
+p10
+aS'Lion'
+p11
+aS'Manchester by the Sea'
+p12
+aS'Moonlight (2016)'
+p13
+aS'Hell or High Water'
+p14
+asS'2002'
+p15
+(lp16
+S'The Lord of the Rings: The Two Towers'
+p17
+aS'Chicago'
+p18
+aS'Gangs of New York'
+p19
+aS'The Hours'
+p20
+aS'The Pianist'
+p21
+asS'2003'
+p22
+(lp23
+S'The Lord of the Rings: The Return of the King'
+p24
+aS'Seabiscuit'
+p25
+aS'Master and Commander: The Far Side of the World'
+p26
+aS'Mystic River'
+p27
+aS'Lost in Translation'
+p28
+asS'2000'
+p29
+(lp30
+S'Gladiator'
+p31
+aS'Crouching Tiger, Hidden Dragon'
+p32
+aS'Erin Brockovich'
+p33
+aS'Traffic'
+p34
+aS'Chocolat'
+p35
+asS'2001'
+p36
+(lp37
+S'The Lord of the Rings: The Fellowship of the Ring'
+p38
+aS'A Beautiful Mind'
+p39
+aS'Moulin Rouge!'
+p40
+aS'Gosford Park'
+p41
+aS'In the Bedroom'
+p42
+asS'2006'
+p43
+(lp44
+S'The Departed'
+p45
+aS'Little Miss Sunshine'
+p46
+aS'The Queen'
+p47
+aS'Babel'
+p48
+aS'Letters from Iwo Jima'
+p49
+asS'2007'
+p50
+(lp51
+S'Juno'
+p52
+aS'No Country for Old Men'
+p53
+aS'Atonement'
+p54
+aS'Michael Clayton'
+p55
+aS'There Will Be Blood'
+p56
+asS'2004'
+p57
+(lp58
+S'The Aviator'
+p59
+aS'Million Dollar Baby'
+p60
+aS'Ray'
+p61
+aS'Sideways'
+p62
+aS'Finding Neverland'
+p63
+asS'2005'
+p64
+(lp65
+S'Brokeback Mountain'
+p66
+aS'Crash'
+p67
+aS'Munich'
+p68
+aS'Good Night, and Good Luck.'
+p69
+aS'Capote'
+p70
+asS'2015'
+p71
+(lp72
+S'The Martian'
+p73
+aS'The Revenant'
+p74
+aS'Mad Max: Fury Road'
+p75
+aS'Bridge of Spies'
+p76
+aS'The Big Short'
+p77
+aS'Spotlight'
+p78
+aS'Brooklyn'
+p79
+aS'Room'
+p80
+asS'2014'
+p81
+(lp82
+S'American Sniper'
+p83
+aS'The Imitation Game'
+p84
+aS'The Grand Budapest Hotel'
+p85
+aS'Selma'
+p86
+aS'Birdman'
+p87
+aS'The Theory of Everything'
+p88
+aS'Boyhood'
+p89
+aS'Whiplash'
+p90
+asS'2008'
+p91
+(lp92
+S'Slumdog Millionaire'
+p93
+aS'The Curious Case of Benjamin Button'
+p94
+aS'The Reader'
+p95
+aS'Milk'
+p96
+aS'Frost/Nixon'
+p97
+asS'2009'
+p98
+(lp99
+S'Avatar'
+p100
+aS'Up'
+p101
+aS'The Blind Side'
+p102
+aS'Inglourious Basterds'
+p103
+aS'District 9'
+p104
+aS'Up in the Air'
+p105
+aS'Precious: Based on the Novel "Push" by Sapphire'
+p106
+aS'The Hurt Locker'
+p107
+aS'An Education'
+p108
+aS'A Serious Man'
+p109
+asS'2011'
+p110
+(lp111
+S'The Help'
+p112
+aS'The Descendants'
+p113
+aS'War Horse'
+p114
+aS'Moneyball'
+p115
+aS'Hugo'
+p116
+aS'Midnight in Paris'
+p117
+aS'The Artist'
+p118
+aS'Extremely Loud & Incredibly Close'
+p119
+aS'The Tree of Life'
+p120
+asS'2010'
+p121
+(lp122
+S'Toy Story 3'
+p123
+aS'Inception'
+p124
+aS'True Grit'
+p125
+aS"The King's Speech"
+p126
+aS'Black Swan'
+p127
+aS'The Social Network'
+p128
+aS'The Fighter'
+p129
+aS'The Kids Are All Right'
+p130
+aS'127 Hours'
+p131
+aS"Winter's Bone"
+p132
+asS'2013'
+p133
+(lp134
+S'Gravity'
+p135
+aS'American Hustle'
+p136
+aS'The Wolf of Wall Street'
+p137
+aS'Captain Phillips'
+p138
+aS'12 Years a Slave'
+p139
+aS'Philomena'
+p140
+aS'Dallas Buyers Club'
+p141
+aS'Her (2013)'
+p142
+aS'Nebraska'
+p143
+asS'2012'
+p144
+(lp145
+S'Lincoln'
+p146
+aS'Django Unchained'
+p147
+aS'Les Miserables (2012)'
+p148
+aS'Argo'
+p149
+aS'Silver Linings Playbook'
+p150
+aS'Life of Pi'
+p151
+aS'Zero Dark Thirty'
+p152
+aS'Beasts of the Southern Wild'
+p153
+aS'Amour'
+p154
+as.

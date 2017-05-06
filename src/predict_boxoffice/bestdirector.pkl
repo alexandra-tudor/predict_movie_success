@@ -1,0 +1,230 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'2016'
+p4
+(lp5
+S'Damien Chazelle'
+p6
+aS'Denis Villeneuve'
+p7
+aS'Mel Gibson'
+p8
+aS'Kenneth Lonergan'
+p9
+aS'Barry Jenkins'
+p10
+asS'2002'
+p11
+(lp12
+S'Rob Marshall'
+p13
+aS'Martin Scorsese'
+p14
+aS'Stephen Daldry'
+p15
+aS'Roman Polanski'
+p16
+aS'Pedro Almodvar'
+p17
+asS'2003'
+p18
+(lp19
+S'Peter Jackson'
+p20
+aS'Peter Weir'
+p21
+aS'Clint Eastwood'
+p22
+aS'Sofia Coppola'
+p23
+aS'Fernando Meirelles'
+p24
+asS'2000'
+p25
+(lp26
+S'Ridley Scott'
+p27
+aS'Ang Lee'
+p28
+aS'Steven Soderbergh'
+p29
+aS'Steven Soderbergh'
+p30
+aS'Stephen Daldry'
+p31
+asS'2001'
+p32
+(lp33
+S'Peter Jackson'
+p34
+aS'Ron Howard'
+p35
+aS'Ridley Scott'
+p36
+aS'Robert Altman'
+p37
+aS'David Lynch'
+p38
+asS'2006'
+p39
+(lp40
+S'Martin Scorsese'
+p41
+aS'Stephen Frears'
+p42
+aS'Alejandro Gonzalez Inarritu'
+p43
+aS'Paul Greengrass'
+p44
+aS'Clint Eastwood'
+p45
+asS'2007'
+p46
+(lp47
+S'Jason Reitman'
+p48
+aS'Joel Coen and Ethan Coen'
+p49
+aS'Tony Gilroy'
+p50
+aS'Paul Thomas Anderson'
+p51
+aS'Julian Schnabel'
+p52
+asS'2004'
+p53
+(lp54
+S'Martin Scorsese'
+p55
+aS'Clint Eastwood'
+p56
+aS'Taylor Hackford'
+p57
+aS'Alexander Payne'
+p58
+aS'Mike Leigh'
+p59
+asS'2005'
+p60
+(lp61
+S'Ang Lee'
+p62
+aS'Paul Haggis'
+p63
+aS'Steven Spielberg'
+p64
+aS'George Clooney'
+p65
+aS'Bennett Miller'
+p66
+asS'2015'
+p67
+(lp68
+S'Alejandro G. Inarritu'
+p69
+aS'George Miller'
+p70
+aS'Adam McKay'
+p71
+aS'Tom McCarthy'
+p72
+aS'Lenny Abrahamson'
+p73
+asS'2014'
+p74
+(lp75
+S'Morten Tyldum'
+p76
+aS'Wes Anderson'
+p77
+aS'Alejandro Gonzalez Inarritu'
+p78
+aS'Richard Linklater'
+p79
+aS'Bennett Miller'
+p80
+asS'2008'
+p81
+(lp82
+S'Danny Boyle'
+p83
+aS'David Fincher'
+p84
+aS'Stephen Daldry'
+p85
+aS'Gus Van Sant'
+p86
+aS'Ron Howard'
+p87
+asS'2009'
+p88
+(lp89
+S'James Cameron'
+p90
+aS'Quentin Tarantino'
+p91
+aS'Jason Reitman'
+p92
+aS'Lee Daniels'
+p93
+aS'Kathryn Bigelow'
+p94
+asS'2011'
+p95
+(lp96
+S'Alexander Payne'
+p97
+aS'Martin Scorsese'
+p98
+aS'Woody Allen'
+p99
+aS'Michel Hazanavicius'
+p100
+aS'Terrence Malick'
+p101
+asS'2010'
+p102
+(lp103
+S'Joel Coen & Ethan Coen'
+p104
+aS'Tom Hooper'
+p105
+aS'Darren Aronofsky'
+p106
+aS'David Fincher'
+p107
+aS'David O. Russell'
+p108
+asS'2013'
+p109
+(lp110
+S'Alfonso Cuaron'
+p111
+aS'David O. Russell'
+p112
+aS'Martin Scorsese'
+p113
+aS'Steve McQueen'
+p114
+aS'Alexander Payne'
+p115
+asS'2012'
+p116
+(lp117
+S'Steven Spielberg'
+p118
+aS'David O. Russell'
+p119
+aS'Ang Lee'
+p120
+aS'Benh Zeitlin'
+p121
+aS'Michael Haneke'
+p122
+as.

@@ -1,0 +1,230 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'2016'
+p4
+(lp5
+S'Ryan Gosling'
+p6
+aS'Andrew Garfield'
+p7
+aS'Denzel Washington'
+p8
+aS'Casey Affleck'
+p9
+aS'Viggo Mortensen'
+p10
+asS'2002'
+p11
+(lp12
+S'Daniel Day-Lewis'
+p13
+aS'Jack Nicholson'
+p14
+aS'Adrien Brody'
+p15
+aS'Nicholas Cage'
+p16
+aS'Michael Caine'
+p17
+asS'2003'
+p18
+(lp19
+S'Johnny Depp'
+p20
+aS'Jude Law'
+p21
+aS'Sean Penn'
+p22
+aS'Bill Murray'
+p23
+aS'Ben Kingsley'
+p24
+asS'2000'
+p25
+(lp26
+S'Tom Hanks'
+p27
+aS'Russell Crowe'
+p28
+aS'Ed Harris'
+p29
+aS'Geoffrey Rush'
+p30
+aS'Javier Bardem'
+p31
+asS'2001'
+p32
+(lp33
+S'Russell Crowe'
+p34
+aS'Denzel Washington'
+p35
+aS'Will Smith'
+p36
+aS'Sean Penn'
+p37
+aS'Tom Wilkinson'
+p38
+asS'2006'
+p39
+(lp40
+S'Will Smith'
+p41
+aS'Leonardo DiCaprio'
+p42
+aS'Forest Whitaker'
+p43
+aS"Peter O'Toole"
+p44
+aS'Ryan Gosling'
+p45
+asS'2007'
+p46
+(lp47
+S'Johnny Depp'
+p48
+aS'George Clooney'
+p49
+aS'Daniel Day-Lewis'
+p50
+aS'Viggo Mortensen'
+p51
+aS'Tommy Lee Jones'
+p52
+asS'2004'
+p53
+(lp54
+S'Leonardo DiCaprio'
+p55
+aS'Clint Eastwood'
+p56
+aS'Jamie Foxx'
+p57
+aS'Johnny Depp'
+p58
+aS'Don Cheadle'
+p59
+asS'2005'
+p60
+(lp61
+S'Joaquin Phoenix'
+p62
+aS'Heath Ledger'
+p63
+aS'David Strathairn'
+p64
+aS'Philip Seymour Hoffman'
+p65
+aS'Terrence Howard'
+p66
+asS'2015'
+p67
+(lp68
+S'Matt Damon'
+p69
+aS'Leonardo DiCaprio'
+p70
+aS'Michael Fassbender'
+p71
+aS'Eddie Redmayne'
+p72
+aS'Bryan Cranston'
+p73
+asS'2014'
+p74
+(lp75
+S'Bradley Cooper'
+p76
+aS'Benedict Cumberbatch'
+p77
+aS'Michael Keaton'
+p78
+aS'Eddie Redmayne'
+p79
+aS'Steve Carell'
+p80
+asS'2008'
+p81
+(lp82
+S'Brad Pitt'
+p83
+aS'Sean Penn'
+p84
+aS'Mickey Rourke'
+p85
+aS'Frank Langella'
+p86
+aS'Richard Jenkins'
+p87
+asS'2009'
+p88
+(lp89
+S'George Clooney'
+p90
+aS'Jeff Bridges'
+p91
+aS'Morgan Freeman'
+p92
+aS'Jeremy Renner'
+p93
+aS'Colin Firth'
+p94
+asS'2011'
+p95
+(lp96
+S'George Clooney'
+p97
+aS'Brad Pitt'
+p98
+aS'Jean Dujardin'
+p99
+aS'Gary Oldman'
+p100
+aS'Demian Bichir'
+p101
+asS'2010'
+p102
+(lp103
+S'Jeff Bridges'
+p104
+aS'Colin Firth'
+p105
+aS'Jesse Eisenberg'
+p106
+aS'James Franco'
+p107
+aS'Javier Bardem'
+p108
+asS'2013'
+p109
+(lp110
+S'Christian Bale'
+p111
+aS'Leonardo DiCaprio'
+p112
+aS'Chiwetel Ejiofor'
+p113
+aS'Matthew McConaughey'
+p114
+aS'Bruce Dern'
+p115
+asS'2012'
+p116
+(lp117
+S'Daniel Day-Lewis'
+p118
+aS'Hugh Jackman'
+p119
+aS'Bradley Cooper'
+p120
+aS'Denzel Washington'
+p121
+aS'Joaquin Phoenix'
+p122
+as.

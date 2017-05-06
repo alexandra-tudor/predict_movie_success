@@ -1,0 +1,230 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'2016'
+p4
+(lp5
+S'Emma Stone'
+p6
+aS'Meryl Streep'
+p7
+aS'Natalie Portman'
+p8
+aS'Ruth Negga'
+p9
+aS'Isabelle Huppert'
+p10
+asS'2002'
+p11
+(lp12
+S'Renee Zellweger'
+p13
+aS'Diane Lane'
+p14
+aS'Nichole Kidman'
+p15
+aS'Salma Heyek'
+p16
+aS'Julianne Moore'
+p17
+asS'2003'
+p18
+(lp19
+S'Diane Keaton'
+p20
+aS'Charlize Theron'
+p21
+aS'Keisha Castle-Hughes'
+p22
+aS'Naomi Watts'
+p23
+aS'Samantha Morton'
+p24
+asS'2000'
+p25
+(lp26
+S'Julia Roberts'
+p27
+aS'Juliette Binoche'
+p28
+aS'Joan Allen'
+p29
+aS'Laura Linney'
+p30
+aS'Ellen Burstyn'
+p31
+asS'2001'
+p32
+(lp33
+S'Renee Zellweger'
+p34
+aS'Nicole Kidman'
+p35
+aS'Sissy Spacek'
+p36
+aS'Halle Berry'
+p37
+aS'Judi Dench'
+p38
+asS'2006'
+p39
+(lp40
+S'Meryl Streep'
+p41
+aS'Helen Mirren'
+p42
+aS'Judi Dench'
+p43
+aS'Penelope Cruz'
+p44
+aS'Kate Winslet'
+p45
+asS'2007'
+p46
+(lp47
+S'Ellen Page'
+p48
+aS'Cate Blanchett'
+p49
+aS'Marion Cotillard'
+p50
+aS'Laura Linney'
+p51
+aS'Julie Christie'
+p52
+asS'2004'
+p53
+(lp54
+S'Hilary Swank'
+p55
+aS'Kate Winslet'
+p56
+aS'Annette Bening'
+p57
+aS'Catalina Sandino Moreno'
+p58
+aS'Imelda Staunton'
+p59
+asS'2005'
+p60
+(lp61
+S'Reese Witherspoon'
+p62
+aS'Keira Knightley'
+p63
+aS'Charlize Theron'
+p64
+aS'Judi Dench'
+p65
+aS'Felicity Huffman'
+p66
+asS'2015'
+p67
+(lp68
+S'Jennifer Lawrence'
+p69
+aS'Saoirse Ronan'
+p70
+aS'Brie Larson'
+p71
+aS'Cate Blanchett'
+p72
+aS'Charlotte Rampling'
+p73
+asS'2014'
+p74
+(lp75
+S'Rosamund Pike'
+p76
+aS'Reese Witherspoon'
+p77
+aS'Felicity Jones'
+p78
+aS'Julianne Moore'
+p79
+aS'Marion Cotillard'
+p80
+asS'2008'
+p81
+(lp82
+S'Angelina Jolie'
+p83
+aS'Kate Winslet'
+p84
+aS'Meryl Streep'
+p85
+aS'Anne Hathaway'
+p86
+aS'Melissa Leo'
+p87
+asS'2009'
+p88
+(lp89
+S'Sandra Bullock'
+p90
+aS'Meryl Streep'
+p91
+aS'Gabourey Sidibe'
+p92
+aS'Carey Mulligan'
+p93
+aS'Helen Mirren'
+p94
+asS'2011'
+p95
+(lp96
+S'Viola Davis'
+p97
+aS'Rooney Mara'
+p98
+aS'Meryl Streep'
+p99
+aS'Michelle Williams'
+p100
+aS'Glenn Close'
+p101
+asS'2010'
+p102
+(lp103
+S'Natalie Portman'
+p104
+aS'Annette Bening'
+p105
+aS'Michelle Williams'
+p106
+aS'Jennifer Lawrence'
+p107
+aS'Nicole Kidman'
+p108
+asS'2013'
+p109
+(lp110
+S'Sandra Bullock'
+p111
+aS'Amy Adams'
+p112
+aS'Meryl Streep'
+p113
+aS'Judi Dench'
+p114
+aS'Cate Blanchett'
+p115
+asS'2012'
+p116
+(lp117
+S'Jennifer Lawrence'
+p118
+aS'Jessica Chastain'
+p119
+aS'Naomi Watts'
+p120
+aS'Quvenzhane Wallis'
+p121
+aS'Emmanuelle Riva'
+p122
+as.

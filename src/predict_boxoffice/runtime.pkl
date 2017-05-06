@@ -1,0 +1,9383 @@
+(dp0
+VFreddy Vs. Jason
+p1
+(lp2
+V97
+p3
+asVVampires Suck
+p4
+(lp5
+V82
+p6
+asVYes Man
+p7
+(lp8
+V104
+p9
+asVLife of Pi
+p10
+(lp11
+V127
+p12
+asVThe Crazies
+p13
+(lp14
+V101
+p15
+asVCradle 2 the Grave
+p16
+(lp17
+V101
+p18
+asVNanny McPhee Returns
+p19
+(lp20
+V109
+p21
+asVThe Blind Side
+p22
+(lp23
+VUSA:129
+p24
+asVAlvin and the Chipmunks: The Squeakquel
+p25
+(lp26
+V88
+p27
+aVPortugal:89
+p28
+asVWe're the Millers
+p29
+(lp30
+V110
+p31
+aV118::(Extended Edition)
+p32
+asVNo Good Deed (2014)
+p33
+(lp34
+V84
+p35
+asVTitanic 3D
+p36
+S'N/A'
+p37
+sVDefinitely, Maybe
+p38
+(lp39
+V112
+p40
+asVDomestic Disturbance
+p41
+(lp42
+V89
+p43
+aVArgentina:90
+p44
+aVNetherlands:92
+p45
+aVSpain:91
+p46
+asVThe Muppets
+p47
+(lp48
+VUSA:103
+p49
+asVThe Benchwarmers
+p50
+(lp51
+V80
+p52
+aVPhilippines:75::(cut)
+p53
+asVThe Amityville Horror (2005)
+p54
+(lp55
+V90
+p56
+asVGuess Who
+p57
+(lp58
+V105
+p59
+asVRiding in Cars with Boys
+p60
+(lp61
+V132
+p62
+asVPaul
+p63
+(lp64
+V104
+p65
+aV109::(Unrated)
+p66
+asVLee Daniels' The Butler
+p67
+(lp68
+V132
+p69
+asVEvan Almighty
+p70
+(lp71
+V96
+p72
+asVJohn Carter
+p73
+(lp74
+V132
+p75
+asVGridiron Gang
+p76
+(lp77
+V125
+p78
+asV3:10 to Yuma (2007)
+p79
+(lp80
+V122
+p81
+asVThe Amazing Spider-Man
+p82
+(lp83
+V136
+p84
+aV153::(Extended Cut)
+p85
+asVBedtime Stories
+p86
+(lp87
+V99
+p88
+asVWar Dogs
+p89
+(lp90
+V114
+p91
+asVBrooklyn's Finest
+p92
+(lp93
+V132
+p94
+asVGosford Park
+p95
+(lp96
+V131
+p97
+asVThe Texas Chainsaw Massacre
+p98
+(lp99
+V83
+p100
+aVGermany:75::(new longer Version)
+p101
+aV88::(Unrated Edition)
+p102
+asVThe Hateful Eight
+p103
+(lp104
+V167::(general release version)
+p105
+aV187::(roadshow version)
+p106
+asVTwilight
+p107
+(lp108
+V122
+p109
+asVHow to Lose a Guy in 10 Days
+p110
+(lp111
+V116
+p112
+asVMan of Steel
+p113
+(lp114
+V143
+p115
+asVI Am Legend
+p116
+(lp117
+V101
+p118
+aV104::(Alternate ending)
+p119
+asVLegion (2010)
+p120
+(lp121
+V100
+p122
+asVPride and Prejudice
+p123
+(lp124
+V327::(6 parts)
+p125
+asVKnocked Up
+p126
+(lp127
+V129
+p128
+aV133::(unrated version)
+p129
+asVX-Men
+p130
+(lp131
+V104
+p132
+asVMaid in Manhattan
+p133
+(lp134
+V105
+p135
+asVThe Day After Tomorrow
+p136
+(lp137
+V124
+p138
+asVMy Big Fat Greek Wedding 2
+p139
+(lp140
+V94
+p141
+asVMarch of the Penguins
+p142
+(lp143
+V80
+p144
+asVGood Boy!
+p145
+(lp146
+VUSA:87
+p147
+aVArgentina:88
+p148
+asVLittle Fockers
+p149
+(lp150
+V98
+p151
+asVCaptain America: The First Avenger
+p152
+(lp153
+V124
+p154
+asVAlexander and the Terrible, Horrible, No Good, Very Bad Day
+p155
+(lp156
+V81
+p157
+asVSyriana
+p158
+(lp159
+V128
+p160
+asVAgent Cody Banks
+p161
+(lp162
+V102
+p163
+asVThis is the End
+p164
+(lp165
+V107
+p166
+asVInferno
+p167
+(lp168
+V121
+p169
+asVEpic
+p170
+(lp171
+V102
+p172
+asVJumper
+p173
+(lp174
+V88
+p175
+asVJuno
+p176
+(lp177
+V96
+p178
+asVBrother Bear
+p179
+(lp180
+V85
+p181
+asVThe Wedding Planner
+p182
+(lp183
+V103
+p184
+asV28 Days
+p185
+(lp186
+V103
+p187
+asVKillers
+p188
+(lp189
+V100
+p190
+asVGlory Road
+p191
+(lp192
+V118
+p193
+asVHearts in Atlantis
+p194
+(lp195
+V101
+p196
+asVAnacondas: The Hunt for the Blood Orchid
+p197
+(lp198
+V97
+p199
+asVStep Up 2 the Streets
+p200
+(lp201
+V98
+p202
+asVOculus
+p203
+(lp204
+V104
+p205
+asVThat Awkward Moment
+p206
+(lp207
+V94
+p208
+asVThe Heat
+p209
+(lp210
+V117
+p211
+aV123::(Unrated Edition)
+p212
+asVThe Campaign
+p213
+(lp214
+V85
+p215
+asVReindeer Games
+p216
+(lp217
+V104
+p218
+aV124::(director's cut)
+p219
+asV16 Blocks
+p220
+(lp221
+V102
+p222
+aVPhilippines:110
+p223
+asVHow to Train Your Dragon 2
+p224
+(lp225
+V102
+p226
+asVIron Man 2
+p227
+(lp228
+V124
+p229
+asVIron Man 3
+p230
+(lp231
+V130
+p232
+aV195::(assembly cut)
+p233
+asVThe Lone Ranger
+p234
+(lp235
+V150
+p236
+asVToy Story 3
+p237
+(lp238
+V103
+p239
+asVBruno
+p240
+(lp241
+V81
+p242
+aVPhilippines:75
+p243
+asVTyler Perry's Madea's Big Happy Family
+p244
+(lp245
+V106
+p246
+asVFahrenheit 9/11
+p247
+(lp248
+V122
+p249
+asVThe Perfect Guy
+p250
+(lp251
+V100
+p252
+asVThe LEGO Movie
+p253
+(lp254
+V100
+p255
+asVThe Hangover Part II
+p256
+(lp257
+V102
+p258
+asVEarth to Echo
+p259
+(lp260
+V91
+p261
+asVGod's Not Dead
+p262
+(lp263
+VUSA:113
+p264
+asVTyler Perry's I Can Do Bad All By Myself
+p265
+(lp266
+VUSA:113
+p267
+asVSex and the City 2
+p268
+(lp269
+V146
+p270
+asVThe Twilight Saga: Eclipse
+p271
+(lp272
+V124
+p273
+aV131::(extended version)
+p274
+asVJohn Q.
+p275
+(lp276
+V116
+p277
+asVCrouching Tiger, Hidden Dragon
+p278
+(lp279
+V120
+p280
+asVJupiter Ascending
+p281
+(lp282
+V127
+p283
+asVAli
+p284
+(lp285
+V157
+p286
+aVUSA:165::(director's cut)
+p287
+asVSicario
+p288
+(lp289
+V121
+p290
+asVClockstoppers
+p291
+(lp292
+V94
+p293
+asVIron Man
+p294
+(lp295
+V126
+p296
+asVSinister 2
+p297
+(lp298
+V97
+p299
+asVMichael Clayton
+p300
+(lp301
+V119
+p302
+asVJersey Girl
+p303
+(lp304
+V102
+p305
+asVThe Brothers
+p306
+(lp307
+V106
+p308
+asVHotel Rwanda
+p309
+(lp310
+V121
+p311
+asVRise of the Planet of the Apes
+p312
+(lp313
+V105
+p314
+asVRush (2013)
+p315
+(lp316
+V123
+p317
+asVHero
+p318
+(lp319
+V99
+p320
+aVChina:107::(extended version)
+p321
+aVChina:93
+p322
+aVTurkey:89::(TV version)
+p323
+aV80::(unapproved cut) (USA)
+p324
+asVBride Wars
+p325
+(lp326
+V89
+p327
+asVBlades of Glory
+p328
+(lp329
+VUSA:93
+p330
+asVThe Woman in Black 2: Angel of Death
+p331
+(lp332
+V98
+p333
+asVScream 4
+p334
+(lp335
+V111
+p336
+asVThe Forbidden Kingdom
+p337
+(lp338
+V104
+p339
+asVG.I. Joe: The Rise of Cobra
+p340
+(lp341
+V118
+p342
+asVFlorence Foster Jenkins
+p343
+(lp344
+V111
+p345
+asVDreamgirls
+p346
+(lp347
+V130
+p348
+asVChronicle (2012)
+p349
+(lp350
+VUSA:84
+p351
+aVUSA:89::(director's cut)
+p352
+asVNick and Norah's Infinite Playlist
+p353
+(lp354
+VCanada:90::(Toronto International Film Festival)
+p355
+aVUSA:90
+p356
+asVThe Texas Chainsaw Massacre: The Beginning
+p357
+(lp358
+V91
+p359
+aVUSA:96::(unrated version)
+p360
+aVGermany:83::(cut)
+p361
+asVThis Christmas
+p362
+(lp363
+VUSA:117
+p364
+asVGangs of New York
+p365
+(lp366
+V167
+p367
+asVScooby-Doo 2: Monsters Unleashed
+p368
+(lp369
+V93
+p370
+asVA Haunted House
+p371
+(lp372
+V86
+p373
+asVThe DUFF
+p374
+(lp375
+V101
+p376
+asVMona Lisa Smile
+p377
+(lp378
+V117
+p379
+asVStar Wars: Episode I - The Phantom Menace (in 3D)
+p380
+(lp381
+V136
+p382
+asVTransporter 3
+p383
+(lp384
+V104
+p385
+asVTransporter 2
+p386
+(lp387
+V87
+p388
+asVWhat's the Worst That Could Happen?
+p389
+(lp390
+V94
+p391
+asVThe Back-Up Plan
+p392
+(lp393
+V104
+p394
+asVReign of Fire
+p395
+(lp396
+V101
+p397
+asVMcFarland, USA
+p398
+(lp399
+V129
+p400
+asVWonder Boys
+p401
+(lp402
+V107
+p403
+asVTaken 3
+p404
+(lp405
+V109
+p406
+aV115::(Unrated Edition)
+p407
+asVG.I. Joe: Retaliation
+p408
+(lp409
+V110
+p410
+aV122::(extended cut)
+p411
+asVThe Last Witch Hunter
+p412
+(lp413
+V106
+p414
+asVHot Pursuit
+p415
+(lp416
+V87
+p417
+asVBarbershop
+p418
+(lp419
+V102
+p420
+asVPlanes
+p421
+(lp422
+V91
+p423
+asV22 Jump Street
+p424
+(lp425
+V112
+p426
+asVIdentity Thief
+p427
+(lp428
+V111
+p429
+aV121::(unrated version)
+p430
+aV120::(unrated version)
+p431
+asVHigh Crimes
+p432
+(lp433
+V115
+p434
+asVUnbreakable
+p435
+(lp436
+V106
+p437
+asVRise of the Guardians
+p438
+(lp439
+V97
+p440
+asVMission to Mars
+p441
+(lp442
+V114
+p443
+asVIn Her Shoes
+p444
+(lp445
+V130
+p446
+asVDraft Day
+p447
+(lp448
+V110
+p449
+asVBandits
+p450
+(lp451
+V123
+p452
+asVTaking Lives
+p453
+(lp454
+V103
+p455
+aVUSA:109::(unrated version)
+p456
+asVThe Mortal Instruments: City of Bones
+p457
+(lp458
+V130
+p459
+asVThe Tuxedo
+p460
+(lp461
+V98
+p462
+asVGothika
+p463
+(lp464
+V98
+p465
+asVMatchstick Men
+p466
+(lp467
+V116
+p468
+aVCanada:120::(Toronto International Film Festival)
+p469
+asVJack Reacher
+p470
+(lp471
+V130
+p472
+asVThe Grudge 2
+p473
+(lp474
+V102
+p475
+aV108::(Unrated Director's Cut)
+p476
+aV137::(Unrated Director's Cut)
+p477
+asVRed Tails
+p478
+(lp479
+VUSA:125
+p480
+asVThe Martian
+p481
+(lp482
+V144
+p483
+aV151::(extended cut)
+p484
+asVMission: Impossible - Ghost Protocol
+p485
+(lp486
+V133
+p487
+asVV for Vendetta
+p488
+(lp489
+V132
+p490
+asVBurlesque
+p491
+(lp492
+V119
+p493
+asVX-Men: Days of Future Past
+p494
+(lp495
+V132
+p496
+aV151::(The Rogue Cut)
+p497
+asVThe Proposal
+p498
+(lp499
+V108
+p500
+asVAlexander
+p501
+(lp502
+V175
+p503
+aV167::(director's cut)
+p504
+aV214::(final cut)
+p505
+aV206::(Ultimate Cut)
+p506
+asVThe Polar Express
+p507
+(lp508
+V100
+p509
+asVRugrats in Paris: The Movie
+p510
+(lp511
+V78
+p512
+asVRemember the Titans
+p513
+(lp514
+V113
+p515
+aVUSA:120::(Director's Cut DVD)
+p516
+asVCharlie Wilson's War
+p517
+(lp518
+V102
+p519
+asVAll About Steve
+p520
+(lp521
+V99
+p522
+asVWrath of the Titans
+p523
+g37
+sVFrequency
+p524
+(lp525
+V42
+p526
+asVThe Interpreter
+p527
+(lp528
+V128
+p529
+asVWhite House Down
+p530
+(lp531
+V131
+p532
+asVBridget Jones's Diary
+p533
+(lp534
+V97
+p535
+asVCheaper by the Dozen
+p536
+(lp537
+V98
+p538
+aVGermany:94::(DVD version)
+p539
+asVBoys and Girls
+p540
+(lp541
+V94
+p542
+asVThe Golden Compass
+p543
+(lp544
+V113
+p545
+asVChicago
+p546
+(lp547
+V113
+p548
+asVThe Number 23
+p549
+(lp550
+V101
+p551
+aV98::(cut)
+p552
+asVWedding Crashers
+p553
+(lp554
+V119
+p555
+aV128::(unrated version)
+p556
+asVNurse Betty
+p557
+(lp558
+V110
+p559
+asVUnbroken
+p560
+(lp561
+V137
+p562
+asV21 Jump Street
+p563
+(lp564
+V110
+p565
+asVFlight
+p566
+(lp567
+V138
+p568
+asVUnited 93
+p569
+(lp570
+V111
+p571
+asVCop Out
+p572
+(lp573
+V107
+p574
+asVThe Accountant
+p575
+(lp576
+V128
+p577
+asVTransformers: Dark of the Moon
+p578
+(lp579
+V154
+p580
+asVFever Pitch
+p581
+(lp582
+V104
+p583
+asVFrozen
+p584
+(lp585
+V102
+p586
+asVShooter
+p587
+(lp588
+V60
+p589
+asVResident Evil: Apocalypse
+p590
+(lp591
+V94
+p592
+aV98::(extended version)
+p593
+asVLucy
+p594
+(lp595
+V89
+p596
+asVDracula 2000
+p597
+(lp598
+V99
+p599
+asVZodiac
+p600
+(lp601
+V157
+p602
+aV162::(director's cut)
+p603
+asVA Million Ways to Die in the West
+p604
+(lp605
+V116
+p606
+aV136::(Unrated)
+p607
+asVNext Friday
+p608
+(lp609
+V98
+p610
+asVThe Road to El Dorado
+p611
+(lp612
+V89
+p613
+asVThe Chronicles of Narnia: Prince Caspian
+p614
+(lp615
+V150
+p616
+asVMax (2015)
+p617
+(lp618
+V111
+p619
+asVIn Time
+p620
+(lp621
+V109
+p622
+asVThe Tigger Movie
+p623
+(lp624
+V77
+p625
+asVMaze Runner: The Scorch Trials
+p626
+(lp627
+V131
+p628
+asVTwisted
+p629
+(lp630
+V60
+p631
+asVThe Chronicles of Riddick
+p632
+(lp633
+V119
+p634
+aVUSA:134::(director's cut)
+p635
+asVSnow White and the Huntsman
+p636
+(lp637
+V127
+p638
+aV132::(Extended Version)
+p639
+asVJack Ryan: Shadow Recruit
+p640
+(lp641
+V105
+p642
+asVThe New Guy
+p643
+(lp644
+V88
+p645
+aV92::(director's cut)
+p646
+asVDumb and Dumber To
+p647
+(lp648
+V109
+p649
+asVBalls of Fury
+p650
+(lp651
+V90
+p652
+asVSnitch
+p653
+(lp654
+V112
+p655
+asVThe Manchurian Candidate
+p656
+(lp657
+V129
+p658
+asVThe Island
+p659
+(lp660
+V136
+p661
+asVWhen in Rome
+p662
+(lp663
+V91
+p664
+asVWhat Happens in Vegas
+p665
+(lp666
+V99
+p667
+aV101::(extended edition)
+p668
+asVExorcist: The Beginning
+p669
+(lp670
+V114
+p671
+aV125::(Unrated Version)
+p672
+asVWhere the Heart Is
+p673
+(lp674
+V120
+p675
+asVBarbershop 2: Back in Business
+p676
+(lp677
+V106
+p678
+asVMillion Dollar Baby
+p679
+(lp680
+V132
+p681
+asVFirst Sunday
+p682
+(lp683
+VUSA:96
+p684
+asVFrom Hell
+p685
+(lp686
+V122
+p687
+asVAloha
+p688
+(lp689
+V105
+p690
+asVBecause of Winn-Dixie
+p691
+(lp692
+V106
+p693
+asVFriday After Next
+p694
+(lp695
+V85
+p696
+asVFinal Fantasy: The Spirits Within
+p697
+(lp698
+V106
+p699
+asVSnakes on a Plane
+p700
+(lp701
+V105
+p702
+asVUnderdog
+p703
+(lp704
+VUSA:84
+p705
+asVRio
+p706
+(lp707
+V96
+p708
+asVFun with Dick and Jane
+p709
+(lp710
+V90
+p711
+asVDeep Sea 3D (IMAX)
+p712
+g37
+sVHome on the Range
+p713
+(lp714
+V76
+p715
+asVThe Stepfather (2009)
+p716
+(lp717
+V101
+p718
+asVHannah Montana The Movie
+p719
+(lp720
+V102
+p721
+asVShrek Forever After
+p722
+(lp723
+V93
+p724
+asVA History of Violence
+p725
+(lp726
+V96
+p727
+asVA Beautiful Mind
+p728
+(lp729
+V135
+p730
+asVThe Mummy: Tomb of the Dragon Emperor
+p731
+(lp732
+V112
+p733
+asVPercy Jackson: Sea of Monsters
+p734
+(lp735
+V106
+p736
+asVGrown Ups
+p737
+(lp738
+V102
+p739
+asVSnow Dogs
+p740
+(lp741
+V99
+p742
+asVThe Fourth Kind
+p743
+(lp744
+V98
+p745
+asVMarley and Me
+p746
+(lp747
+VUSA:115
+p748
+asVPirates of the Caribbean: Dead Man's Chest
+p749
+(lp750
+V151
+p751
+asVTMNT
+p752
+(lp753
+V87
+p754
+asVInsomnia
+p755
+(lp756
+V118
+p757
+asVI Am Number Four
+p758
+(lp759
+V109
+p760
+asVThe Game Plan
+p761
+(lp762
+V110
+p763
+asVThe Eye
+p764
+(lp765
+V98
+p766
+aVTurkey:92::(DVD version)
+p767
+asVThe Lord of the Rings: The Two Towers
+p768
+(lp769
+V179
+p770
+aV235::(Blu Ray Extended Edition)
+p771
+aV223::(Special DVD Extended Edition)
+p772
+aV172::(DVD Widescreen Edition)
+p773
+asVThe Hangover Part III
+p774
+(lp775
+V100
+p776
+asVOblivion
+p777
+(lp778
+V124
+p779
+asVShe's Out of My League
+p780
+(lp781
+VUSA:104
+p782
+asVSeven Pounds
+p783
+(lp784
+V123
+p785
+asVUptown Girls
+p786
+(lp787
+V92
+p788
+asVThe Wild
+p789
+(lp790
+V117
+p791
+asVReal Steel
+p792
+(lp793
+V127
+p794
+asVMen in Black II
+p795
+(lp796
+V88
+p797
+asVThink Like a Man Too
+p798
+(lp799
+V106
+p800
+asVCloser
+p801
+(lp802
+V104
+p803
+aVTurkey:98::(TV version)
+p804
+asVInto The Storm
+p805
+(lp806
+V89
+p807
+asVBee Movie
+p808
+(lp809
+V91
+p810
+asVMe Before You
+p811
+(lp812
+V106
+p813
+asVKick-Ass
+p814
+(lp815
+V117
+p816
+asVJackass 3-D
+p817
+(lp818
+V95
+p819
+aVUSA:94
+p820
+aV101::(unrated version)
+p821
+asVThe Whole Nine Yards
+p822
+(lp823
+V98
+p824
+asVThe Bourne Supremacy
+p825
+(lp826
+V108
+p827
+asVMagic Mike XXL
+p828
+(lp829
+V115
+p830
+asVThe Unborn (2009)
+p831
+(lp832
+V88
+p833
+aV89::(unrated version)
+p834
+asVSkyfall
+p835
+(lp836
+V143
+p837
+asVBlack Knight
+p838
+(lp839
+V95
+p840
+asVHouse at the End of The Street
+p841
+(lp842
+V101
+p843
+asVPoseidon
+p844
+(lp845
+V98
+p846
+asVRighteous Kill
+p847
+(lp848
+V101
+p849
+asVIn Good Company
+p850
+(lp851
+VUSA:109
+p852
+asVJustin Bieber: Never Say Never
+p853
+(lp854
+VUSA:105
+p855
+aVUSA:115::(Director's Fan Cut)
+p856
+asVBehind Enemy Lines
+p857
+(lp858
+V106
+p859
+asVJourney 2: The Mysterious Island
+p860
+(lp861
+V94
+p862
+asVSpy Kids: All the Time in the World
+p863
+(lp864
+VUSA:89
+p865
+asVTomorrowland
+p866
+(lp867
+V130
+p868
+asVSpy Kids
+p869
+(lp870
+V88
+p871
+asVThe Witch
+p872
+(lp873
+V92
+p874
+asVMadagascar
+p875
+(lp876
+V86
+p877
+asVThe Imitation Game
+p878
+(lp879
+V114
+p880
+asVFinding Dory
+p881
+(lp882
+V97
+p883
+asVUnfriended
+p884
+(lp885
+V83
+p886
+asVCaptain America: Civil War
+p887
+(lp888
+V147
+p889
+asVVacation
+p890
+(lp891
+V99
+p892
+asVNinja Assassin
+p893
+(lp894
+V99
+p895
+asVCharlie's Angels
+p896
+(lp897
+V98
+p898
+aVPortugal:94::(cut version)
+p899
+asVInglourious Basterds
+p900
+(lp901
+V153
+p902
+asVThe Devil Wears Prada
+p903
+(lp904
+V109
+p905
+asVThe Adjustment Bureau
+p906
+(lp907
+V106
+p908
+asVBedazzled (2000)
+p909
+(lp910
+V93
+p911
+asVAlice Through the Looking Glass
+p912
+(lp913
+V113
+p914
+asVCaptain Corelli's Mandolin
+p915
+(lp916
+V131
+p917
+asVBlue Jasmine
+p918
+(lp919
+V98
+p920
+asVSurf's Up
+p921
+(lp922
+V85
+p923
+asVAmelie
+p924
+(lp925
+V122
+p926
+asVThe Heartbreak Kid
+p927
+(lp928
+V116
+p929
+asVCrossroads
+p930
+(lp931
+V93
+p932
+asVFour Christmases
+p933
+(lp934
+V88
+p935
+asVLost in Translation
+p936
+(lp937
+V102
+p938
+asVAlong Came Polly
+p939
+(lp940
+V90
+p941
+asVThe Aviator
+p942
+(lp943
+V170
+p944
+asVGrudge Match
+p945
+(lp946
+V113
+p947
+asVRed Eye
+p948
+(lp949
+V85
+p950
+asVThe Nice Guys
+p951
+(lp952
+V116
+p953
+asVBounce
+p954
+(lp955
+V60::(including commercials)
+p956
+asVCheaper by the Dozen 2
+p957
+(lp958
+V94
+p959
+asVSaw III
+p960
+(lp961
+V108
+p962
+aV114::(unrated version)
+p963
+aV121::(director's cut)
+p964
+asVDelivery Man
+p965
+(lp966
+V105
+p967
+asVBarbershop: The Next Cut
+p968
+(lp969
+V111
+p970
+asVThe Divergent Series: Allegiant
+p971
+(lp972
+V120
+p973
+asVLakeview Terrace
+p974
+(lp975
+V110
+p976
+asVWindtalkers
+p977
+(lp978
+V134
+p979
+aVArgentina:132
+p980
+aVUSA:153::(director's cut)
+p981
+asVParanormal Activity 4
+p982
+(lp983
+V88
+p984
+aV96::(unrated version)
+p985
+asVHow High
+p986
+(lp987
+V93
+p988
+aVArgentina:95
+p989
+aVSpain:95
+p990
+asVThe Incredible Hulk
+p991
+(lp992
+V112
+p993
+aV135::(director's cut)
+p994
+asVDolphin Tale 2
+p995
+(lp996
+V107
+p997
+asVIn the Bedroom
+p998
+(lp999
+V130
+p1000
+aVUSA:138::(Sundance Film Festival)
+p1001
+asVLicense to Wed
+p1002
+(lp1003
+V91
+p1004
+asVThe Informant!
+p1005
+(lp1006
+V108
+p1007
+asVBeauty and the Beast (IMAX)
+p1008
+(lp1009
+V129
+p1010
+asVThe Hundred-Foot Journey
+p1011
+(lp1012
+V122
+p1013
+asVKnight & Day
+p1014
+(lp1015
+V109
+p1016
+aV117::(Extended Edition)
+p1017
+asVDinner for Schmucks
+p1018
+(lp1019
+V114
+p1020
+asVThe Lincoln Lawyer
+p1021
+(lp1022
+V118
+p1023
+asVWhat Women Want
+p1024
+(lp1025
+V127
+p1026
+asVThe Mothman Prophecies
+p1027
+(lp1028
+V119
+p1029
+aVTaiwan:128
+p1030
+asVParanormal Activity 3
+p1031
+(lp1032
+V83
+p1033
+aV94::(unrated director's cut)
+p1034
+asVParanormal Activity 2
+p1035
+(lp1036
+V91
+p1037
+aV98::(unrated director's cut)
+p1038
+asVShanghai Noon
+p1039
+(lp1040
+V110
+p1041
+asVCharlie St. Cloud
+p1042
+(lp1043
+VUSA:99
+p1044
+asVHow to Be Single
+p1045
+(lp1046
+V110
+p1047
+asVThe Girl with the Dragon Tattoo (2011)
+p1048
+(lp1049
+V158
+p1050
+asVDouble Take
+p1051
+(lp1052
+V88
+p1053
+aVUK:84
+p1054
+aVArgentina:91
+p1055
+asVThe Terminal
+p1056
+(lp1057
+V128
+p1058
+asVZathura
+p1059
+(lp1060
+V101
+p1061
+asVTyler Perry's The Family That Preys
+p1062
+(lp1063
+VUSA:111
+p1064
+asVWe Own the Night
+p1065
+(lp1066
+V117
+p1067
+asVBasic
+p1068
+(lp1069
+V98
+p1070
+asVBaby Boy
+p1071
+(lp1072
+V130
+p1073
+asVApocalypto
+p1074
+(lp1075
+V139
+p1076
+asVEdge of Darkness
+p1077
+(lp1078
+V117
+p1079
+asVFences
+p1080
+(lp1081
+V139
+p1082
+asVThe Princess and the Frog
+p1083
+(lp1084
+V97
+p1085
+asVPlanet of the Apes (2001)
+p1086
+(lp1087
+V119
+p1088
+asVDon't Say a Word
+p1089
+(lp1090
+V113
+p1091
+asVDr. Dolittle 2
+p1092
+(lp1093
+V87
+p1094
+asVLove and Other Drugs
+p1095
+(lp1096
+V112
+p1097
+asVThe Reaping
+p1098
+(lp1099
+V99
+p1100
+asVAnnabelle
+p1101
+(lp1102
+V99
+p1103
+asVThe Hunger Games: Catching Fire
+p1104
+(lp1105
+V146
+p1106
+asVAccepted
+p1107
+(lp1108
+V93
+p1109
+asVThe Fast and the Furious: Tokyo Drift
+p1110
+(lp1111
+V104
+p1112
+asVLike Mike
+p1113
+(lp1114
+V99
+p1115
+asVThe Twilight Saga: New Moon
+p1116
+(lp1117
+V130
+p1118
+asVDown to Earth
+p1119
+(lp1120
+V87
+p1121
+asVTaken 2
+p1122
+(lp1123
+V92
+p1124
+aV98::(Extended Version)
+p1125
+asVMamma Mia!
+p1126
+(lp1127
+V108
+p1128
+asVThe Ugly Truth
+p1129
+(lp1130
+V96
+p1131
+asVThe Perfect Storm
+p1132
+(lp1133
+V130
+p1134
+asVMonster's Ball
+p1135
+(lp1136
+V111
+p1137
+aVUSA:112::(unrated director's cut)
+p1138
+asVThe Phantom of the Opera
+p1139
+(lp1140
+V143
+p1141
+asVLara Croft Tomb Raider: The Cradle of Life
+p1142
+(lp1143
+V117
+p1144
+asVNerve
+p1145
+(lp1146
+V96
+p1147
+asVMan on Fire
+p1148
+(lp1149
+V146
+p1150
+asVThe Artist
+p1151
+(lp1152
+V100
+p1153
+asV13 Hours: The Secret Soldiers of Benghazi
+p1154
+(lp1155
+V144
+p1156
+asV102 Dalmatians
+p1157
+(lp1158
+V100
+p1159
+asVThe Fighter
+p1160
+(lp1161
+V116
+p1162
+asVValentine
+p1163
+(lp1164
+V96
+p1165
+asVThe Longest Ride
+p1166
+(lp1167
+V123
+p1168
+asVConstantine
+p1169
+(lp1170
+V121
+p1171
+asVBody of Lies
+p1172
+(lp1173
+V128
+p1174
+asVTerminator: Genisys
+p1175
+(lp1176
+V126
+p1177
+asVA Very Harold & Kumar 3D Christmas
+p1178
+(lp1179
+V90
+p1180
+asVOne Direction: This is Us
+p1181
+(lp1182
+V92
+p1183
+aVUSA:106::(extended version)
+p1184
+asVSafe House
+p1185
+(lp1186
+V115
+p1187
+asVBridesmaids
+p1188
+(lp1189
+V125
+p1190
+aV131::(unrated version)
+p1191
+asVDrillbit Taylor
+p1192
+(lp1193
+V110
+p1194
+aV102::(original version)
+p1195
+asVJoy Ride
+p1196
+(lp1197
+V97
+p1198
+asVDeath at a Funeral (2010)
+p1199
+(lp1200
+V92
+p1201
+asVHercules (2014)
+p1202
+(lp1203
+V98
+p1204
+aV101::(extended cut)
+p1205
+asVFinding Neverland
+p1206
+(lp1207
+V106
+p1208
+aVUSA:101::(DVD) (Encore print)
+p1209
+asVSex Tape
+p1210
+(lp1211
+V94
+p1212
+asVBig Momma's House
+p1213
+(lp1214
+V99
+p1215
+asVThe Purge
+p1216
+(lp1217
+V85
+p1218
+asVPearl Harbor
+p1219
+(lp1220
+V183
+p1221
+aVUSA:184::(director's cut)
+p1222
+asVSuperbad
+p1223
+(lp1224
+V113
+p1225
+aV119::(unrated version)
+p1226
+asVRatatouille
+p1227
+(lp1228
+V111
+p1229
+asVSinister
+p1230
+(lp1231
+V110
+p1232
+asVHall Pass
+p1233
+(lp1234
+V105
+p1235
+aV111::(extended cut)
+p1236
+asVCrazy, Stupid, Love.
+p1237
+(lp1238
+VUSA:118
+p1239
+asVSomeone Like You
+p1240
+(lp1241
+V97
+p1242
+asVMirrors
+p1243
+(lp1244
+V110
+p1245
+aV112::(unrated version)
+p1246
+asVRoboCop (2014)
+p1247
+(lp1248
+V117
+p1249
+asVStarsky and Hutch
+p1250
+(lp1251
+V60::(88 episodes)
+p1252
+asV2016 Obama's America
+p1253
+(lp1254
+V87
+p1255
+asVCatch Me If You Can
+p1256
+(lp1257
+V141
+p1258
+asVSuperman Returns
+p1259
+(lp1260
+V154
+p1261
+aVUSA:169::(Extended Cut)
+p1262
+asVMirror Mirror
+p1263
+(lp1264
+V106
+p1265
+asVLes Miserables (2012)
+p1266
+(lp1267
+V158
+p1268
+asV47 Ronin
+p1269
+(lp1270
+V119::(International Cut)
+p1271
+aV128::(Extended Edition)
+p1272
+asVBrokeback Mountain
+p1273
+(lp1274
+V134
+p1275
+asVIndiana Jones and the Kingdom of the Crystal Skull
+p1276
+(lp1277
+V122
+p1278
+asVNo Reservations
+p1279
+(lp1280
+V104
+p1281
+asVWhy Him?
+p1282
+(lp1283
+V111
+p1284
+asVTotal Recall (2012)
+p1285
+(lp1286
+V118
+p1287
+aV130::(extended director's cut)
+p1288
+asVMonster
+p1289
+(lp1290
+V109
+p1291
+asVPhone Booth
+p1292
+(lp1293
+V81
+p1294
+asVOver the Hedge
+p1295
+(lp1296
+V83
+p1297
+asVThe Purge: Election Year
+p1298
+(lp1299
+V109::(theatrical version)
+p1300
+asVTrolls
+p1301
+(lp1302
+V92
+p1303
+asVDisney's The Kid
+p1304
+(lp1305
+V104
+p1306
+asVDark Shadows
+p1307
+(lp1308
+V113
+p1309
+asVGrindhouse
+p1310
+(lp1311
+V191
+p1312
+aVCanada:189::(Ontario)
+p1313
+asVShanghai Knights
+p1314
+(lp1315
+V114
+p1316
+asVCinderella (2015)
+p1317
+(lp1318
+V105
+p1319
+aVTaiwan:114
+p1320
+asVPeter Pan
+p1321
+(lp1322
+V111
+p1323
+asVThe Great Debaters
+p1324
+(lp1325
+V126
+p1326
+asVGet Hard
+p1327
+(lp1328
+V100
+p1329
+aV107::(unrated version)
+p1330
+asVTyler Perry's Diary of a Mad Black Woman
+p1331
+(lp1332
+VUSA:116
+p1333
+asVThe Cell
+p1334
+(lp1335
+V107
+p1336
+aVGermany:109::(director's cut)
+p1337
+asVWarm Bodies
+p1338
+(lp1339
+V98
+p1340
+asVGhostbusters (2016)
+p1341
+(lp1342
+V116
+p1343
+aV134::(Extended Edition)
+p1344
+asV3 Days to Kill
+p1345
+(lp1346
+V117
+p1347
+aVTaiwan:101
+p1348
+aV123::(Extended Edition)
+p1349
+asVSmokin' Aces
+p1350
+(lp1351
+V109
+p1352
+aVUSA:108
+p1353
+asVEnemy at the Gates
+p1354
+(lp1355
+V131
+p1356
+asVLilo & Stitch
+p1357
+(lp1358
+V85
+p1359
+asVMeet the Spartans
+p1360
+(lp1361
+VArgentina:86
+p1362
+aVUK:84
+p1363
+aV86::(unrated version)
+p1364
+asVWelcome Home Roscoe Jenkins
+p1365
+(lp1366
+VUSA:114
+p1367
+aVArgentina:114
+p1368
+asVThe Life Aquatic with Steve Zissou
+p1369
+(lp1370
+V119
+p1371
+asVJ. Edgar
+p1372
+(lp1373
+V137
+p1374
+asVBolt
+p1375
+(lp1376
+V96
+p1377
+asVHell or High Water
+p1378
+(lp1379
+V102
+p1380
+asVWar Horse
+p1381
+(lp1382
+V146
+p1383
+asVThe Hot Chick
+p1384
+(lp1385
+V104
+p1386
+aVGermany:100::(DVD version)
+p1387
+aVPortugal:93
+p1388
+asVErin Brockovich
+p1389
+(lp1390
+V131
+p1391
+asVConfessions of a Shopaholic
+p1392
+(lp1393
+V104
+p1394
+asVHannibal
+p1395
+(lp1396
+V44
+p1397
+asVInsidious Chapter 3
+p1398
+(lp1399
+V77
+p1400
+asVInsidious Chapter 2
+p1401
+(lp1402
+V69
+p1403
+asVHer (2013)
+p1404
+(lp1405
+V126
+p1406
+asVThe Last Exorcism
+p1407
+(lp1408
+V87
+p1409
+asVBattleship
+p1410
+(lp1411
+V131
+p1412
+asVThe Croods
+p1413
+(lp1414
+V98
+p1415
+asVRank
+p1416
+(lp1417
+V90
+p1418
+asVBridget Jones's Baby
+p1419
+(lp1420
+V118
+p1421
+asVThe Messengers
+p1422
+(lp1423
+V60
+p1424
+asVTim Burton's Corpse Bride
+p1425
+(lp1426
+V77
+p1427
+asVMonster House
+p1428
+(lp1429
+V91
+p1430
+asVMr. Magorium's Wonder Emporium
+p1431
+(lp1432
+V93
+p1433
+asVUp in the Air
+p1434
+(lp1435
+V109
+p1436
+aVCanada:108::(Toronto International Film Festival)
+p1437
+asVGravity
+p1438
+(lp1439
+V91
+p1440
+asVJust Like Heaven
+p1441
+(lp1442
+V95
+p1443
+asVDeck the Halls
+p1444
+(lp1445
+V93
+p1446
+asVRed
+p1447
+(lp1448
+V111
+p1449
+asVRide Along
+p1450
+(lp1451
+V99
+p1452
+asVVantage Point
+p1453
+(lp1454
+V90
+p1455
+asVA.I. Artificial Intelligence
+p1456
+(lp1457
+V146
+p1458
+asV8 Mile
+p1459
+(lp1460
+V110
+p1461
+asVMoana
+p1462
+(lp1463
+V107
+p1464
+asVRed Dragon
+p1465
+(lp1466
+V124
+p1467
+asVDivergent
+p1468
+(lp1469
+V139
+p1470
+asVOpen Season
+p1471
+(lp1472
+V86
+p1473
+asVTyler Perry's Madea's Family Reunion
+p1474
+(lp1475
+V107
+p1476
+asVSaw V
+p1477
+(lp1478
+V92
+p1479
+aV95::(unrated director's cut)
+p1480
+asVMarvel's The Avengers
+p1481
+(lp1482
+V143
+p1483
+aV173::(extended cut)
+p1484
+asVThe Last Samurai
+p1485
+(lp1486
+V154
+p1487
+asVThis Means War
+p1488
+(lp1489
+V97::(edited version)
+p1490
+aV103::(director's cut)
+p1491
+asVSpace Cowboys
+p1492
+(lp1493
+V130
+p1494
+asVAmerican Wedding
+p1495
+(lp1496
+V96
+p1497
+aVUSA:103::(unrated version)
+p1498
+aVTurkey:74::(TV version)
+p1499
+asVBoogeyman
+p1500
+(lp1501
+V92
+p1502
+aVSweden:90::(cut)
+p1503
+asVSerendipity
+p1504
+(lp1505
+V90
+p1506
+aVTurkey:82::(TV version)
+p1507
+asVBringing Down the House
+p1508
+(lp1509
+V105
+p1510
+asVSpider-Man 2
+p1511
+(lp1512
+V127
+p1513
+aVUSA:135::(extended cut)
+p1514
+asVThe Wild Thornberrys
+p1515
+(lp1516
+VUSA:30::(90 episodes)
+p1517
+aVArgentina:30
+p1518
+asVOcean's Twelve
+p1519
+(lp1520
+V125
+p1521
+asVEragon
+p1522
+(lp1523
+V104
+p1524
+asVOrphan
+p1525
+(lp1526
+V123
+p1527
+asVBilly Elliot
+p1528
+(lp1529
+V110
+p1530
+asVEight Below
+p1531
+(lp1532
+V120
+p1533
+asVCinderella Man
+p1534
+(lp1535
+V144
+p1536
+asVBad Teacher
+p1537
+(lp1538
+V92
+p1539
+aV97::(unrated version)
+p1540
+asVAtlantis: The Lost Empire
+p1541
+(lp1542
+V95
+p1543
+asVThe Conjuring
+p1544
+(lp1545
+V112
+p1546
+asVEnough
+p1547
+(lp1548
+V115
+p1549
+asVLeatherheads
+p1550
+(lp1551
+V114
+p1552
+asVLaw Abiding Citizen
+p1553
+(lp1554
+V109
+p1555
+aV118::(director's cut)
+p1556
+asVContraband
+p1557
+(lp1558
+V109
+p1559
+asVThe Book of Life (2014)
+p1560
+(lp1561
+V95
+p1562
+asVAustralia
+p1563
+(lp1564
+V165
+p1565
+asVPirates of the Caribbean: At World's End
+p1566
+(lp1567
+V169
+p1568
+asVObsessed
+p1569
+(lp1570
+V108
+p1571
+asVThe Fast and the Furious
+p1572
+(lp1573
+V106
+p1574
+asVNo Country for Old Men
+p1575
+(lp1576
+V122
+p1577
+asVTammy
+p1578
+(lp1579
+V97
+p1580
+aV100::(extended cut)
+p1581
+asVAmerica's Sweethearts
+p1582
+(lp1583
+V102
+p1584
+asVShaft
+p1585
+(lp1586
+V99
+p1587
+asVThe Emperor's New Groove
+p1588
+(lp1589
+V78
+p1590
+asVKung Fu Panda 3
+p1591
+(lp1592
+V95
+p1593
+asVThink Like a Man
+p1594
+(lp1595
+VUSA:122
+p1596
+asVA Walk in the Woods
+p1597
+(lp1598
+V104
+p1599
+asVParaNorman
+p1600
+(lp1601
+V92
+p1602
+asVMission: Impossible II
+p1603
+(lp1604
+V123
+p1605
+aV195::(original version)
+p1606
+aV240::(workprint version)
+p1607
+asVPush
+p1608
+(lp1609
+V110
+p1610
+asVThe Musketeer
+p1611
+(lp1612
+V104
+p1613
+asVStuart Little 2
+p1614
+(lp1615
+V77
+p1616
+aVSpain:82
+p1617
+asVCoach Carter
+p1618
+(lp1619
+V136
+p1620
+asVTeenage Mutant Ninja Turtles (2014)
+p1621
+(lp1622
+V101
+p1623
+asVThe Omen (2006)
+p1624
+(lp1625
+V110
+p1626
+aVPhilippines:105::(cut)
+p1627
+asVThe Lizzie McGuire Movie
+p1628
+(lp1629
+V94
+p1630
+asVPhilomena
+p1631
+(lp1632
+V98
+p1633
+asVThe Patriot
+p1634
+(lp1635
+V165
+p1636
+aV175::(extended version)
+p1637
+aV142::(workprint version)
+p1638
+asVHappy Feet Two
+p1639
+(lp1640
+VUSA:100
+p1641
+asVAfter Earth
+p1642
+(lp1643
+V100
+p1644
+asVP.S. I Love You
+p1645
+(lp1646
+V126
+p1647
+asVFour Brothers
+p1648
+(lp1649
+V109
+p1650
+asVX2: X-Men United
+p1651
+(lp1652
+V134
+p1653
+asVThe Jungle Book (2016)
+p1654
+(lp1655
+V106
+p1656
+asVRobin Hood
+p1657
+g37
+sVThe Magnificent Seven (2016)
+p1658
+(lp1659
+V132
+p1660
+asVGarfield: The Movie
+p1661
+(lp1662
+V80
+p1663
+asVLion
+p1664
+(lp1665
+V118
+p1666
+asVMunich
+p1667
+(lp1668
+V164
+p1669
+aVPhilippines:163::(cut)
+p1670
+asV2 Fast 2 Furious
+p1671
+(lp1672
+V107
+p1673
+asVPrometheus
+p1674
+(lp1675
+V124
+p1676
+asVLa La Land
+p1677
+(lp1678
+V128
+p1679
+asVSuper 8
+p1680
+(lp1681
+V112
+p1682
+asVEternal Sunshine of the Spotless Mind
+p1683
+(lp1684
+V108
+p1685
+asVLetters to Juliet
+p1686
+(lp1687
+VUSA:105
+p1688
+asVTake the Lead
+p1689
+(lp1690
+V118
+p1691
+asVThe Hunger Games: Mockingjay - Part 1
+p1692
+(lp1693
+V123
+p1694
+asVRock of Ages
+p1695
+(lp1696
+V123
+p1697
+aVUSA:136::(Extended Version)
+p1698
+asVDaddy's Home
+p1699
+(lp1700
+V96
+p1701
+asVBirdman
+p1702
+(lp1703
+V119
+p1704
+asVDaredevil
+p1705
+(lp1706
+V54
+p1707
+aV709::(Entire season 1)
+p1708
+aV707::(Entire season 2)
+p1709
+asVBig Mommas: Like Father, Like Son
+p1710
+(lp1711
+V107
+p1712
+aV113::(extended dvd edition)
+p1713
+asVI Now Pronounce You Chuck and Larry
+p1714
+g37
+sVYou Got Served
+p1715
+(lp1716
+V95
+p1717
+asVFantastic Four
+p1718
+(lp1719
+V100
+p1720
+asVBlended
+p1721
+(lp1722
+V117
+p1723
+asVVertical Limit
+p1724
+(lp1725
+V124
+p1726
+asVNight at the Museum
+p1727
+(lp1728
+V108
+p1729
+asVRadio
+p1730
+(lp1731
+V109
+p1732
+asVThe Queen
+p1733
+(lp1734
+V103
+p1735
+aVTurkey:94::(TV version)
+p1736
+asVCaptain America: The Winter Soldier
+p1737
+(lp1738
+V136
+p1739
+asVEdge of Tomorrow
+p1740
+(lp1741
+V113
+p1742
+asVThe Majestic
+p1743
+(lp1744
+V152
+p1745
+asVCharlie and the Chocolate Factory
+p1746
+(lp1747
+V115
+p1748
+asVCrimson Peak
+p1749
+(lp1750
+V119
+p1751
+asVThe Ladykillers
+p1752
+(lp1753
+V104
+p1754
+asVRV
+p1755
+(lp1756
+V99
+p1757
+asVThe Possession
+p1758
+(lp1759
+V92
+p1760
+asVThe Da Vinci Code
+p1761
+(lp1762
+V149
+p1763
+aV174::(extended cut)
+p1764
+asVThe Sisterhood of the Traveling Pants
+p1765
+(lp1766
+V119
+p1767
+asVDefiance
+p1768
+(lp1769
+V43::(approx.)
+p1770
+asVTrouble with the Curve
+p1771
+(lp1772
+V111
+p1773
+asVHansel and Gretel: Witch Hunters
+p1774
+(lp1775
+V36
+p1776
+asVWorld War Z
+p1777
+(lp1778
+V116
+p1779
+aV123::(Unrated Edition)
+p1780
+asVGood Night, and Good Luck.
+p1781
+(lp1782
+V93
+p1783
+asVA Walk Among the Tombstones
+p1784
+(lp1785
+V114
+p1786
+asVJonah: A VeggieTales Movie
+p1787
+(lp1788
+V82
+p1789
+asVStep Brothers
+p1790
+(lp1791
+V98
+p1792
+aV106::(unrated version)
+p1793
+asVPatriots Day
+p1794
+(lp1795
+V133
+p1796
+asVThe Water Horse: Legend of the Deep
+p1797
+(lp1798
+V112
+p1799
+asVBarnyard: The Original Party Animals
+p1800
+(lp1801
+VUSA:90
+p1802
+aVArgentina:90
+p1803
+asVEnchanted
+p1804
+(lp1805
+V107
+p1806
+asVWarcraft
+p1807
+(lp1808
+V123
+p1809
+asVOpen Range
+p1810
+(lp1811
+V139
+p1812
+asVSausage Party
+p1813
+(lp1814
+V89
+p1815
+asVFree Birds
+p1816
+(lp1817
+V91
+p1818
+asVMilk
+p1819
+(lp1820
+V128
+p1821
+asVRat Race
+p1822
+(lp1823
+V112
+p1824
+asVThe Sorcerer's Apprentice
+p1825
+(lp1826
+V109
+p1827
+asVHidden Figures
+p1828
+(lp1829
+V127
+p1830
+asVAlvin and the Chipmunks
+p1831
+(lp1832
+V92
+p1833
+asVKicking and Screaming
+p1834
+(lp1835
+V95
+p1836
+asVThe Brave One
+p1837
+(lp1838
+V122
+p1839
+aVCanada:119::(Toronto International Film Festival)
+p1840
+asVJoy
+p1841
+(lp1842
+V124
+p1843
+asVSaw 3D
+p1844
+(lp1845
+V90
+p1846
+asVThe Expendables 2
+p1847
+(lp1848
+V103
+p1849
+asV28 Days Later
+p1850
+(lp1851
+V113
+p1852
+asVThe Maze Runner
+p1853
+(lp1854
+V113
+p1855
+asVThe Tourist
+p1856
+(lp1857
+V103
+p1858
+asVThe Secret Life of Pets
+p1859
+(lp1860
+V87
+p1861
+asVThe Social Network
+p1862
+(lp1863
+V120
+p1864
+asVDarkness Falls
+p1865
+(lp1866
+V86
+p1867
+aV96::(Special Extended Blu-Ray Edition)
+p1868
+asVLegend of the Guardians: The Owls of Ga'Hoole
+p1869
+(lp1870
+V97
+p1871
+aV101::(IMAX Version)
+p1872
+asVRules of Engagement
+p1873
+(lp1874
+V22
+p1875
+asVProject Almanac
+p1876
+(lp1877
+V106
+p1878
+asVIndependence Day: Resurgence
+p1879
+(lp1880
+V120
+p1881
+asVSherlock Holmes: A Game of Shadows
+p1882
+(lp1883
+V129
+p1884
+asVThe Dilemma
+p1885
+(lp1886
+V111
+p1887
+asVJason Bourne
+p1888
+(lp1889
+V123
+p1890
+asVAnger Management
+p1891
+(lp1892
+V22
+p1893
+asVBaby Mama
+p1894
+(lp1895
+VArgentina:99
+p1896
+aVUSA:99
+p1897
+asVRun All Night
+p1898
+(lp1899
+V114
+p1900
+asVThirteen Days
+p1901
+(lp1902
+V145
+p1903
+asVTransformers
+p1904
+(lp1905
+V144
+p1906
+asVMadagascar: Escape 2 Africa
+p1907
+(lp1908
+V89
+p1909
+asVWhat a Girl Wants
+p1910
+(lp1911
+V105
+p1912
+asVSwordfish
+p1913
+(lp1914
+V99
+p1915
+asVThe Jungle Book 2
+p1916
+(lp1917
+V72
+p1918
+asVDate Movie
+p1919
+(lp1920
+V83
+p1921
+aV85::(unrated version)
+p1922
+asVMiracle
+p1923
+(lp1924
+V135
+p1925
+asVThe Tale of Despereaux
+p1926
+(lp1927
+V93
+p1928
+aV90
+p1929
+asVBend It Like Beckham
+p1930
+(lp1931
+V112
+p1932
+aVSpain:115
+p1933
+asVThe Happening
+p1934
+(lp1935
+V91
+p1936
+asVThe Change-Up
+p1937
+(lp1938
+V112
+p1939
+aVUSA:118::(unrated version)
+p1940
+asVThe Animal
+p1941
+(lp1942
+V84
+p1943
+asVThe Nativity Story
+p1944
+(lp1945
+V101
+p1946
+asVBatman Begins
+p1947
+(lp1948
+V140
+p1949
+aV128::(default)
+p1950
+asVShrek the Third
+p1951
+(lp1952
+V93
+p1953
+asVThe Last Airbender
+p1954
+(lp1955
+V103
+p1956
+asVOz The Great and Powerful
+p1957
+(lp1958
+V130
+p1959
+asVMonsters Vs. Aliens
+p1960
+(lp1961
+V94
+p1962
+asVThe Art of War
+p1963
+(lp1964
+V117
+p1965
+aVGermany:116::(cut version)
+p1966
+asVSt. Vincent
+p1967
+(lp1968
+V102
+p1969
+asVBlack Swan
+p1970
+(lp1971
+V108
+p1972
+asVI Am Sam
+p1973
+(lp1974
+V132
+p1975
+asVThe Five-Year Engagement
+p1976
+(lp1977
+V124
+p1978
+aV131::(extended version)
+p1979
+asV2 Guns
+p1980
+(lp1981
+V109
+p1982
+asVDrumline
+p1983
+(lp1984
+V118
+p1985
+asVDie Another Day
+p1986
+(lp1987
+V133
+p1988
+asVHotel Transylvania
+p1989
+(lp1990
+V91
+p1991
+asVWhat to Expect When You're Expecting
+p1992
+(lp1993
+V110
+p1994
+asVSpirit: Stallion of the Cimarron
+p1995
+(lp1996
+V83
+p1997
+aVSpain:86
+p1998
+asVSky Captain and the World of Tomorrow
+p1999
+(lp2000
+V106
+p2001
+asVTropic Thunder
+p2002
+(lp2003
+V107
+p2004
+aVUSA:121::(unrated director's cut)
+p2005
+asVMystic River
+p2006
+(lp2007
+V138
+p2008
+asVDawn of the Dead
+p2009
+(lp2010
+V101
+p2011
+aV110::(unrated director's cut)
+p2012
+asVColombiana
+p2013
+(lp2014
+V108
+p2015
+aV112::(Unrated Version)
+p2016
+asVSicko
+p2017
+(lp2018
+V123
+p2019
+asVCharlotte's Web (2006)
+p2020
+(lp2021
+V97
+p2022
+asVDuplicity
+p2023
+(lp2024
+V125
+p2025
+aVTurkey:118
+p2026
+asVTexas Chainsaw 3D
+p2027
+(lp2028
+V92
+p2029
+asVThe Departed
+p2030
+(lp2031
+V151
+p2032
+asVChef
+p2033
+(lp2034
+V101
+p2035
+asVUntraceable
+p2036
+(lp2037
+V101
+p2038
+asVDeadpool
+p2039
+(lp2040
+V108
+p2041
+asVMuppets Most Wanted
+p2042
+(lp2043
+V107
+p2044
+aV119::("Unnecessarily Extended" Edition)
+p2045
+asVThe Grudge
+p2046
+(lp2047
+V91
+p2048
+aV98::(Unrated Extended Director's Cut)
+p2049
+aV98::(unrated version)
+p2050
+asVYou, Me and Dupree
+p2051
+(lp2052
+V110
+p2053
+asVPlanes: Fire & Rescue
+p2054
+(lp2055
+V83
+p2056
+asVThe Smurfs 2
+p2057
+(lp2058
+V105
+p2059
+asVBad Moms
+p2060
+(lp2061
+V100
+p2062
+asVHulk
+p2063
+(lp2064
+V138
+p2065
+asVBeauty Shop
+p2066
+(lp2067
+V105
+p2068
+asVKate and Leopold
+p2069
+(lp2070
+V118
+p2071
+aVUSA:123::(director's cut)
+p2072
+asVStar Wars: Episode II - Attack of the Clones
+p2073
+(lp2074
+V142
+p2075
+asVHeist
+p2076
+(lp2077
+V93
+p2078
+asVDrive (2011)
+p2079
+(lp2080
+V100
+p2081
+asVUnderworld: Evolution
+p2082
+(lp2083
+V106
+p2084
+aVPhilippines:102::(cut)
+p2085
+asVThe Royal Tenenbaums
+p2086
+(lp2087
+V110
+p2088
+asVDeja Vu
+p2089
+(lp2090
+V126
+p2091
+asVLittle Nicky
+p2092
+(lp2093
+V90
+p2094
+asVKevin Hart: Let Me Explain
+p2095
+(lp2096
+V75
+p2097
+asVTitan A.E.
+p2098
+(lp2099
+V94
+p2100
+asVCatwoman
+p2101
+(lp2102
+V104
+p2103
+aVCanada:87::(Ontario)
+p2104
+asVPan's Labyrinth
+p2105
+(lp2106
+V118
+p2107
+aVFinland:120
+p2108
+aVCanada:112::(Toronto International Film Festival)
+p2109
+asVWhen a Stranger Calls
+p2110
+(lp2111
+V87
+p2112
+asVShallow Hal
+p2113
+(lp2114
+V114
+p2115
+asVThe Final Destination
+p2116
+(lp2117
+V82
+p2118
+asVThe Lord of the Rings: The Return of the King
+p2119
+(lp2120
+V201
+p2121
+aV263::(Blu-Ray Extended Edition)
+p2122
+aV254::(Special DVD Extended Edition)
+p2123
+aV192::(DVD Widescreen Edition)
+p2124
+asVEpic Movie
+p2125
+(lp2126
+V86
+p2127
+aV93::(unrated version)
+p2128
+asVThe Vow
+p2129
+(lp2130
+V104
+p2131
+asVThe Bank Job
+p2132
+(lp2133
+V111
+p2134
+asVWallace and Gromit: The Curse of the Were-Rabbit
+p2135
+g37
+sVPublic Enemies
+p2136
+(lp2137
+V140
+p2138
+asVDear John
+p2139
+(lp2140
+V108
+p2141
+asVSaw VI
+p2142
+(lp2143
+V90
+p2144
+aV92::(Unrated Director's Cut)
+p2145
+asVThe Nut Job
+p2146
+(lp2147
+V85
+p2148
+asVGreen Zone
+p2149
+(lp2150
+V115
+p2151
+asVDiary of a Wimpy Kid: Dog Days
+p2152
+(lp2153
+V94
+p2154
+asVFantastic Beasts and Where To Find Them
+p2155
+(lp2156
+V133
+p2157
+asVScream 3
+p2158
+(lp2159
+V116
+p2160
+asVJarhead
+p2161
+(lp2162
+V125
+p2163
+asVThe Love Guru
+p2164
+(lp2165
+V87
+p2166
+asVThe Twilight Saga: Breaking Dawn Part 2
+p2167
+g37
+sVThe Mexican
+p2168
+(lp2169
+V123
+p2170
+asVPacific Rim
+p2171
+(lp2172
+V131
+p2173
+asVThe Twilight Saga: Breaking Dawn Part 1
+p2174
+g37
+sVSnow Day
+p2175
+(lp2176
+V89
+p2177
+asVThe Smurfs
+p2178
+(lp2179
+VUSA:103
+p2180
+asVGet On Up
+p2181
+(lp2182
+V139
+p2183
+asVBrown Sugar
+p2184
+(lp2185
+V109
+p2186
+asVDjango Unchained
+p2187
+(lp2188
+V165
+p2189
+asVWithout a Paddle
+p2190
+(lp2191
+V95
+p2192
+asVLegally Blonde 2: Red, White and Blonde
+p2193
+(lp2194
+V95
+p2195
+asVTurbo
+p2196
+(lp2197
+V96
+p2198
+asVUndercover Brother
+p2199
+(lp2200
+V86
+p2201
+aVArgentina:88
+p2202
+aVUK:85
+p2203
+asVPercy Jackson & The Olympians: The Lightning Thief
+p2204
+(lp2205
+V118
+p2206
+asVThe Nutty Professor II: The Klumps
+p2207
+(lp2208
+V106
+p2209
+aVUSA:109::(unrated director's cut)
+p2210
+asVThe Forgotten
+p2211
+(lp2212
+V45::(18 episodes)
+p2213
+asVIdentity
+p2214
+(lp2215
+V90
+p2216
+aVUSA:91::(alternate DVD version)
+p2217
+asVThe Mist
+p2218
+g37
+sVPrecious: Based on the Novel "Push" by Sapphire
+p2219
+(lp2220
+V110
+p2221
+asVAutumn in New York
+p2222
+(lp2223
+V103
+p2224
+asVRed 2
+p2225
+(lp2226
+V116
+p2227
+asVShutter Island
+p2228
+(lp2229
+V138
+p2230
+asVDoctor Strange
+p2231
+(lp2232
+V115
+p2233
+aVChina:109::(Mainland China Censored Version)
+p2234
+asVResident Evil: Retribution
+p2235
+(lp2236
+V96
+p2237
+asVMeet the Robinsons
+p2238
+(lp2239
+V95
+p2240
+asVPitch Perfect 2
+p2241
+(lp2242
+V115
+p2243
+asVThe Prince and Me
+p2244
+(lp2245
+V111
+p2246
+asVYogi Bear
+p2247
+(lp2248
+VUSA:80
+p2249
+asVInterstellar
+p2250
+(lp2251
+V169
+p2252
+asVFireproof
+p2253
+(lp2254
+VUSA:122
+p2255
+asVLittle Miss Sunshine
+p2256
+(lp2257
+V101
+p2258
+asVSinbad: Legend of the Seven Seas
+p2259
+(lp2260
+VArgentina:88
+p2261
+aVGermany:90
+p2262
+aVUK:85::(cut)
+p2263
+aVUSA:86
+p2264
+asVThe Count of Monte Cristo
+p2265
+(lp2266
+V131
+p2267
+aVSpain:134
+p2268
+asV21 and Over
+p2269
+(lp2270
+V93
+p2271
+asVFailure to Launch
+p2272
+(lp2273
+V97
+p2274
+aVPhilippines:95::(cut)
+p2275
+asVMiracles from Heaven
+p2276
+(lp2277
+V109
+p2278
+asVCorky Romano
+p2279
+(lp2280
+V86
+p2281
+asVWild Hogs
+p2282
+(lp2283
+V100
+p2284
+asVDown to You
+p2285
+(lp2286
+V91
+p2287
+asVWalking with Dinosaurs
+p2288
+(lp2289
+V87
+p2290
+asVMeet the Fockers
+p2291
+(lp2292
+V115
+p2293
+aVTurkey:106::(TV version)
+p2294
+asVXXX
+p2295
+(lp2296
+V124
+p2297
+aV132::(unrated director's cut)
+p2298
+asVThe Devil Inside
+p2299
+(lp2300
+V83
+p2301
+asVChimpanzee
+p2302
+(lp2303
+VUSA:78
+p2304
+asVNeed for Speed
+p2305
+(lp2306
+V132
+p2307
+asVMachete
+p2308
+(lp2309
+V105
+p2310
+asVThe Chronicles of Narnia: The Voyage of the Dawn Treader
+p2311
+(lp2312
+V113
+p2313
+asVElla Enchanted
+p2314
+(lp2315
+V96
+p2316
+asVWhat Lies Beneath
+p2317
+(lp2318
+V130
+p2319
+asVHow to Train Your Dragon
+p2320
+(lp2321
+V98
+p2322
+asVRisen
+p2323
+(lp2324
+V107
+p2325
+asVSex and the City
+p2326
+(lp2327
+V30::(94 episodes)
+p2328
+asVTed 2
+p2329
+(lp2330
+V115
+p2331
+aVUSA:125::(unrated)
+p2332
+asVGodzilla (2014)
+p2333
+(lp2334
+V123
+p2335
+asVRent
+p2336
+(lp2337
+V135
+p2338
+aVPhilippines:138
+p2339
+asVThe Dictator
+p2340
+(lp2341
+V83
+p2342
+aV99::(unrated version)
+p2343
+asVThe Family Stone
+p2344
+(lp2345
+V103
+p2346
+asVThe SpongeBob SquarePants Movie
+p2347
+(lp2348
+V87
+p2349
+asVHarry Potter and the Goblet of Fire
+p2350
+(lp2351
+V157
+p2352
+aV166::(extended version)
+p2353
+asVHide and Seek
+p2354
+(lp2355
+V101
+p2356
+asVI Love You, Man
+p2357
+(lp2358
+V105
+p2359
+asVThe Reader
+p2360
+(lp2361
+V124
+p2362
+asVThe Roommate
+p2363
+(lp2364
+VUSA:91
+p2365
+asVSweet Home Alabama
+p2366
+(lp2367
+V108
+p2368
+asVHalloween (2007)
+p2369
+(lp2370
+V109
+p2371
+aVUSA:121::(unrated version)
+p2372
+aVBrazil:83::(cut version)
+p2373
+asVLone Survivor
+p2374
+(lp2375
+V121
+p2376
+asVCrank
+p2377
+(lp2378
+V88
+p2379
+aV93::(director's cut)
+p2380
+asVSpeed Racer
+p2381
+(lp2382
+V135
+p2383
+asVHigh School Musical 3: Senior Year
+p2384
+(lp2385
+V112
+p2386
+asVLand of the Lost
+p2387
+(lp2388
+V102
+p2389
+asVThe Watch
+p2390
+(lp2391
+V102
+p2392
+asVThe Grand Budapest Hotel
+p2393
+(lp2394
+V99
+p2395
+asVSaw IV
+p2396
+(lp2397
+V93
+p2398
+aV96::(unrated director's cut)
+p2399
+asVBattlefield Earth
+p2400
+(lp2401
+V118
+p2402
+aVUSA:119::(video version)
+p2403
+aVSouth Korea:95
+p2404
+asVPredators
+p2405
+(lp2406
+V107
+p2407
+asVHigh Fidelity
+p2408
+(lp2409
+V113
+p2410
+asV(500) Days of Summer
+p2411
+(lp2412
+V95
+p2413
+asVEscape From Planet Earth
+p2414
+(lp2415
+VUSA:89
+p2416
+asVGrown Ups 2
+p2417
+(lp2418
+V101
+p2419
+asVKingsman: The Secret Service
+p2420
+(lp2421
+V129
+p2422
+asVTroy
+p2423
+(lp2424
+V163
+p2425
+aV196::(director's cut)
+p2426
+asVMemoirs of a Geisha
+p2427
+(lp2428
+V145
+p2429
+aVPhilippines:140
+p2430
+asVPrince of Persia: The Sands of Time
+p2431
+(lp2432
+V116
+p2433
+asVWe Bought a Zoo
+p2434
+(lp2435
+V124
+p2436
+asVSin City
+p2437
+(lp2438
+V124
+p2439
+aVUSA:147::(unrated, recut version)
+p2440
+asVAmerican Pie 2
+p2441
+(lp2442
+V108
+p2443
+aVUK:105
+p2444
+asVJackass: The Movie
+p2445
+(lp2446
+V87
+p2447
+asVMovie Title (click to view)
+p2448
+g37
+sVCapote
+p2449
+(lp2450
+V114
+p2451
+aVCanada:110::(Toronto International Film Festival)
+p2452
+asVThe Angry Birds Movie
+p2453
+(lp2454
+V97
+p2455
+asVKnowing
+p2456
+(lp2457
+V121
+p2458
+asVOut of Time
+p2459
+(lp2460
+V105
+p2461
+aVCanada:114::(Toronto International Film Festival)
+p2462
+asVThe Town
+p2463
+(lp2464
+V125
+p2465
+aV150::(DVD extended cut)
+p2466
+asVStar Trek Beyond
+p2467
+(lp2468
+V122
+p2469
+asVThere Will Be Blood
+p2470
+(lp2471
+V158
+p2472
+asVThe Man From U.N.C.L.E.
+p2473
+(lp2474
+V116
+p2475
+asVJohn Wick
+p2476
+(lp2477
+V101
+p2478
+asVThe Good Dinosaur
+p2479
+(lp2480
+V93
+p2481
+asVDiary of a Wimpy Kid: Rodrick Rules
+p2482
+(lp2483
+VUSA:99
+p2484
+aVArgentina:99
+p2485
+asVShe's the Man
+p2486
+(lp2487
+V105
+p2488
+asVBurn After Reading
+p2489
+(lp2490
+V96
+p2491
+asVJohnny English
+p2492
+(lp2493
+VUK:88
+p2494
+aVUSA:87
+p2495
+asVNow You See Me
+p2496
+(lp2497
+V115
+p2498
+aV125::(extended edition)
+p2499
+asVRambo
+p2500
+(lp2501
+V93
+p2502
+asVThe Men Who Stare at Goats
+p2503
+(lp2504
+V94
+p2505
+asVThe Skulls
+p2506
+(lp2507
+V106
+p2508
+asVMonsters University
+p2509
+(lp2510
+V104
+p2511
+asVThe Dukes of Hazzard
+p2512
+(lp2513
+V60::(145 episodes)
+p2514
+aVArgentina:60
+p2515
+asVMidnight in Paris
+p2516
+(lp2517
+VUSA:94
+p2518
+aVArgentina:100
+p2519
+asVHostel
+p2520
+(lp2521
+V94
+p2522
+aVPhilippines:93::(cut)
+p2523
+asVMr. Bean's Holiday
+p2524
+(lp2525
+V90
+p2526
+asVPixels
+p2527
+(lp2528
+V105
+p2529
+asVThe Good Shepherd
+p2530
+(lp2531
+V167
+p2532
+aVRussia:139::(cut version)
+p2533
+asVThe Forest
+p2534
+(lp2535
+V93
+p2536
+asVThe Prestige
+p2537
+(lp2538
+V130
+p2539
+asVMad Max: Fury Road
+p2540
+(lp2541
+V120
+p2542
+asVResident Evil
+p2543
+(lp2544
+V100
+p2545
+asVNo Strings Attached
+p2546
+(lp2547
+V108
+p2548
+asVGet Smart
+p2549
+(lp2550
+V110
+p2551
+asVCollateral Beauty
+p2552
+(lp2553
+V97
+p2554
+asVA Christmas Carol (2009)
+p2555
+(lp2556
+V96
+p2557
+asVMax Payne
+p2558
+(lp2559
+V100
+p2560
+aV103::(unrated version)
+p2561
+asVThe Ringer
+p2562
+(lp2563
+V94
+p2564
+aVArgentina:95
+p2565
+asVHerbie: Fully Loaded
+p2566
+(lp2567
+VUSA:23
+p2568
+asVSafe Haven
+p2569
+(lp2570
+V115
+p2571
+asVFreedom Writers
+p2572
+(lp2573
+V123
+p2574
+asVThe Expendables
+p2575
+(lp2576
+V103
+p2577
+aV113::(extended director's cut)
+p2578
+asVThe Ides of March
+p2579
+(lp2580
+V101
+p2581
+asVLife as We Know It
+p2582
+(lp2583
+V25::(124 episodes)
+p2584
+aV60::(7 episodes)
+p2585
+asVBlow
+p2586
+(lp2587
+V124
+p2588
+asVSecondhand Lions
+p2589
+(lp2590
+V111
+p2591
+aVUSA:109
+p2592
+aVArgentina:120
+p2593
+asVAlmost Famous
+p2594
+(lp2595
+V122
+p2596
+aVUSA:162::(director's cut)
+p2597
+aVCroatia:152::(DVD extended cut)
+p2598
+asVHow Do You Know
+p2599
+(lp2600
+VUSA:121
+p2601
+asVMiss Congeniality 2: Armed and Fabulous
+p2602
+(lp2603
+V115
+p2604
+asVHop
+p2605
+(lp2606
+VUSA:95
+p2607
+aVArgentina:95
+p2608
+asVRogue One: A Star Wars Story
+p2609
+(lp2610
+V133
+p2611
+asVTreasure Planet
+p2612
+(lp2613
+V95
+p2614
+asVDawn of the Planet of the Apes
+p2615
+(lp2616
+V130
+p2617
+asVThe Score
+p2618
+(lp2619
+V124
+p2620
+asVYours, Mine and Ours
+p2621
+(lp2622
+V88
+p2623
+asVStep Up Revolution
+p2624
+(lp2625
+V99
+p2626
+asVThe Call
+p2627
+(lp2628
+VUSA:94
+p2629
+asVUnstoppable
+p2630
+(lp2631
+V98
+p2632
+asVDan in Real Life
+p2633
+(lp2634
+V98
+p2635
+asVBeauty and the Beast (3D)
+p2636
+(lp2637
+V129
+p2638
+asVProject X
+p2639
+(lp2640
+V88
+p2641
+aV93::(extended cut)
+p2642
+asVTwo Weeks Notice
+p2643
+(lp2644
+V101
+p2645
+asVDracula Untold
+p2646
+(lp2647
+V92
+p2648
+asVJulie & Julia
+p2649
+(lp2650
+V118
+p2651
+asVMan of the Year
+p2652
+(lp2653
+V115
+p2654
+asVExit Wounds
+p2655
+(lp2656
+V101
+p2657
+asVCasino Royale
+p2658
+(lp2659
+V144
+p2660
+asVYear One
+p2661
+(lp2662
+V97
+p2663
+aV100::(unrated version)
+p2664
+asVThe Day the Earth Stood Still (2008)
+p2665
+(lp2666
+V104
+p2667
+asVE.T. (20th Anniversary)
+p2668
+g37
+sVFunny People
+p2669
+(lp2670
+V146
+p2671
+aV153::(unrated version)
+p2672
+asVThe Butterfly Effect
+p2673
+(lp2674
+V113
+p2675
+aV120::(director's cut)
+p2676
+asVUnknown
+p2677
+(lp2678
+V113
+p2679
+asVResident Evil: Afterlife
+p2680
+(lp2681
+V94
+p2682
+aVArgentina:93
+p2683
+asVHitman
+p2684
+(lp2685
+V100
+p2686
+aVUSA:94::(unrated version)
+p2687
+asVThe Visit
+p2688
+(lp2689
+V94
+p2690
+asVSherlock Holmes
+p2691
+(lp2692
+V128
+p2693
+asVThe Boy (2016)
+p2694
+(lp2695
+V97
+p2696
+asVHome (2015)
+p2697
+(lp2698
+V94
+p2699
+asVMarmaduke
+p2700
+(lp2701
+VUSA:87
+p2702
+asVSideways
+p2703
+(lp2704
+V126
+p2705
+asVDiary of a Wimpy Kid
+p2706
+(lp2707
+VArgentina:94
+p2708
+asVGulliver's Travels
+p2709
+(lp2710
+V85
+p2711
+asVX-Men: First Class
+p2712
+(lp2713
+V132
+p2714
+asVShrek 2
+p2715
+(lp2716
+V93
+p2717
+asVAmerican Hustle
+p2718
+(lp2719
+V138
+p2720
+aVTaiwan:129
+p2721
+asVRush Hour 2
+p2722
+(lp2723
+V90
+p2724
+aVSweden:94
+p2725
+aVSpain:86
+p2726
+asVMusic and Lyrics
+p2727
+(lp2728
+VUSA:96
+p2729
+aVPhilippines:105
+p2730
+aVHong Kong:104
+p2731
+aVArgentina:106
+p2732
+aVCroatia:95::(DVD)
+p2733
+asVGhost Ship
+p2734
+(lp2735
+V91
+p2736
+asVHancock
+p2737
+(lp2738
+V92
+p2739
+aVUSA:102::(unrated version)
+p2740
+asVDid You Hear About the Morgans?
+p2741
+(lp2742
+VUSA:103
+p2743
+asVStep Up 3-D
+p2744
+(lp2745
+V107
+p2746
+asVThe Watcher
+p2747
+(lp2748
+V89
+p2749
+aV88
+p2750
+asVPokemon: The Movie 2000
+p2751
+(lp2752
+V84
+p2753
+aV102
+p2754
+aVGermany:79
+p2755
+aVUSA:99
+p2756
+aVUSA:80
+p2757
+asVThe Hobbit: The Battle of the Five Armies
+p2758
+(lp2759
+V144
+p2760
+aV164::(Extended Edition)
+p2761
+asVSalt
+p2762
+(lp2763
+V100
+p2764
+aV104::(director's cut)
+p2765
+aV101::(unrated version)
+p2766
+asVHot Tub Time Machine
+p2767
+(lp2768
+V101
+p2769
+asVNoah
+p2770
+(lp2771
+V138
+p2772
+asVNight at the Museum: Secret of the Tomb
+p2773
+(lp2774
+V98
+p2775
+asVEverest (2015)
+p2776
+(lp2777
+V121
+p2778
+asVIf I Stay
+p2779
+(lp2780
+V107
+p2781
+asVThe Notebook
+p2782
+(lp2783
+V123
+p2784
+asVThe Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+p2785
+(lp2786
+V143
+p2787
+aV150::(extended version)
+p2788
+asVSan Andreas
+p2789
+(lp2790
+V114
+p2791
+asVSilver Linings Playbook
+p2792
+(lp2793
+V122
+p2794
+asVSea Monsters: A Prehistoric Adventure (IMAX)
+p2795
+(lp2796
+V40
+p2797
+asVReturn to Never Land
+p2798
+(lp2799
+V72
+p2800
+asVWatchmen
+p2801
+(lp2802
+V162
+p2803
+aV186::(Director's Cut)
+p2804
+aV215::(Ultimate Cut)
+p2805
+asVThe Secret Life of Bees
+p2806
+(lp2807
+VUSA:114::(director's cut)
+p2808
+aVCanada:110::(Toronto International Film Festival)
+p2809
+asVThe Crocodile Hunter: Collision Course
+p2810
+(lp2811
+V90
+p2812
+asVThe Rookie
+p2813
+(lp2814
+V127
+p2815
+asVGoosebumps
+p2816
+(lp2817
+V103
+p2818
+asVContagion
+p2819
+(lp2820
+V106
+p2821
+asVTyler Perry's Why Did I Get Married?
+p2822
+(lp2823
+VUSA:113
+p2824
+asVI Spy
+p2825
+(lp2826
+V97
+p2827
+asVSpace Chimps
+p2828
+(lp2829
+V81
+p2830
+asVSomething's Gotta Give
+p2831
+(lp2832
+V128
+p2833
+asVParanormal Activity
+p2834
+(lp2835
+V86
+p2836
+aV97::(festival version)
+p2837
+aV84::(unrated version)
+p2838
+asVThe Matrix Reloaded
+p2839
+(lp2840
+V138
+p2841
+asVDodgeBall: A True Underdog Story
+p2842
+(lp2843
+V92
+p2844
+asVHubble 3D
+p2845
+(lp2846
+V44
+p2847
+asVGreen Lantern
+p2848
+(lp2849
+V114
+p2850
+aV123::(extended cut)
+p2851
+asVMr. Deeds
+p2852
+(lp2853
+V96
+p2854
+asVThe Family (2013)
+p2855
+(lp2856
+V111
+p2857
+asVThe Odd Life of Timothy Green
+p2858
+(lp2859
+V105
+p2860
+asVDevil
+p2861
+(lp2862
+V80
+p2863
+asVThe Cat in the Hat
+p2864
+(lp2865
+V82
+p2866
+asVDespicable Me
+p2867
+(lp2868
+V95
+p2869
+aVUSA:87::(TV version) (ABC Family print)
+p2870
+asVMission: Impossible - Rogue Nation
+p2871
+(lp2872
+V131
+p2873
+asVExtremely Loud & Incredibly Close
+p2874
+(lp2875
+V129
+p2876
+asVThe Adventures of Sharkboy and Lavagirl in 3D
+p2877
+(lp2878
+V93
+p2879
+asVCrash
+p2880
+(lp2881
+V112
+p2882
+aV115::(director's cut)
+p2883
+asVA Cinderella Story
+p2884
+(lp2885
+V95
+p2886
+asVDespicable Me 2
+p2887
+(lp2888
+V98
+p2889
+asVThe House Bunny
+p2890
+(lp2891
+V97
+p2892
+asVMinions
+p2893
+(lp2894
+V91
+p2895
+asVNo Escape
+p2896
+(lp2897
+V103
+p2898
+asVArgo
+p2899
+(lp2900
+V120
+p2901
+aV130::(Extended Version)
+p2902
+asVTower Heist
+p2903
+(lp2904
+V104
+p2905
+asVCalendar Girls
+p2906
+(lp2907
+V108
+p2908
+asVSpotlight
+p2909
+(lp2910
+V128
+p2911
+asVFreaky Friday
+p2912
+(lp2913
+V97
+p2914
+asVWar Room
+p2915
+(lp2916
+V120
+p2917
+asVCast Away
+p2918
+(lp2919
+V143
+p2920
+asVTyler Perry's Meet the Browns
+p2921
+(lp2922
+VUSA:30
+p2923
+asVThe 5th Wave
+p2924
+(lp2925
+V112
+p2926
+asVThe Rundown
+p2927
+(lp2928
+V104
+p2929
+asVBad Company
+p2930
+(lp2931
+V116
+p2932
+aVSpain:125
+p2933
+asVMy Dog Skip
+p2934
+(lp2935
+V95
+p2936
+asVMy Sister's Keeper
+p2937
+(lp2938
+V109
+p2939
+asVMoulin Rouge!
+p2940
+(lp2941
+V127
+p2942
+asVThe Brothers Grimm
+p2943
+(lp2944
+V118
+p2945
+asVBruce Almighty
+p2946
+(lp2947
+V101
+p2948
+asVKung Fu Panda 2
+p2949
+(lp2950
+V90
+p2951
+asVSilent Hill
+p2952
+(lp2953
+V125
+p2954
+aV132::(Special Edition Blu-ray) (Canada only)
+p2955
+asVAcross the Universe
+p2956
+(lp2957
+V133
+p2958
+asVRoad to Perdition
+p2959
+(lp2960
+V117
+p2961
+asVKing Kong
+p2962
+(lp2963
+V187
+p2964
+aV201::(extended edition)
+p2965
+asVStar Wars: Episode III - Revenge of the Sith
+p2966
+(lp2967
+V140
+p2968
+asVFootloose (2011)
+p2969
+(lp2970
+V113
+p2971
+asVLondon Has Fallen
+p2972
+(lp2973
+V99
+p2974
+asVThe Expendables 3
+p2975
+(lp2976
+V126
+p2977
+aV131::(unrated version)
+p2978
+asVInvincible
+p2979
+(lp2980
+V137
+p2981
+asVMr. Brooks
+p2982
+(lp2983
+V120
+p2984
+asVHeaven is for Real
+p2985
+(lp2986
+V99
+p2987
+asVThe Recruit
+p2988
+(lp2989
+V115
+p2990
+asVElysium
+p2991
+(lp2992
+V109
+p2993
+asVPay It Forward
+p2994
+(lp2995
+V123
+p2996
+asVBad News Bears
+p2997
+(lp2998
+V113
+p2999
+asVNanny McPhee
+p3000
+(lp3001
+V97
+p3002
+aVPhilippines:98
+p3003
+asVBeowulf
+p3004
+(lp3005
+V115
+p3006
+asVTwo Can Play That Game
+p3007
+(lp3008
+V90
+p3009
+aVSpain:93
+p3010
+asVSigns
+p3011
+(lp3012
+V106
+p3013
+asVMaleficent
+p3014
+(lp3015
+V97
+p3016
+asVThat's My Boy
+p3017
+(lp3018
+V116
+p3019
+asVGhost Rider: Spirit of Vengeance
+p3020
+(lp3021
+V96
+p3022
+asVCharlie's Angels: Full Throttle
+p3023
+(lp3024
+V106
+p3025
+aV107::(unrated version)
+p3026
+asVHitman: Agent 47
+p3027
+(lp3028
+V96
+p3029
+asVImmortals
+p3030
+(lp3031
+V110
+p3032
+asVThe Scorpion King
+p3033
+(lp3034
+V92
+p3035
+aV100::(extended version)
+p3036
+asVStar Trek Into Darkness
+p3037
+(lp3038
+V132
+p3039
+asVCollateral
+p3040
+(lp3041
+V115
+p3042
+asVBig Hero 6
+p3043
+(lp3044
+V102
+p3045
+asV21
+p3046
+(lp3047
+V123
+p3048
+asVNot Another Teen Movie
+p3049
+(lp3050
+V89
+p3051
+aV99::(unrated director's cut)
+p3052
+asVSpy Kids 3D: Game Over
+p3053
+(lp3054
+V24
+p3055
+asVThe Master of Disguise
+p3056
+(lp3057
+V80
+p3058
+asVBest in Show
+p3059
+(lp3060
+V90
+p3061
+asVChappie
+p3062
+(lp3063
+V120
+p3064
+asVFifty Shades of Grey
+p3065
+(lp3066
+V125
+p3067
+aV129::(unrated version)
+p3068
+asVTyler Perry's Madea Goes to Jail
+p3069
+(lp3070
+V103
+p3071
+asVEvolution
+p3072
+(lp3073
+V81
+p3074
+asVFool's Gold
+p3075
+(lp3076
+V112
+p3077
+asVStar Wars: The Force Awakens
+p3078
+(lp3079
+V136
+p3080
+asVThe Wolf of Wall Street
+p3081
+(lp3082
+V180
+p3083
+aVKuwait:145::(cut version)
+p3084
+aV240::(rough cut)
+p3085
+asVStar Trek: Nemesis
+p3086
+(lp3087
+V116
+p3088
+asVBig Fat Liar
+p3089
+(lp3090
+V88
+p3091
+asVThe 6th Day
+p3092
+(lp3093
+V123
+p3094
+asVTron Legacy
+p3095
+(lp3096
+VUSA:125
+p3097
+asVEat Pray Love
+p3098
+(lp3099
+V133
+p3100
+aV140::(director's cut)
+p3101
+asVNights in Rodanthe
+p3102
+(lp3103
+V97
+p3104
+asVBring It On
+p3105
+(lp3106
+V98
+p3107
+asVNeighbors 2: Sorority Rising
+p3108
+(lp3109
+V92
+p3110
+asVRay
+p3111
+(lp3112
+V152
+p3113
+aVUSA:178::(extended version)
+p3114
+asVHorrible Bosses 2
+p3115
+(lp3116
+V108
+p3117
+aV116::(Extended Edition)
+p3118
+asVZookeeper
+p3119
+(lp3120
+VUSA:102
+p3121
+asVAlong Came a Spider
+p3122
+(lp3123
+V104
+p3124
+asVDr. Seuss' The Lorax
+p3125
+(lp3126
+V86
+p3127
+asVChanging Lanes
+p3128
+(lp3129
+V98
+p3130
+aVTurkey:91::(TV version)
+p3131
+asVMean Girls
+p3132
+(lp3133
+V97
+p3134
+asVTears of the Sun
+p3135
+(lp3136
+V121
+p3137
+aV142::(director's cut)
+p3138
+asVAnalyze That
+p3139
+(lp3140
+V96
+p3141
+asVThe Uninvited
+p3142
+(lp3143
+V87
+p3144
+asVRush Hour 3
+p3145
+(lp3146
+V91
+p3147
+asVHanging Up
+p3148
+(lp3149
+V94
+p3150
+asVDoom
+p3151
+(lp3152
+V105
+p3153
+aVUSA:113::(unrated version)
+p3154
+asVThe Grey
+p3155
+(lp3156
+V117
+p3157
+asVMillion Dollar Arm
+p3158
+(lp3159
+V124
+p3160
+asVThe Great Gatsby (2013)
+p3161
+(lp3162
+V143
+p3163
+asVTransformers: Revenge of the Fallen
+p3164
+(lp3165
+V150
+p3166
+asVKrampus
+p3167
+(lp3168
+V98
+p3169
+asVQueen of the Damned
+p3170
+(lp3171
+V101
+p3172
+aVSpain:104
+p3173
+asVMission: Impossible III
+p3174
+(lp3175
+V126
+p3176
+aVPhilippines:124::(cut)
+p3177
+aVAustralia:119
+p3178
+asVJurassic World
+p3179
+(lp3180
+V124
+p3181
+asVBlack or White
+p3182
+(lp3183
+V116
+p3184
+asV15 Minutes
+p3185
+(lp3186
+V120
+p3187
+asVHannibal Rising
+p3188
+(lp3189
+V121
+p3190
+aV131::(unrated version)
+p3191
+asVA Nightmare on Elm Street (2010)
+p3192
+(lp3193
+V95
+p3194
+asVFrankenweenie
+p3195
+(lp3196
+V87
+p3197
+asVWalking Tall
+p3198
+(lp3199
+V86
+p3200
+asVIce Age: Dawn of the Dinosaurs
+p3201
+(lp3202
+V94
+p3203
+aV122
+p3204
+asVHidalgo
+p3205
+(lp3206
+V136
+p3207
+asVPassengers (2016)
+p3208
+(lp3209
+V116
+p3210
+asVBlade: Trinity
+p3211
+(lp3212
+V113
+p3213
+aVGermany:105::(cut version)
+p3214
+aV122::(unrated version)
+p3215
+asVHugo
+p3216
+(lp3217
+V126
+p3218
+asVJackass: Number Two
+p3219
+(lp3220
+V92
+p3221
+asVThe Illusionist
+p3222
+(lp3223
+V110
+p3224
+asVSelma
+p3225
+(lp3226
+V128
+p3227
+asVUnder the Sea 3D
+p3228
+(lp3229
+VUSA:40
+p3230
+aVAustralia:45
+p3231
+asVThe Skeleton Key
+p3232
+(lp3233
+V104
+p3234
+asVArthur Christmas
+p3235
+(lp3236
+V97
+p3237
+asV30 Days of Night
+p3238
+(lp3239
+V113
+p3240
+asVThe Hobbit: An Unexpected Journey
+p3241
+(lp3242
+V169
+p3243
+aV182::(Extended Edition)
+p3244
+asVJust Married
+p3245
+(lp3246
+V95
+p3247
+asVConcussion (2015)
+p3248
+(lp3249
+V123
+p3250
+asVSerenity
+p3251
+(lp3252
+V119
+p3253
+asVAmerican Reunion
+p3254
+(lp3255
+V113
+p3256
+asVTaxi
+p3257
+(lp3258
+V30::(114 episodes)
+p3259
+asVParental Guidance
+p3260
+(lp3261
+V105
+p3262
+asVFantastic Four (2005)
+p3263
+(lp3264
+V106
+p3265
+aVUSA:125::(extended edition)
+p3266
+asVMaster and Commander: The Far Side of the World
+p3267
+(lp3268
+V138
+p3269
+asVTyler Perry's Good Deeds
+p3270
+(lp3271
+VUSA:110
+p3272
+asVMiss Peregrine's Home for Peculiar Children
+p3273
+(lp3274
+V127
+p3275
+asVThe Others
+p3276
+(lp3277
+V101
+p3278
+aVFinland:104
+p3279
+aVUSA:104
+p3280
+asVHarry Potter and the Chamber of Secrets
+p3281
+(lp3282
+V161
+p3283
+aV174::(extended version)
+p3284
+aVTaiwan:150
+p3285
+asVClick
+p3286
+(lp3287
+V107
+p3288
+asVGladiator
+p3289
+(lp3290
+V155
+p3291
+aV171::(Extended Edition)
+p3292
+asVThe Peanuts Movie
+p3293
+(lp3294
+V88
+p3295
+asVLittle Man
+p3296
+(lp3297
+VUSA:98
+p3298
+aVArgentina:98
+p3299
+asVEnd of Watch
+p3300
+(lp3301
+V109
+p3302
+asVThe Bourne Ultimatum
+p3303
+(lp3304
+V115
+p3305
+asVArrival
+p3306
+(lp3307
+V116
+p3308
+asVMust Love Dogs
+p3309
+(lp3310
+V98
+p3311
+asVStranger Than Fiction
+p3312
+(lp3313
+V113
+p3314
+asVK-19: The Widowmaker
+p3315
+(lp3316
+V138
+p3317
+asVCloudy with a Chance of Meatballs 2
+p3318
+(lp3319
+V95
+p3320
+asVMalibu's Most Wanted
+p3321
+(lp3322
+VUSA:86
+p3323
+asVUnfaithful
+p3324
+(lp3325
+V124
+p3326
+aVSpain:125
+p3327
+asVThe Age of Adaline
+p3328
+(lp3329
+V112
+p3330
+asVHarry Potter and the Order of the Phoenix
+p3331
+(lp3332
+V138
+p3333
+asVJumping the Broom
+p3334
+(lp3335
+VUSA:112
+p3336
+aVArgentina:112
+p3337
+asVOne Hour Photo
+p3338
+(lp3339
+V96
+p3340
+asVValkyrie
+p3341
+(lp3342
+V121
+p3343
+asVHoles
+p3344
+(lp3345
+V117
+p3346
+asVThe Pink Panther (2006)
+p3347
+(lp3348
+V93
+p3349
+asVHoodwinked
+p3350
+(lp3351
+V80
+p3352
+asVFlags of Our Fathers
+p3353
+(lp3354
+V135
+p3355
+asVSemi-Pro
+p3356
+(lp3357
+V91
+p3358
+aV98::(unrated DVD version)
+p3359
+aV99::(unrated version)
+p3360
+asVEx Machina
+p3361
+(lp3362
+V108
+p3363
+asVUnderworld: Rise of the Lycans
+p3364
+(lp3365
+V92
+p3366
+asVMy Bloody Valentine 3-D
+p3367
+(lp3368
+V101
+p3369
+aVGermany:94::(cut version)
+p3370
+asVThe Hunted
+p3371
+(lp3372
+V90
+p3373
+asVThe Lazarus Effect
+p3374
+(lp3375
+V83
+p3376
+asVFantastic Four: Rise of the Silver Surfer
+p3377
+(lp3378
+V92
+p3379
+asVGone Girl
+p3380
+(lp3381
+V149
+p3382
+asVJoe Dirt
+p3383
+(lp3384
+V91
+p3385
+asVFast and Furious
+p3386
+(lp3387
+V106
+p3388
+asVThe Theory of Everything
+p3389
+(lp3390
+V123
+p3391
+asVFracture
+p3392
+(lp3393
+V113
+p3394
+asVTooth Fairy
+p3395
+(lp3396
+V101
+p3397
+asVZootopia
+p3398
+(lp3399
+V108
+p3400
+asVAround the World in 80 Days
+p3401
+(lp3402
+V167::(35 mm version)
+p3403
+aV183::(with overture and exit music)
+p3404
+aVUK:135::(25 fps) (video version)
+p3405
+aVUSA:175
+p3406
+aV182::(TCM print)
+p3407
+asVThe Lovely Bones
+p3408
+(lp3409
+V135
+p3410
+asVThe Three Stooges
+p3411
+(lp3412
+V92
+p3413
+asVTraffic
+p3414
+(lp3415
+V147
+p3416
+aV190::(rough cut)
+p3417
+asVThe Mummy Returns
+p3418
+(lp3419
+V130
+p3420
+asVPaycheck
+p3421
+(lp3422
+V119
+p3423
+asVU-571
+p3424
+(lp3425
+V116
+p3426
+asVWorld Trade Center
+p3427
+(lp3428
+V129
+p3429
+asVMade of Honor
+p3430
+(lp3431
+V101
+p3432
+asVThis is Where I Leave You
+p3433
+(lp3434
+V103
+p3435
+asVThe Hobbit: The Desolation of Smaug
+p3436
+(lp3437
+V161
+p3438
+aV186::(Extended Edition)
+p3439
+asVSomething Borrowed
+p3440
+(lp3441
+V90
+p3442
+asVAre We Done Yet?
+p3443
+(lp3444
+V92
+p3445
+asVThe Cabin in the Woods
+p3446
+(lp3447
+V95
+p3448
+asVFriends with Benefits
+p3449
+(lp3450
+V109
+p3451
+asVNight at the Museum: Battle of the Smithsonian
+p3452
+(lp3453
+V105
+p3454
+asVSee Spot Run
+p3455
+(lp3456
+V94
+p3457
+asVBoo! A Madea Halloween
+p3458
+(lp3459
+V103
+p3460
+asVOpen Water
+p3461
+(lp3462
+VGermany:94
+p3463
+asVJersey Boys
+p3464
+(lp3465
+V134
+p3466
+asVFred Claus
+p3467
+(lp3468
+V116
+p3469
+asVMama
+p3470
+(lp3471
+V100
+p3472
+asVCats & Dogs
+p3473
+(lp3474
+V87
+p3475
+asVThe Haunted Mansion
+p3476
+(lp3477
+VUK:87
+p3478
+aVUSA:88
+p3479
+asVBlood Work
+p3480
+(lp3481
+V110
+p3482
+asVGarden State
+p3483
+(lp3484
+V102
+p3485
+asVHalloween: Resurrection
+p3486
+(lp3487
+V94
+p3488
+aVCanada:89
+p3489
+aVUK:89
+p3490
+asVJohn Tucker Must Die
+p3491
+(lp3492
+V89
+p3493
+aVUSA:95::(unrated version)
+p3494
+asVNim's Island
+p3495
+(lp3496
+V96
+p3497
+asVLegally Blonde
+p3498
+(lp3499
+V96
+p3500
+asVSpy Game
+p3501
+(lp3502
+V126
+p3503
+aVTurkey:114::(TV version)
+p3504
+asVNational Treasure
+p3505
+(lp3506
+V131
+p3507
+asVThe Iron Lady
+p3508
+(lp3509
+V105
+p3510
+asVCrazy Heart
+p3511
+(lp3512
+V112
+p3513
+asVDance Flick
+p3514
+(lp3515
+VUSA:83
+p3516
+aV88::(unrated DVD version)
+p3517
+asVThe Constant Gardener
+p3518
+(lp3519
+V129
+p3520
+asVAngel Eyes
+p3521
+(lp3522
+V102
+p3523
+asVFlightplan
+p3524
+(lp3525
+V98
+p3526
+asVInsidious
+p3527
+(lp3528
+V103
+p3529
+asVHairspray (2007)
+p3530
+(lp3531
+V117
+p3532
+asVWater for Elephants
+p3533
+(lp3534
+VUSA:120
+p3535
+aVArgentina:120
+p3536
+asVThe Shallows
+p3537
+(lp3538
+V86
+p3539
+asVLet's Be Cops
+p3540
+(lp3541
+V104
+p3542
+asVThe Pacifier
+p3543
+(lp3544
+V95
+p3545
+asVInside Man
+p3546
+(lp3547
+V129
+p3548
+asVThe Flintstones in Viva Rock Vegas
+p3549
+(lp3550
+V90
+p3551
+asVThe Soloist
+p3552
+(lp3553
+V117
+p3554
+asVFrida
+p3555
+(lp3556
+V123
+p3557
+asVThe Guardian
+p3558
+(lp3559
+V139
+p3560
+asVLady in the Water
+p3561
+(lp3562
+V110
+p3563
+asVBrothers
+p3564
+(lp3565
+V105
+p3566
+asVGhosts of Girlfriends Past
+p3567
+(lp3568
+VUSA:100
+p3569
+asVCars
+p3570
+(lp3571
+V117
+p3572
+asVBig Fish
+p3573
+(lp3574
+V125
+p3575
+asVMorning Glory
+p3576
+(lp3577
+VUSA:107
+p3578
+asVSpider-Man 3
+p3579
+(lp3580
+V139
+p3581
+aV156::(director's cut)
+p3582
+asVBless the Child
+p3583
+(lp3584
+V107
+p3585
+asVThe Lake House
+p3586
+(lp3587
+V99
+p3588
+asVThe Best Man Holiday
+p3589
+(lp3590
+V123
+p3591
+asVRoad Trip
+p3592
+(lp3593
+V93
+p3594
+aVUSA:94::(unrated version)
+p3595
+asVThe Fighting Temptations
+p3596
+(lp3597
+V123
+p3598
+asVThe Legend of Bagger Vance
+p3599
+(lp3600
+V126
+p3601
+asVAllied
+p3602
+(lp3603
+V124
+p3604
+asVClash of the Titans (2010)
+p3605
+(lp3606
+V106
+p3607
+asVBewitched
+p3608
+(lp3609
+V25::(254 episodes)
+p3610
+asVJust Go With It
+p3611
+(lp3612
+V117
+p3613
+asVThe Second Best Exotic Marigold Hotel
+p3614
+(lp3615
+V122
+p3616
+asVPirates of the Caribbean: The Curse of the Black Pearl
+p3617
+(lp3618
+V143
+p3619
+asVSpanglish
+p3620
+(lp3621
+V131
+p3622
+asVX-Men: The Last Stand
+p3623
+(lp3624
+V104
+p3625
+asVSpectre
+p3626
+(lp3627
+V148
+p3628
+asVX-Men: Apocalypse
+p3629
+(lp3630
+V144
+p3631
+asVWar of the Worlds
+p3632
+(lp3633
+V116
+p3634
+asVAll About the Benjamins
+p3635
+(lp3636
+V95
+p3637
+asVThe Revenant
+p3638
+(lp3639
+V156
+p3640
+asVOnce Upon a Time in Mexico
+p3641
+(lp3642
+V102
+p3643
+asVIce Age: The Meltdown
+p3644
+(lp3645
+V91
+p3646
+aVPhilippines:90::(cut)
+p3647
+aV115::(Extended Cut)
+p3648
+asVHope Springs
+p3649
+(lp3650
+V100
+p3651
+asVPremonition
+p3652
+(lp3653
+V96
+p3654
+asVKung Fu Panda
+p3655
+(lp3656
+V92
+p3657
+asVPanic Room
+p3658
+(lp3659
+V112
+p3660
+aVSpain:113
+p3661
+asVPitch Black
+p3662
+(lp3663
+V109
+p3664
+aVUSA:112::(unrated version)
+p3665
+asVThe Bourne Legacy
+p3666
+(lp3667
+V135
+p3668
+asVMegamind
+p3669
+(lp3670
+V95
+p3671
+asVThe Intern
+p3672
+(lp3673
+V121
+p3674
+asV9
+p3675
+(lp3676
+V79
+p3677
+asVThe Help
+p3678
+(lp3679
+V146
+p3680
+asVCourageous
+p3681
+(lp3682
+VUSA:129
+p3683
+aVArgentina:129
+p3684
+asVThe Longest Yard
+p3685
+(lp3686
+V113
+p3687
+asVThe Internship
+p3688
+(lp3689
+V119
+p3690
+aVUSA:125::(unrated version)
+p3691
+asVXXX: State of the Union
+p3692
+(lp3693
+V101
+p3694
+asVThe Pink Panther 2
+p3695
+(lp3696
+V92
+p3697
+asVNotorious (2009)
+p3698
+(lp3699
+V122
+p3700
+aV128::(unrated director's cut)
+p3701
+asVThe Passion of the Christ
+p3702
+(lp3703
+V127
+p3704
+aV120::(cut)
+p3705
+asVOld School
+p3706
+(lp3707
+V88
+p3708
+asVStardust
+p3709
+(lp3710
+V127
+p3711
+asVThe A-Team
+p3712
+(lp3713
+V117
+p3714
+aV133::(extended cut)
+p3715
+asVThe Purge: Anarchy
+p3716
+(lp3717
+V103
+p3718
+asVTerminator Salvation
+p3719
+(lp3720
+V115
+p3721
+aV118::(director's cut)
+p3722
+asVSaw II
+p3723
+(lp3724
+V93
+p3725
+aV95::(unrated version)
+p3726
+asVUnderworld Awakening
+p3727
+(lp3728
+V88
+p3729
+asVThor: The Dark World
+p3730
+(lp3731
+V112
+p3732
+asV50 First Dates
+p3733
+(lp3734
+V99
+p3735
+asVThe Legend of Tarzan
+p3736
+(lp3737
+V110
+p3738
+asV50/50
+p3739
+(lp3740
+V100
+p3741
+asVBattle: Los Angeles
+p3742
+(lp3743
+V116
+p3744
+asVPoint Break (2015)
+p3745
+(lp3746
+V114
+p3747
+asVBridget Jones: The Edge of Reason
+p3748
+(lp3749
+V108
+p3750
+asVTaken
+p3751
+(lp3752
+V41
+p3753
+asVSpace Station 3-D (IMAX)
+p3754
+(lp3755
+V47
+p3756
+asVUnder the Tuscan Sun
+p3757
+(lp3758
+V113
+p3759
+asVThe Punisher
+p3760
+g37
+sVThe Santa Clause 3: The Escape Clause
+p3761
+(lp3762
+V97
+p3763
+aVPhilippines:91
+p3764
+asVSuicide Squad
+p3765
+(lp3766
+V123
+p3767
+aV134::(Extended Cut)
+p3768
+asVFinal Destination 3
+p3769
+(lp3770
+V93
+p3771
+aVSouth Korea:86::(cut)
+p3772
+asVFinal Destination 2
+p3773
+(lp3774
+V90
+p3775
+asVMr. Popper's Penguins
+p3776
+(lp3777
+VUSA:94
+p3778
+asVThe Family Man
+p3779
+(lp3780
+V125
+p3781
+asVFinal Destination 5
+p3782
+(lp3783
+V92
+p3784
+asVHead of State
+p3785
+(lp3786
+V95
+p3787
+asVDreamer: Inspired by a True Story
+p3788
+(lp3789
+V106
+p3790
+aVCanada:98::(Toronto International Film Festival)
+p3791
+asVOuija
+p3792
+(lp3793
+V89
+p3794
+asVCars 2
+p3795
+(lp3796
+V106
+p3797
+asVGood Luck Chuck
+p3798
+(lp3799
+VUSA:96
+p3800
+aVUSA:101::(unrated version)
+p3801
+aVArgentina:101
+p3802
+asVRacing Stripes
+p3803
+(lp3804
+V102
+p3805
+asVThor
+p3806
+(lp3807
+V115
+p3808
+asVThe Dark Knight Rises
+p3809
+(lp3810
+V164
+p3811
+asVBrave
+p3812
+(lp3813
+V93
+p3814
+asVExodus: Gods and Kings
+p3815
+(lp3816
+V150
+p3817
+aVTaiwan:142
+p3818
+asVNational Treasure: Book of Secrets
+p3819
+(lp3820
+V124
+p3821
+asVBig Momma's House 2
+p3822
+(lp3823
+V99
+p3824
+asVThe Hunger Games
+p3825
+(lp3826
+V142
+p3827
+asVStealth
+p3828
+(lp3829
+V121
+p3830
+asVOffice Christmas Party
+p3831
+(lp3832
+V105
+p3833
+aV111::(Unrated)
+p3834
+asVSucker Punch
+p3835
+(lp3836
+V110
+p3837
+aV128::(extended cut)
+p3838
+asVIt's Complicated
+p3839
+(lp3840
+VUSA:120
+p3841
+aVArgentina:120
+p3842
+asVThe Replacements
+p3843
+(lp3844
+V118
+p3845
+aVAustralia:114
+p3846
+asVMr. & Mrs. Smith
+p3847
+(lp3848
+V120
+p3849
+aV126::(Director's Cut)
+p3850
+asVAeon Flux
+p3851
+(lp3852
+V93
+p3853
+asVAtonement
+p3854
+(lp3855
+V123
+p3856
+asVThe Adventures of Rocky & Bullwinkle
+p3857
+(lp3858
+V92
+p3859
+asVFriday Night Lights
+p3860
+(lp3861
+V44
+p3862
+asVMIB 3
+p3863
+g37
+sVJourney to the Center of the Earth
+p3864
+(lp3865
+V93
+p3866
+asVThe Santa Clause 2
+p3867
+(lp3868
+V104
+p3869
+asVBecause I Said So
+p3870
+(lp3871
+VUSA:102
+p3872
+asVSnatch
+p3873
+(lp3874
+V104
+p3875
+aVUSA:102
+p3876
+asVAugust Rush
+p3877
+(lp3878
+V114
+p3879
+aVIsrael:100
+p3880
+asVThe Amazing Spider-Man 2
+p3881
+(lp3882
+V142
+p3883
+asVNacho Libre
+p3884
+(lp3885
+V92
+p3886
+asVHarry Potter and the Sorcerer's Stone
+p3887
+(lp3888
+V152
+p3889
+aV159::(extended version)
+p3890
+asVAmerican Sniper
+p3891
+(lp3892
+V133
+p3893
+asVJack and Jill
+p3894
+(lp3895
+V91
+p3896
+asVMoney Monster
+p3897
+(lp3898
+V98
+p3899
+asV300
+p3900
+(lp3901
+V117
+p3902
+asVFinding Forrester
+p3903
+(lp3904
+V136
+p3905
+asVThe Strangers
+p3906
+(lp3907
+V86
+p3908
+aV88::(unrated version)
+p3909
+asVThe Other Woman (2014)
+p3910
+(lp3911
+V109
+p3912
+asVThe Hangover
+p3913
+(lp3914
+V100
+p3915
+aV108::(unrated version)
+p3916
+asVThe Giver
+p3917
+(lp3918
+V97
+p3919
+asVHostage
+p3920
+(lp3921
+V113
+p3922
+asVThe Time Traveler's Wife
+p3923
+(lp3924
+V107
+p3925
+asVBlue Crush
+p3926
+(lp3927
+V104
+p3928
+asVElizabethtown
+p3929
+(lp3930
+V123
+p3931
+asV27 Dresses
+p3932
+(lp3933
+V111
+p3934
+asVState of Play
+p3935
+(lp3936
+V127
+p3937
+asVJeepers Creepers
+p3938
+(lp3939
+V90
+p3940
+asVElf
+p3941
+(lp3942
+V97
+p3943
+asVDeath Race
+p3944
+(lp3945
+V105
+p3946
+aVUSA:111::(unrated version)
+p3947
+asVUrban Legends: Final Cut
+p3948
+(lp3949
+V97
+p3950
+asVKubo and the Two Strings
+p3951
+(lp3952
+V101
+p3953
+asVThe Woman in Black
+p3954
+(lp3955
+V95
+p3956
+asVO Brother, Where Art Thou?
+p3957
+(lp3958
+V107
+p3959
+asVWhite Noise
+p3960
+(lp3961
+V101
+p3962
+aVSweden:94
+p3963
+asVWanted
+p3964
+(lp3965
+V110
+p3966
+asVS.W.A.T.
+p3967
+(lp3968
+V117
+p3969
+asVMoonlight (2016)
+p3970
+(lp3971
+V111
+p3972
+asVThe Gambler
+p3973
+(lp3974
+V111
+p3975
+asVShall We Dance
+p3976
+(lp3977
+V106
+p3978
+asVOlympus Has Fallen
+p3979
+(lp3980
+V119
+p3981
+asVDeliver Us From Evil
+p3982
+(lp3983
+V118
+p3984
+asVHarold and Kumar Escape from Guantanamo Bay
+p3985
+(lp3986
+VUSA:107::(unrated version)
+p3987
+aV102::(theatrical)
+p3988
+aVGermany:104
+p3989
+asVEagle Eye
+p3990
+(lp3991
+V118
+p3992
+asVFirewall
+p3993
+(lp3994
+V105
+p3995
+asVMy Big Fat Greek Wedding
+p3996
+(lp3997
+V95
+p3998
+asVThe Equalizer
+p3999
+(lp4000
+V132
+p4001
+asVHail, Caesar!
+p4002
+(lp4003
+V106
+p4004
+asVArthur (2011)
+p4005
+(lp4006
+V110
+p4007
+asVG-Force
+p4008
+(lp4009
+V88
+p4010
+asVAfter the Sunset
+p4011
+(lp4012
+V97
+p4013
+asVGran Torino
+p4014
+(lp4015
+V116
+p4016
+asVBlack Hawk Down
+p4017
+(lp4018
+V144
+p4019
+aVGermany:142
+p4020
+aVUSA:152::(extended version)
+p4021
+asVUnderworld
+p4022
+(lp4023
+V121
+p4024
+aVUSA:133::(director's cut)
+p4025
+asVQuantum of Solace
+p4026
+(lp4027
+V106
+p4028
+asVBabel
+p4029
+(lp4030
+V143
+p4031
+asVTrue Grit
+p4032
+(lp4033
+V110
+p4034
+asVFast & Furious 6
+p4035
+(lp4036
+V130
+p4037
+asVPuss in Boots
+p4038
+(lp4039
+V90
+p4040
+asVJurassic Park III
+p4041
+(lp4042
+V92
+p4043
+asVThe Gift (2015)
+p4044
+(lp4045
+V108
+p4046
+asVMiami Vice
+p4047
+(lp4048
+V48
+p4049
+aVUSA:60::(including commercials) (111 episodes)
+p4050
+asVScary Movie
+p4051
+(lp4052
+V111
+p4053
+aVGermany:103::(PAL DVD version) (cut)
+p4054
+asVScott Pilgrim vs. the World
+p4055
+(lp4056
+V112
+p4057
+asVMichael Jackson's This Is It
+p4058
+(lp4059
+V111
+p4060
+asVThe Shaggy Dog
+p4061
+(lp4062
+V98
+p4063
+asVSisters
+p4064
+(lp4065
+V118
+p4066
+asVPitch Perfect
+p4067
+(lp4068
+V112
+p4069
+asVSully
+p4070
+(lp4071
+V96
+p4072
+asVMinority Report
+p4073
+(lp4074
+V145
+p4075
+asVQuarantine
+p4076
+(lp4077
+V89
+p4078
+asVCentral Intelligence
+p4079
+(lp4080
+V107
+p4081
+aV116::(Unrated)
+p4082
+asVKeeping the Faith
+p4083
+(lp4084
+V128
+p4085
+asVDisturbia
+p4086
+(lp4087
+V105
+p4088
+asVThe Italian Job
+p4089
+(lp4090
+V111
+p4091
+asVThe Wolfman
+p4092
+(lp4093
+V103
+p4094
+aV119::(unrated director's cut)
+p4095
+asVShowtime
+p4096
+(lp4097
+V123
+p4098
+asVSahara
+p4099
+(lp4100
+V124
+p4101
+asVSweeney Todd: The Demon Barber of Fleet Street
+p4102
+(lp4103
+V116
+p4104
+asVLimitless
+p4105
+(lp4106
+V42
+p4107
+asVThe World's End
+p4108
+(lp4109
+V109
+p4110
+asVThe Best Exotic Marigold Hotel
+p4111
+(lp4112
+V124
+p4113
+asVDoubt
+p4114
+(lp4115
+V42
+p4116
+asVParanormal Activity: The Marked Ones
+p4117
+(lp4118
+V84
+p4119
+aV101::(unrated version)
+p4120
+asVWild (2014)
+p4121
+(lp4122
+V115
+p4123
+asVThe Monuments Men
+p4124
+(lp4125
+V118
+p4126
+asVLara Croft: Tomb Raider
+p4127
+(lp4128
+V100
+p4129
+asVThis Is 40
+p4130
+(lp4131
+V134
+p4132
+asVFantasia 2000 (IMAX)
+p4133
+(lp4134
+VUSA:75
+p4135
+asVPoltergeist (2015)
+p4136
+(lp4137
+V93
+p4138
+aV101::(Extended Cut)
+p4139
+asVRomeo Must Die
+p4140
+(lp4141
+V115
+p4142
+asVZack and Miri Make a Porno
+p4143
+(lp4144
+V101
+p4145
+asVThe Adventures of Tintin
+p4146
+(lp4147
+V107
+p4148
+asVHereafter
+p4149
+(lp4150
+V129
+p4151
+asVThe Lucky One
+p4152
+(lp4153
+V101
+p4154
+asVVan Helsing
+p4155
+(lp4156
+V60
+p4157
+asVThe Boy Next Door
+p4158
+(lp4159
+V91
+p4160
+asVSpy
+p4161
+(lp4162
+V119
+p4163
+aV130::(extended cut)
+p4164
+asV12 Years a Slave
+p4165
+(lp4166
+V134
+p4167
+asVChicken Little
+p4168
+(lp4169
+V81
+p4170
+asVSoul Surfer
+p4171
+(lp4172
+V112
+p4173
+asVThe Ant Bully
+p4174
+(lp4175
+V88
+p4176
+asVOcean's Eleven
+p4177
+(lp4178
+V116
+p4179
+asVThe Fault in our Stars
+p4180
+(lp4181
+V126
+p4182
+aV133::(Extended Edition)
+p4183
+asVWall Street: Money Never Sleeps
+p4184
+(lp4185
+V133
+p4186
+aV136::(Cannes Film Festival)
+p4187
+asVKick-Ass 2
+p4188
+(lp4189
+V103
+p4190
+asVAngels & Demons
+p4191
+(lp4192
+V138
+p4193
+aV146::(extended edition)
+p4194
+asVConfessions of a Teenage Drama Queen
+p4195
+(lp4196
+V89
+p4197
+asVAct of Valor
+p4198
+(lp4199
+V110
+p4200
+asVRio 2
+p4201
+(lp4202
+V101
+p4203
+asVZoolander
+p4204
+(lp4205
+V90
+p4206
+asVWALL-E
+p4207
+(lp4208
+V98
+p4209
+asVToy Story / Toy Story 2 (3D)
+p4210
+g37
+sVAnt-Man
+p4211
+(lp4212
+V117
+p4213
+asVWhite Chicks
+p4214
+(lp4215
+V109
+p4216
+aV115::(Unrated)
+p4217
+asVTyler Perry's Daddy's Little Girls
+p4218
+(lp4219
+V100
+p4220
+asVAugust: Osage County
+p4221
+(lp4222
+V121
+p4223
+asV1408
+p4224
+(lp4225
+V104
+p4226
+aV114::(director's cut)
+p4227
+asVLadder 49
+p4228
+(lp4229
+V115
+p4230
+asVHere Comes the Boom
+p4231
+(lp4232
+V105
+p4233
+asVChicken Run
+p4234
+(lp4235
+V84
+p4236
+asVAre We There Yet?
+p4237
+(lp4238
+V95
+p4239
+asVTangled
+p4240
+(lp4241
+VUSA:100
+p4242
+asVWe Were Soldiers
+p4243
+(lp4244
+V138
+p4245
+aVArgentina:140
+p4246
+aVGermany:126::(cut)
+p4247
+aVSpain:143
+p4248
+aVTurkey:124::(TV version)
+p4249
+asVR.I.P.D.
+p4250
+(lp4251
+VUSA:96
+p4252
+asVA Man Apart
+p4253
+(lp4254
+V109
+p4255
+asVRicki and the Flash
+p4256
+(lp4257
+V101
+p4258
+asVChangeling
+p4259
+(lp4260
+V141
+p4261
+asVThe Incredibles
+p4262
+(lp4263
+V115
+p4264
+asVIce Age
+p4265
+(lp4266
+V81
+p4267
+aV103::(Extended Cut)
+p4268
+asVThe Exorcism of Emily Rose
+p4269
+(lp4270
+V119
+p4271
+aVUSA:122::(unrated version)
+p4272
+asVGnomeo and Juliet
+p4273
+g37
+sVFat Albert
+p4274
+(lp4275
+V93
+p4276
+asVThe Beach
+p4277
+(lp4278
+V119
+p4279
+asVThe Divergent Series: Insurgent
+p4280
+(lp4281
+V119
+p4282
+asVCaptain Phillips
+p4283
+(lp4284
+V134
+p4285
+asVMother's Day
+p4286
+(lp4287
+V118
+p4288
+asVOuija: Origin of Evil
+p4289
+(lp4290
+V99
+p4291
+asVDragonfly
+p4292
+(lp4293
+V104
+p4294
+asVDreamcatcher
+p4295
+(lp4296
+V136
+p4297
+aVUSA:134
+p4298
+asVGods of Egypt
+p4299
+(lp4300
+V126
+p4301
+asVSaving Mr. Banks
+p4302
+(lp4303
+V125
+p4304
+asVTerminator 3: Rise of the Machines
+p4305
+(lp4306
+V109
+p4307
+asVDriven
+p4308
+(lp4309
+V97
+p4310
+asVMonsters, Inc.
+p4311
+(lp4312
+V92
+p4313
+asVFinal Destination
+p4314
+(lp4315
+V98
+p4316
+asVYou Don't Mess with the Zohan
+p4317
+(lp4318
+V113
+p4319
+asVBlade II
+p4320
+(lp4321
+V117
+p4322
+aVFinland:108
+p4323
+asVTakers
+p4324
+(lp4325
+V107
+p4326
+asVThe Gallows
+p4327
+(lp4328
+V81
+p4329
+asVInto the Woods
+p4330
+(lp4331
+V125
+p4332
+asVTyler Perry's A Madea Christmas
+p4333
+(lp4334
+V100
+p4335
+asVChildren of Men
+p4336
+(lp4337
+V109
+p4338
+asVIntolerable Cruelty
+p4339
+(lp4340
+V100
+p4341
+asVAlvin and the Chipmunks: Chipwrecked
+p4342
+(lp4343
+V87
+p4344
+asVBe Cool
+p4345
+(lp4346
+V118
+p4347
+asVBridge of Spies
+p4348
+(lp4349
+V142
+p4350
+asVWoman in Gold
+p4351
+(lp4352
+V109
+p4353
+asVTyler Perry's Why Did I Get Married Too?
+p4354
+(lp4355
+VUSA:121
+p4356
+asVCrocodile Dundee in Los Angeles
+p4357
+(lp4358
+V92
+p4359
+asVBlack Mass
+p4360
+(lp4361
+V123
+p4362
+asVThe Core
+p4363
+(lp4364
+V135
+p4365
+asVStomp the Yard
+p4366
+(lp4367
+VUSA:115
+p4368
+aVUSA:109
+p4369
+aVArgentina:109
+p4370
+asVHellboy II: The Golden Army
+p4371
+(lp4372
+V120
+p4373
+asVDivine Secrets of the Ya-Ya Sisterhood
+p4374
+(lp4375
+V116
+p4376
+asVThe Night Before
+p4377
+(lp4378
+V101
+p4379
+asVThe Bounty Hunter
+p4380
+(lp4381
+V110
+p4382
+asVFury (2014)
+p4383
+(lp4384
+V134
+p4385
+asVMadagascar 3: Europe's Most Wanted
+p4386
+(lp4387
+VUSA:93
+p4388
+asVRiddick
+p4389
+(lp4390
+V119
+p4391
+aV127::(director's cut)
+p4392
+asVThe Sum of All Fears
+p4393
+(lp4394
+V124
+p4395
+aVSpain:128
+p4396
+asVHotel Transylvania 2
+p4397
+(lp4398
+V89
+p4399
+asVLove & Basketball
+p4400
+(lp4401
+V124
+p4402
+asVHorrible Bosses
+p4403
+(lp4404
+VUSA:98
+p4405
+aV106::(extended cut)
+p4406
+asVMemento
+p4407
+(lp4408
+V113
+p4409
+asVTyler Perry's Temptation: Confessions of a Marriage Counselor
+p4410
+(lp4411
+V111
+p4412
+asVHannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour
+p4413
+g37
+sVTrainwreck
+p4414
+(lp4415
+V125
+p4416
+aV129::(unrated version)
+p4417
+asVRecess: School's Out
+p4418
+(lp4419
+V82
+p4420
+asVDeepwater Horizon
+p4421
+(lp4422
+V107
+p4423
+asVShrek
+p4424
+(lp4425
+V90
+p4426
+asVJeepers Creepers 2
+p4427
+(lp4428
+VUSA:104
+p4429
+asVThe Pianist
+p4430
+(lp4431
+V150
+p4432
+asVThe BFG
+p4433
+(lp4434
+V117
+p4435
+asVThe One
+p4436
+(lp4437
+V87
+p4438
+aVGermany:85::(cut version)
+p4439
+asVBad Santa
+p4440
+(lp4441
+V91
+p4442
+aV88::(Director's cut)
+p4443
+aV98::(unrated version)
+p4444
+asVPerfect Stranger
+p4445
+(lp4446
+V109
+p4447
+asVThe Green Hornet
+p4448
+(lp4449
+VUSA:119
+p4450
+asVDr. Seuss' Horton Hears a Who!
+p4451
+(lp4452
+V86
+p4453
+asVNightcrawler
+p4454
+(lp4455
+V118
+p4456
+asVCollege Road Trip
+p4457
+(lp4458
+V83
+p4459
+asVThe Girl on the Train (2016)
+p4460
+(lp4461
+V112
+p4462
+asVFlushed Away
+p4463
+(lp4464
+V85
+p4465
+asVLove Actually
+p4466
+(lp4467
+V135
+p4468
+aVCanada:129::(Toronto International Film Festival)
+p4469
+aVSouth Korea:129::(Asian Edition)
+p4470
+asVMoonrise Kingdom
+p4471
+(lp4472
+V94
+p4473
+asVDate Night
+p4474
+(lp4475
+V88
+p4476
+aV101::(extended version)
+p4477
+asVThe Wedding Ringer
+p4478
+(lp4479
+V101
+p4480
+asVAbout Last Night (2014)
+p4481
+(lp4482
+V100
+p4483
+asVSecretariat
+p4484
+(lp4485
+V123
+p4486
+asVDude, Where's My Car?
+p4487
+(lp4488
+V83
+p4489
+asVRocky Balboa
+p4490
+(lp4491
+V102
+p4492
+aV139::(director's cut)
+p4493
+asVCold Mountain
+p4494
+(lp4495
+V154
+p4496
+asVThe Ring
+p4497
+(lp4498
+V102
+p4499
+asVSweet November
+p4500
+(lp4501
+V119
+p4502
+aVGermany:115
+p4503
+asVBlood Diamond
+p4504
+(lp4505
+V143
+p4506
+asVMonster-in-Law
+p4507
+(lp4508
+V101
+p4509
+asVThe Sitter
+p4510
+(lp4511
+V81
+p4512
+aVUSA:87::(unrated version)
+p4513
+asVDue Date
+p4514
+(lp4515
+V95
+p4516
+asVThe Conjuring 2
+p4517
+(lp4518
+V134
+p4519
+asVAlmost Christmas
+p4520
+(lp4521
+V111
+p4522
+asVDaddy Day Care
+p4523
+(lp4524
+V92
+p4525
+asV13 Going on 30
+p4526
+(lp4527
+V98
+p4528
+asVNancy Drew
+p4529
+(lp4530
+V99
+p4531
+asVTalladega Nights: The Ballad of Ricky Bobby
+p4532
+(lp4533
+V108
+p4534
+aV122::(unrated version)
+p4535
+aVArgentina:121
+p4536
+asVThe Princess Diaries
+p4537
+(lp4538
+V111
+p4539
+asVIce Age: Collision Course
+p4540
+(lp4541
+V94
+p4542
+asVEntourage
+p4543
+(lp4544
+V28
+p4545
+asVFinding Nemo (3D)
+p4546
+(lp4547
+V100
+p4548
+asVRumor Has It
+p4549
+g37
+sVThe Time Machine
+p4550
+(lp4551
+V96
+p4552
+asVRaising Helen
+p4553
+(lp4554
+V119
+p4555
+asVSaw
+p4556
+(lp4557
+V103
+p4558
+asVThe Nanny Diaries
+p4559
+(lp4560
+V106
+p4561
+aVUSA:105
+p4562
+asVMr. Woodcock
+p4563
+(lp4564
+VUSA:87
+p4565
+asVSlumdog Millionaire
+p4566
+(lp4567
+V120
+p4568
+asVMen of Honor
+p4569
+(lp4570
+V129
+p4571
+asVProof of Life
+p4572
+(lp4573
+V135
+p4574
+asVThe Judge
+p4575
+(lp4576
+V141
+p4577
+asVLast Holiday
+p4578
+(lp4579
+V112
+p4580
+asVJust Friends
+p4581
+(lp4582
+V96
+p4583
+asVInstructions Not Included
+p4584
+(lp4585
+V115
+p4586
+aVUSA:122
+p4587
+asVThe Hunger Games: Mockingjay - Part 2
+p4588
+(lp4589
+V137
+p4590
+asVSource Code
+p4591
+(lp4592
+V93
+p4593
+asVJoe Somebody
+p4594
+(lp4595
+V98
+p4596
+asVThe Exorcist Director's Cut
+p4597
+(lp4598
+V122
+p4599
+aV132::(director's cut)
+p4600
+asVGarfield: A Tail of Two Kitties
+p4601
+(lp4602
+V86
+p4603
+aVUSA:86::(extended dvd edition)
+p4604
+asVZoolander 2
+p4605
+(lp4606
+V102
+p4607
+aV108::(The Magnum Edition)
+p4608
+asVThe Sweetest Thing
+p4609
+(lp4610
+V88
+p4611
+aVArgentina:85
+p4612
+aVColombia:82
+p4613
+aVNetherlands:87
+p4614
+aVSpain:90::(unrated version)
+p4615
+aVUSA:90::(unrated version)
+p4616
+asVDaybreakers
+p4617
+(lp4618
+V98
+p4619
+asVDinosaur
+p4620
+(lp4621
+V82
+p4622
+asVMike and Dave Need Wedding Dates
+p4623
+(lp4624
+V98
+p4625
+asVThe Sisterhood of the Traveling Pants 2
+p4626
+(lp4627
+V119
+p4628
+asVPenguins of Madagascar
+p4629
+(lp4630
+V92
+p4631
+asVFocus (2015)
+p4632
+(lp4633
+V105
+p4634
+asVThe American
+p4635
+(lp4636
+V105
+p4637
+asVRole Models
+p4638
+(lp4639
+V99
+p4640
+aV101::(unrated version)
+p4641
+asVPlanet 51
+p4642
+(lp4643
+V91
+p4644
+asVGangster Squad
+p4645
+(lp4646
+V113
+p4647
+asVThe Bucket List
+p4648
+(lp4649
+V97
+p4650
+asVAssassin's Creed
+p4651
+(lp4652
+V115
+p4653
+asVThe Huntsman: Winter's War
+p4654
+(lp4655
+V114
+p4656
+aVUSA:120::(Extended Cut)
+p4657
+asVThe SpongeBob Movie: Sponge Out of Water
+p4658
+(lp4659
+V92
+p4660
+asVSide Effects (2013)
+p4661
+(lp4662
+V106
+p4663
+asVThe Transporter
+p4664
+(lp4665
+V92
+p4666
+asVThe Original Kings of Comedy
+p4667
+(lp4668
+V115
+p4669
+asVLincoln
+p4670
+(lp4671
+V150
+p4672
+asVCollateral Damage
+p4673
+(lp4674
+V108
+p4675
+asVCloudy with a Chance of Meatballs
+p4676
+(lp4677
+V90
+p4678
+asVThe 40-Year-Old Virgin
+p4679
+(lp4680
+V116
+p4681
+aVPhilippines:112::(cut)
+p4682
+aV133::(unrated version)
+p4683
+asVStep Up
+p4684
+(lp4685
+V104
+p4686
+asVLove the Coopers
+p4687
+(lp4688
+V107
+p4689
+asVBoyhood
+p4690
+(lp4691
+V165
+p4692
+asVThe Descendants
+p4693
+(lp4694
+V115
+p4695
+asVHarry Potter and the Prisoner of Azkaban
+p4696
+(lp4697
+V142
+p4698
+asVMe, Myself and Irene
+p4699
+(lp4700
+V116
+p4701
+asVAgent Cody Banks 2: Destination London
+p4702
+(lp4703
+V100
+p4704
+asV28 Weeks Later
+p4705
+(lp4706
+V100
+p4707
+asVFor Colored Girls
+p4708
+(lp4709
+VUSA:133
+p4710
+asVHow the Grinch Stole Christmas
+p4711
+(lp4712
+V104
+p4713
+aV110::(TV version)
+p4714
+asVFurious 7
+p4715
+(lp4716
+V137
+p4717
+aV140::(extended cut)
+p4718
+asVBridge to Terabithia
+p4719
+(lp4720
+V96
+p4721
+asVFast Five
+p4722
+(lp4723
+V131
+p4724
+aV132::(extended version)
+p4725
+asVPirates of the Caribbean: On Stranger Tides
+p4726
+(lp4727
+VUSA:136
+p4728
+aVArgentina:137
+p4729
+asVHacksaw Ridge
+p4730
+(lp4731
+V139
+p4732
+asVStuck on You
+p4733
+(lp4734
+V118
+p4735
+asVMurder by Numbers
+p4736
+(lp4737
+V115
+p4738
+asVNow You See Me 2
+p4739
+(lp4740
+V129
+p4741
+asVPan
+p4742
+(lp4743
+V111
+p4744
+asV17 Again
+p4745
+(lp4746
+V102
+p4747
+asVThe Break-Up
+p4748
+(lp4749
+V106
+p4750
+asVEnder's Game
+p4751
+(lp4752
+V114
+p4753
+asVGet Him to the Greek
+p4754
+(lp4755
+V109
+p4756
+aV114::(unrated version)
+p4757
+asVJay and Silent Bob Strike Back
+p4758
+(lp4759
+V104
+p4760
+asVLive Free or Die Hard
+p4761
+(lp4762
+V128
+p4763
+aV129::(unrated version)
+p4764
+asVLights Out
+p4765
+(lp4766
+V81
+p4767
+asVJurassic Park 3D
+p4768
+(lp4769
+V127
+p4770
+asVCarrie (2013)
+p4771
+(lp4772
+V100
+p4773
+asVThe Lord of the Rings: The Fellowship of the Ring
+p4774
+(lp4775
+V178
+p4776
+aV208::(Special DVD Extended Edition)
+p4777
+aV228::(Blu Ray Extended Edition)
+p4778
+aV171::(DVD Widescreen Edition)
+p4779
+asVSon of God
+p4780
+(lp4781
+V138
+p4782
+aV170::(Extended Version)
+p4783
+asVPineapple Express
+p4784
+(lp4785
+V111
+p4786
+aVUSA:117::(unrated version)
+p4787
+asVScooby-Doo
+p4788
+(lp4789
+VArgentina:88
+p4790
+aVGermany:86
+p4791
+aVSpain:89
+p4792
+aVUSA:86
+p4793
+asVPrisoners
+p4794
+(lp4795
+V153
+p4796
+asVFinding Nemo
+p4797
+(lp4798
+V100
+p4799
+asVThe Boss
+p4800
+(lp4801
+V99
+p4802
+aV104::(unrated)
+p4803
+asVProm Night (2008)
+p4804
+(lp4805
+V88
+p4806
+aV89::(unrated version)
+p4807
+asVZombieland
+p4808
+(lp4809
+V88
+p4810
+asVIce Age: Continental Drift
+p4811
+(lp4812
+V88
+p4813
+asVChocolat
+p4814
+(lp4815
+V121
+p4816
+asVStorks
+p4817
+(lp4818
+V87
+p4819
+asVCoraline
+p4820
+(lp4821
+V100
+p4822
+asVThe Sentinel
+p4823
+(lp4824
+V108
+p4825
+aVPhilippines:107::(cut)
+p4826
+asVMeet the Parents
+p4827
+(lp4828
+V108
+p4829
+asVCats & Dogs: The Revenge of Kitty Galore
+p4830
+(lp4831
+VUSA:82
+p4832
+asV300: Rise of An Empire
+p4833
+(lp4834
+V102
+p4835
+asVThe Simpsons Movie
+p4836
+(lp4837
+V87
+p4838
+asVNorbit
+p4839
+(lp4840
+VUSA:102
+p4841
+aVPhilippines:101
+p4842
+aVArgentina:103
+p4843
+asVRed Dawn (2012)
+p4844
+(lp4845
+V93
+p4846
+asVJack the Giant Slayer
+p4847
+(lp4848
+V114
+p4849
+asV10 Cloverfield Lane
+p4850
+(lp4851
+V104
+p4852
+asVSavages (2012)
+p4853
+(lp4854
+V131
+p4855
+aVUSA:141::(unrated version)
+p4856
+asVJimmy Neutron: Boy Genius
+p4857
+(lp4858
+V82
+p4859
+aVSpain:84
+p4860
+asVMagic Mike
+p4861
+(lp4862
+V110
+p4863
+asVHouse of Wax
+p4864
+(lp4865
+V108
+p4866
+asVBad Boys II
+p4867
+(lp4868
+V147
+p4869
+asVStraight Outta Compton
+p4870
+(lp4871
+V147
+p4872
+aV167::(unrated director's cut)
+p4873
+asVThe Hours
+p4874
+(lp4875
+V114
+p4876
+asVJack Reacher: Never Go Back
+p4877
+(lp4878
+V118
+p4879
+asVThe King's Speech
+p4880
+(lp4881
+V118
+p4882
+asVThe Debt
+p4883
+(lp4884
+V113
+p4885
+asVDon't Breathe
+p4886
+(lp4887
+V88
+p4888
+asVAlien Vs. Predator
+p4889
+(lp4890
+V101
+p4891
+aV103::(extended version)
+p4892
+aV109::(Unrated Version)
+p4893
+asVAmerican Gangster
+p4894
+(lp4895
+V157
+p4896
+aVUSA:176::(Unrated Edition)
+p4897
+asVThe Legend of Zorro
+p4898
+(lp4899
+V129
+p4900
+asVScary Movie 5
+p4901
+(lp4902
+VUSA:86
+p4903
+aV88::(Unrated)
+p4904
+asVScary Movie 4
+p4905
+(lp4906
+V83
+p4907
+aVUSA:89::(unrated version)
+p4908
+asVScary Movie 3
+p4909
+(lp4910
+V84
+p4911
+asVScary Movie 2
+p4912
+(lp4913
+V83
+p4914
+asVSpider-Man
+p4915
+(lp4916
+V121
+p4917
+asVBen-Hur (2016)
+p4918
+(lp4919
+V123
+p4920
+aVChina:114::(mainland china)
+p4921
+asVNon-Stop
+p4922
+(lp4923
+V106
+p4924
+asV30 Minutes or Less
+p4925
+(lp4926
+V83
+p4927
+asVPain and Gain
+p4928
+g37
+sVOcean's Thirteen
+p4929
+(lp4930
+V122
+p4931
+aVCroatia:114
+p4932
+asVThe Bourne Identity
+p4933
+(lp4934
+V119
+p4935
+asVLawless
+p4936
+(lp4937
+V129
+p4938
+asVForgetting Sarah Marshall
+p4939
+(lp4940
+V111
+p4941
+aV118::(unrated version)
+p4942
+asVAnchorman: The Legend of Ron Burgundy
+p4943
+(lp4944
+V94
+p4945
+aVUSA:104::(extended version)
+p4946
+aVCanada:97
+p4947
+aV98::(unrated)
+p4948
+asVThe Pursuit of Happyness
+p4949
+(lp4950
+V117
+p4951
+asVThe Matrix Revolutions
+p4952
+(lp4953
+V129
+p4954
+asVThe Taking of Pelham 1 2 3
+p4955
+(lp4956
+V104
+p4957
+asVThe Banger Sisters
+p4958
+(lp4959
+VUSA:98
+p4960
+asVHappy Feet
+p4961
+(lp4962
+V108
+p4963
+asVRace to Witch Mountain
+p4964
+(lp4965
+V98
+p4966
+asVEvil Dead (2013)
+p4967
+(lp4968
+V91
+p4969
+aV97::(Unrated Edition)
+p4970
+asVThe Wolverine
+p4971
+(lp4972
+V126
+p4973
+aV138::(Extended Edition)
+p4974
+asVThe Hills Have Eyes
+p4975
+(lp4976
+V107
+p4977
+aV108::(unrated version)
+p4978
+asVVanilla Sky
+p4979
+(lp4980
+V136
+p4981
+aV141::(alternate ending version)
+p4982
+asVAlice in Wonderland (2010)
+p4983
+(lp4984
+V108
+p4985
+asVKingdom Come
+p4986
+(lp4987
+V94
+p4988
+asVThe Other Guys
+p4989
+(lp4990
+V107
+p4991
+aV116::(unrated version)
+p4992
+asVHitch
+p4993
+(lp4994
+V118
+p4995
+asVA Knight's Tale
+p4996
+(lp4997
+V132
+p4998
+aV144::(extended version)
+p4999
+asVTeam America: World Police
+p5000
+(lp5001
+V98
+p5002
+asVHotel for Dogs
+p5003
+(lp5004
+V100
+p5005
+asVKill Bill Vol. 2
+p5006
+(lp5007
+V137
+p5008
+asVHeartbreakers
+p5009
+(lp5010
+V123
+p5011
+asVKill Bill Vol. 1
+p5012
+(lp5013
+V111
+p5014
+aVJapan:112
+p5015
+asVHe's Just Not That Into You
+p5016
+(lp5017
+V129
+p5018
+asVReturn to Me
+p5019
+(lp5020
+V115
+p5021
+asVTyler Perry's Madea's Witness Protection
+p5022
+(lp5023
+VUSA:114
+p5024
+asVAnnie (2014)
+p5025
+(lp5026
+V118
+p5027
+asVFantasia 2000 (35mm & IMAX)
+p5028
+g37
+sVThe Dark Knight
+p5029
+(lp5030
+V152
+p5031
+asVBrooklyn
+p5032
+(lp5033
+V117
+p5034
+asVCowboys & Aliens
+p5035
+(lp5036
+V119
+p5037
+aV135::(extended version)
+p5038
+asVThe Hitchhiker's Guide to the Galaxy
+p5039
+(lp5040
+V109
+p5041
+asVDerailed
+p5042
+(lp5043
+V108
+p5044
+aVUSA:112::(unrated version)
+p5045
+asVHarry Potter and the Deathly Hallows Part 1
+p5046
+(lp5047
+V146
+p5048
+asVHarry Potter and the Deathly Hallows Part 2
+p5049
+g37
+sVX-Men Origins: Wolverine
+p5050
+(lp5051
+V107
+p5052
+aVUSA:119::(extended cut)
+p5053
+asVIn the Heart of the Sea
+p5054
+(lp5055
+V122
+p5056
+asVThe Switch
+p5057
+(lp5058
+VUSA:101
+p5059
+asVSing
+p5060
+(lp5061
+V108
+p5062
+asVGhost Rider
+p5063
+(lp5064
+V114
+p5065
+aV123::(extended cut)
+p5066
+asVPaul Blart: Mall Cop
+p5067
+(lp5068
+V91
+p5069
+asVMonsters, Inc. (3D)
+p5070
+(lp5071
+V92
+p5072
+asVThe Pirates! Band of Misfits
+p5073
+(lp5074
+V88
+p5075
+asVThe Finest Hours
+p5076
+(lp5077
+V117
+p5078
+asVSwimFan
+p5079
+(lp5080
+V85
+p5081
+asVJoyful Noise
+p5082
+(lp5083
+VUSA:118
+p5084
+asVAliens Vs. Predator - Requiem
+p5085
+(lp5086
+V94
+p5087
+aVUSA:102::(unrated version)
+p5088
+asV2012
+p5089
+(lp5090
+V158
+p5091
+asVThe Big Short
+p5092
+(lp5093
+V130
+p5094
+asVGet Rich or Die Tryin'
+p5095
+(lp5096
+V117
+p5097
+asVNapoleon Dynamite
+p5098
+(lp5099
+V96
+p5100
+aV92::(original version)
+p5101
+asVSky High
+p5102
+(lp5103
+V100
+p5104
+asVThe Curious Case of Benjamin Button
+p5105
+(lp5106
+V166
+p5107
+asVMagnificent Desolation (IMAX)
+p5108
+(lp5109
+VUSA:40
+p5110
+asVA Good Day to Die Hard
+p5111
+(lp5112
+V98
+p5113
+aV101::(Extended Cut)
+p5114
+asVRed Riding Hood
+p5115
+(lp5116
+V100
+p5117
+asVDumb and Dumberer: When Harry Met Lloyd
+p5118
+(lp5119
+V85
+p5120
+asVThe Fog (2005)
+p5121
+(lp5122
+V100
+p5123
+aVPhilippines:99
+p5124
+aVUSA:103::(unrated version)
+p5125
+asVDistrict 9
+p5126
+(lp5127
+V112
+p5128
+asVI, Robot
+p5129
+(lp5130
+V115
+p5131
+asVWreck-It Ralph
+p5132
+(lp5133
+V101
+p5134
+asVSecret Window
+p5135
+(lp5136
+V96
+p5137
+asVPete's Dragon (2016)
+p5138
+(lp5139
+V102
+p5140
+asVHalloween II (2009)
+p5141
+(lp5142
+V105
+p5143
+aV119::(unrated director's cut)
+p5144
+asVSouthpaw
+p5145
+(lp5146
+V124
+p5147
+asVThe Village
+p5148
+(lp5149
+V108
+p5150
+asVThe Spiderwick Chronicles
+p5151
+(lp5152
+V96
+p5153
+aV107::(unrated version)
+p5154
+asVAbraham Lincoln: Vampire Hunter
+p5155
+(lp5156
+V105
+p5157
+asVAbout Schmidt
+p5158
+(lp5159
+V125
+p5160
+asVInside Out
+p5161
+(lp5162
+V95
+p5163
+asVBatman v Superman: Dawn of Justice
+p5164
+(lp5165
+V151
+p5166
+aV183::(Ultimate Edition)
+p5167
+asVOld Dogs
+p5168
+(lp5169
+VUSA:88
+p5170
+asVAvatar
+p5171
+(lp5172
+V162
+p5173
+aV171::(special edition)
+p5174
+aV178::(extended cut)
+p5175
+asVNeighbors
+p5176
+(lp5177
+V97
+p5178
+asVManchester by the Sea
+p5179
+(lp5180
+V137
+p5181
+asVShark Tale
+p5182
+(lp5183
+V90
+p5184
+asVCurious George
+p5185
+(lp5186
+V87
+p5187
+aVCanada:78::(Ontario)
+p5188
+asVAvengers: Age of Ultron
+p5189
+(lp5190
+V141
+p5191
+asVJohnson Family Vacation
+p5192
+(lp5193
+V97
+p5194
+asVThe Secret Life of Walter Mitty
+p5195
+(lp5196
+V114
+p5197
+asVHollywood Homicide
+p5198
+(lp5199
+V116
+p5200
+asVCouples Retreat
+p5201
+(lp5202
+V113
+p5203
+asVThe Kingdom
+p5204
+(lp5205
+V110
+p5206
+asVWhen the Game Stands Tall
+p5207
+(lp5208
+V115
+p5209
+asVDolphin Tale
+p5210
+(lp5211
+V113
+p5212
+asVThe Wedding Date
+p5213
+(lp5214
+V90
+p5215
+asVThe Best of Me
+p5216
+(lp5217
+V118
+p5218
+asVThe Last House on the Left (2009)
+p5219
+(lp5220
+V110
+p5221
+aV114::(unrated version)
+p5222
+asVTransformers: Age of Extinction
+p5223
+(lp5224
+V165
+p5225
+asVRobots
+p5226
+(lp5227
+V91
+p5228
+asVPaddington
+p5229
+(lp5230
+V95
+p5231
+asVChristmas with the Kranks
+p5232
+(lp5233
+V99
+p5234
+asVInception
+p5235
+(lp5236
+V148
+p5237
+asVOrange County
+p5238
+(lp5239
+V44
+p5240
+asVHollow Man
+p5241
+(lp5242
+V112
+p5243
+aVUSA:119::(director's cut)
+p5244
+asVNew Year's Eve
+p5245
+(lp5246
+V113
+p5247
+asVLemony Snicket's A Series of Unfortunate Events
+p5248
+(lp5249
+V50
+p5250
+asV10,000 B.C.
+p5251
+(lp5252
+VUSA:22
+p5253
+asVThe Princess Diaries 2: Royal Engagement
+p5254
+(lp5255
+V113
+p5256
+asVCreed
+p5257
+(lp5258
+V133
+p5259
+asVThe Ring Two
+p5260
+(lp5261
+V110
+p5262
+aV128::(unrated version)
+p5263
+asVHoney
+p5264
+(lp5265
+V94
+p5266
+asVKing Arthur
+p5267
+(lp5268
+V126
+p5269
+asVAustin Powers in Goldmember
+p5270
+(lp5271
+V94
+p5272
+asVKiss of the Dragon
+p5273
+(lp5274
+V98
+p5275
+asVThe Missing
+p5276
+(lp5277
+V60
+p5278
+asVWalk the Line
+p5279
+(lp5280
+V136
+p5281
+aV153::(extended cut)
+p5282
+asVThe League of Extraordinary Gentlemen
+p5283
+(lp5284
+V110
+p5285
+asVThe Lion King (in 3D)
+p5286
+(lp5287
+VUSA:14
+p5288
+asVCloverfield
+p5289
+(lp5290
+V85
+p5291
+asVThe Last Song
+p5292
+(lp5293
+VUSA:107
+p5294
+asVBreach
+p5295
+(lp5296
+V110
+p5297
+asVMoneyball
+p5298
+(lp5299
+V133
+p5300
+asVWhen the Bough Breaks
+p5301
+(lp5302
+V107
+p5303
+asVHardball
+p5304
+(lp5305
+V106
+p5306
+aVSpain:109
+p5307
+asVSeabiscuit
+p5308
+(lp5309
+V140
+p5310
+asVThe Karate Kid
+p5311
+(lp5312
+V126
+p5313
+asVThe Guilt Trip
+p5314
+(lp5315
+V95
+p5316
+asVTeenage Mutant Ninja Turtles: Out of the Shadows
+p5317
+(lp5318
+V112
+p5319
+asVThe Stepford Wives
+p5320
+(lp5321
+V93
+p5322
+asVGone in 60 Seconds
+p5323
+(lp5324
+V118
+p5325
+aVUSA:127::(director's cut)
+p5326
+asVUp
+p5327
+(lp5328
+V96
+p5329
+asVFriday the 13th (2009)
+p5330
+(lp5331
+V97
+p5332
+aV106::(extended edition)
+p5333
+asVRango
+p5334
+(lp5335
+V107
+p5336
+asVEarth (2009)
+p5337
+(lp5338
+V40
+p5339
+asVAnchorman 2: The Legend Continues
+p5340
+(lp5341
+V119
+p5342
+aV143::(supersize edition)
+p5343
+asVPaul Blart: Mall Cop 2
+p5344
+(lp5345
+V94
+p5346
+asVAbout a Boy
+p5347
+(lp5348
+V101
+p5349
+asVBook of Shadows: Blair Witch 2
+p5350
+(lp5351
+V90
+p5352
+asVA Walk to Remember
+p5353
+(lp5354
+V101
+p5355
+asVHellboy
+p5356
+(lp5357
+V122
+p5358
+aV132::(director's cut)
+p5359
+asVStar Trek
+p5360
+(lp5361
+V50::(79 episodes)
+p5362
+asVDrag Me to Hell
+p5363
+(lp5364
+V99
+p5365
+asVThirteen Ghosts
+p5366
+(lp5367
+V91
+p5368
+asVValentine's Day
+p5369
+(lp5370
+V125
+p5371
+asVTraining Day
+p5372
+(lp5373
+V42
+p5374
+asVNational Security
+p5375
+(lp5376
+V88
+p5377
+asVDirty Grandpa
+p5378
+(lp5379
+V102
+p5380
+aV109::(Unrated)
+p5381
+asVRide Along 2
+p5382
+(lp5383
+V102
+p5384
+asVAlvin and the Chipmunks: The Road Chip
+p5385
+(lp5386
+VUSA:92
+p5387
+asVThe Book of Eli
+p5388
+(lp5389
+V118
+p5390
+asVMiss Congeniality
+p5391
+(lp5392
+V109
+p5393
+asVStar Wars: The Clone Wars
+p5394
+(lp5395
+V23
+p5396
+asVEmployee of the Month
+p5397
+(lp5398
+V103
+p5399
+asVThe Haunting in Connecticut
+p5400
+(lp5401
+V92
+p5402
+aV102::(extended cut)
+p5403
+asVThe Boxtrolls
+p5404
+(lp5405
+V96
+p5406
+asVKevin Hart: What Now?
+p5407
+(lp5408
+V96
+p5409
+asVBorat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+p5410
+(lp5411
+V84
+p5412
+aVCanada:82::(Toronto International Film Festival)
+p5413
+asVKingdom of Heaven
+p5414
+(lp5415
+V144
+p5416
+aV190::(director's cut)
+p5417
+aV194::(director's cut roadshow version)
+p5418
+asVTed
+p5419
+(lp5420
+V106
+p5421
+aVUSA:112::(unrated version)
+p5422
+asVKangaroo Jack
+p5423
+(lp5424
+V89
+p5425
+asVLooper
+p5426
+(lp5427
+V119
+p5428
+asVZero Dark Thirty
+p5429
+(lp5430
+V157
+p5431
+asVEasy A
+p5432
+(lp5433
+V92
+p5434
+asVInvictus
+p5435
+(lp5436
+V134
+p5437
+asVJackass Presents: Bad Grandpa
+p5438
+(lp5439
+V92
+p5440
+aV102::(Unrated)
+p5441
+asVBeverly Hills Chihuahua
+p5442
+(lp5443
+V91
+p5444
+asVSurrogates
+p5445
+(lp5446
+V89
+p5447
+asVThe Holiday
+p5448
+(lp5449
+V138
+p5450
+asV40 Days and 40 Nights
+p5451
+(lp5452
+V96
+p5453
+asVCoyote Ugly
+p5454
+(lp5455
+V100
+p5456
+aV107::(director's cut)
+p5457
+asVSave the Last Dance
+p5458
+(lp5459
+V112
+p5460
+asV42
+p5461
+(lp5462
+V128
+p5463
+asVRugrats Go Wild
+p5464
+(lp5465
+VGermany:81
+p5466
+aVUSA:80
+p5467
+asVWe Are Marshall
+p5468
+(lp5469
+V131
+p5470
+asVCellular
+p5471
+(lp5472
+V94
+p5473
+asVMr. Peabody & Sherman
+p5474
+(lp5475
+V92
+p5476
+asVRunaway Jury
+p5477
+(lp5478
+V127
+p5479
+asVWhere the Wild Things Are
+p5480
+(lp5481
+V101
+p5482
+asVHanna
+p5483
+(lp5484
+V111
+p5485
+asVK-PAX
+p5486
+(lp5487
+V120
+p5488
+asVLarry Crowne
+p5489
+(lp5490
+V98
+p5491
+asVResident Evil: Extinction
+p5492
+(lp5493
+V94
+p5494
+aVArgentina:93
+p5495
+asVLast Vegas
+p5496
+(lp5497
+V105
+p5498
+asVThe Rite
+p5499
+(lp5500
+V114
+p5501
+asVHarry Potter and the Half-Blood Prince
+p5502
+(lp5503
+V153
+p5504
+asVSpy Kids 2: The Island of Lost Dreams
+p5505
+(lp5506
+V100
+p5507
+asVGuardians of the Galaxy
+p5508
+(lp5509
+V121
+p5510
+asVThe Host (2013)
+p5511
+(lp5512
+V125
+p5513
+asVSchool of Rock
+p5514
+(lp5515
+V108
+p5516
+asVPaper Towns
+p5517
+(lp5518
+V109
+p5519
+asVDallas Buyers Club
+p5520
+(lp5521
+V117
+p5522
+as.
