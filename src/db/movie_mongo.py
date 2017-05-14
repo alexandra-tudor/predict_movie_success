@@ -12,10 +12,13 @@ def getCursor():
 	collection = db['movie']
 	cursor = collection.find(
 		{
-			"Released"  : {'$ne': 'N/A'},
-			"Runtime"   : {'$ne': 'N/A'},
-			"imdbRating": {'$ne': 'N/A'},
-			"Genre"     : {'$ne': 'N/A'}
+			"Released"      : {'$ne': 'N/A'},
+			"Runtime"       : {'$ne': 'N/A'},
+			"imdbRating"    : {'$ne': 'N/A'},
+			"Genre"         : {'$ne': 'N/A'},
+			"Plot"          : {'$ne': 'N/A'},
+			"Director"      : {'$ne': 'N/A'},
+			"Production"    : {'$ne': 'N/A'}
 		}
 	)
 
