@@ -16,7 +16,7 @@ header = ['IMDbID',
 		  'Month',
 		  'Weekday',
 		  'Runtime',
-		  'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western',
+		  'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
 		  # 'Director_average_rating_past_movies', 'Writers_average_rating_past_movies', 'Actors_average_rating_past_movies',
 		  # 'Director_average_income_past_movies', 'Writers_average_income_past_movies', 'Actors_average_income_past_movies',
 		  'IMDb_Rating',
@@ -26,6 +26,7 @@ header = ['IMDbID',
           'remake', # for some movies there are more release years e.g. 1994/2014 --> the movie from 2014 is a remake
           'totalActorsAwardsNo',
           'hasWriter',
+          'isEnglish',
           'movie', 'series', 'episode',
           'Production',
           'Writer',
@@ -40,7 +41,7 @@ print (data_frame)
 cursor, db = getCursor()
 index = 0
 for document in cursor:
-	print ("")
+	print ("\n")
 	print ("index: " + str(index))
 	if index == 94296:
 		index += 1
