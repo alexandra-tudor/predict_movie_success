@@ -1,0 +1,2 @@
+# find all disctinct values for "Type"
+db.getCollection('movie').distinct("Type")
