@@ -8,7 +8,7 @@ import numpy as np
 
 from src.db.movie_mongo import getCursor
 
-google_username = "alexandra.tudor93@gmail.com"
+google_username = ""
 google_password = ""
 # Login to Google. Only need to run this once, the rest of requests will use the same session.
 pytrend = TrendReq(google_username, google_password, custom_useragent='')
@@ -20,11 +20,9 @@ popularity = {}
 # returns the average number of google queries from the past 4 weeks -> 4 values, for each week
 def get_trends(movie_title, year, month, day):
 
-	print (movie_title)
 	try:
 		# Create payload and capture API tokens. Only needed for interest_over_time(), interest_by_region() & related_queries()
 		pytrend.build_payload(kw_list=[movie_title])
-		print (movie_title)
 	except ValueError:
 		print ("You're BANNED!!!")
 		return [], [0, 0, 0, 0], 0, 0
@@ -46,7 +44,6 @@ def get_trends(movie_title, year, month, day):
 	# end_date = date_1 + timedelta(days=10)
 	# print (end_date)
 	all_values.reverse()
-	no_values = 0
 	month = int(month)
 	there = False
 	for date, v in all_values:
@@ -92,6 +89,10 @@ def get_trends(movie_title, year, month, day):
 	else:
 		averages += [0]
 
+	if len(averages) < 4:
+		print ("Not all averages " + averages)
+		return [], [0, 0, 0, 0], 0, 0
+
 	averages.reverse()
 	last_month_before_release_popularity_web.reverse()
 	values_only = map(lambda x: x[1], last_month_before_release_popularity_web)
@@ -101,6 +102,9 @@ def get_trends(movie_title, year, month, day):
 	for v in range(1, len(averages)):
 		s += (averages[v] - averages[v-1])/(averages[v-1] + 1)
 	growth_rate = (float(s)/(len(averages)-1))
+
+	print (averages)
+	print (total_avg, growth_rate)
 
 	return last_month_before_release_popularity_web, averages, total_avg, growth_rate
 
