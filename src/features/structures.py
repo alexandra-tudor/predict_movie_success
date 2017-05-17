@@ -39,3 +39,71 @@ weekday_no_map = {
 	'Saturday': 5,
 	'Sunday': 6
 }
+
+dataset_list = {
+	"compressed_dataset.csv": [
+		'../../../data/compressed_dataset.csv',
+		[
+		'Title_words_no',
+		'Title_length',
+		'Month',
+		'Weekday',
+		'Runtime',
+		'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
+		'isUSHoliday',
+		'remake',
+		'totalActorsAwardsNo',
+		'hasWriter',
+		'isEnglish',
+		'movie', 'series', 'episode',
+		'Production',
+		'Writer',
+		'Director',
+		'MovieTileInPlot'
+		]
+	],
+	# "10_class_compressed_dataset.csv": [
+	# 	'../../../data/compressed_dataset.csv',
+	# 	[
+	# 	'Title_words_no',
+	# 	'Title_length',
+	# 	'Month',
+	# 	'Weekday',
+	# 	'Runtime',
+	# 	'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
+	# 	'isUSHoliday',
+	# 	'remake',
+	# 	'totalActorsAwardsNo',
+	# 	'hasWriter',
+	# 	'isEnglish',
+	# 	'movie', 'series', 'episode',
+	# 	'Production',
+	# 	'Writer',
+	# 	'Director',
+	# 	'MovieTileInPlot'
+	# 	]
+	# ],
+	# "2_class_compressed_dataset.csv": [
+	# 	'../../../data/compressed_dataset.csv',
+	# 	[
+	# 		'Title_words_no',
+	# 		'Title_length',
+	# 		'Month',
+	# 		'Weekday',
+	# 		'Runtime',
+	# 		'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama',
+	# 		'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News',
+	# 		'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
+	# 		'isUSHoliday',
+	# 		'remake',
+	# 		'totalActorsAwardsNo',
+	# 		'hasWriter',
+	# 		'isEnglish',
+	# 		'movie', 'series', 'episode',
+	# 		'Production',
+	# 		'Writer',
+	# 		'Director',
+	# 		'MovieTileInPlot'
+	# 	]
+	# ]
+}
