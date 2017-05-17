@@ -19,9 +19,6 @@ for index, row in data_frame.iterrows():
 	print (Title, Year, Month, Day)
 
 	trends_data, avgs, total_avg, growth_rate = get_trends(Title, int(Year), Month, int(Day))
-	if total_avg == 0:
-		continue
-
 	row = avgs + [total_avg, growth_rate]
 
 	all_trends_data += [[Title, Year, Month, Day, trends_data, avgs, total_avg, growth_rate]]
@@ -30,9 +27,9 @@ for index, row in data_frame.iterrows():
 	new_df.loc[index] = row
 	index += 1
 
-print (data_frame)
-data_frame.drop_duplicates()
-data_frame.to_csv("../../data/trends_dataset.csv", sep='\t')
+new_data_frame = pd.concat([data_frame, new_df], axis=1)
+new_data_frame = new_data_frame.drop_duplicates()
+new_data_frame.to_csv("../../data/trends_dataset.csv", sep='\t')
 
 thefile = open('trends_only.txt', 'w')
 for item in all_trends_data:
