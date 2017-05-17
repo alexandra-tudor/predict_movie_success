@@ -38,7 +38,9 @@ header = ['IMDbID',
 		  # 'BoxOffice_income',
           'isUSHoliday',
           'remake', # for some movies there are more release years e.g. 1994/2014 --> the movie from 2014 is a remake
-          'totalActorsAwardsNo'
+          'totalActorsAwardsNo',
+          'hasWriter',
+          'movie', 'series', 'episode'
           ]
 
 data_frame = pd.DataFrame(columns=header)
@@ -89,7 +91,7 @@ for document in cursor:
 	# Writers_average_income_past_movies
 	# Actors_average_income_past_movies
 
-	# Language = document['Language']
+	Language = document['Language']
 	# Country = document['Country']
 	IMDb_Rating = document['imdbRating']; print ("IMDb_Rating: " + IMDb_Rating)
 	# IMDb_Votes  = document['imdbVotes']
@@ -106,6 +108,22 @@ for document in cursor:
 	for a in actors:
 		rewards_no += person_academy_awards(a, int(year))
 
+	hasWriter = 0
+	if document['Writer'] != 'N/A':
+		hasWriter = 1
+
+	isEnglish = 0
+	if Language == 'English':
+		isEnglish = 1
+
+	type_list = [0, 0, 0]
+	if document["Type"] == 'movie':
+		type_list[0] = 1
+	elif document["Type"] == 'series':
+		type_list[1] = 1
+	elif document["Type"] == 'episode':
+		type_list[2] = 1
+
 	row = [str(IMDbID), str(Title), Title_words_no, Title_length]
 	row += month_binary_features
 	row += weekday_binary_features
@@ -115,6 +133,9 @@ for document in cursor:
 	row += [isUSHoliday]
 	row += [remake]
 	row += [rewards_no]
+	row += [hasWriter]
+	row += [isEnglish]
+	row += type_list
 
 	print (row)
 

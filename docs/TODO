@@ -1,0 +1,9 @@
+NLP
+SSL
+    - !!! sters duplicate din dataset folosind pandas
+    - impartit in train + test dataset-ul creat
+    - adaugat date de pe pytrends -- avg pentru nr de search uri pt fiecare dintre ultimele 4 saptamani inainte de release
+    - grafice
+        - nr de filme pe luni, gen, zile, etc (sa vedem cat de uniformizat e setul de training)
+        - ...
+    - rulat alg pentru seturile de train + test

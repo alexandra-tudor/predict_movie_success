@@ -55,12 +55,11 @@ with open('../../data/movies.list') as f:
 			time.sleep(5)
 			continue
 
-		json_content = res.content
+		json_content = res.content.decode("utf-8")
+		print (json_content)
 		json_data = json.loads(json_content)
 
 		if json_data["Response"] == "False":
 			continue
-
-		print (json_data)
 
 		result = db.movie.insert_one(json_data)
