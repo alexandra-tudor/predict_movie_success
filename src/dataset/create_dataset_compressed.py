@@ -21,13 +21,9 @@ header = ['IMDbID',
 		  'Weekday',
 		  'Runtime',
 		  'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
-		  # 'Director_average_rating_past_movies', 'Writers_average_rating_past_movies', 'Actors_average_rating_past_movies',
-		  # 'Director_average_income_past_movies', 'Writers_average_income_past_movies', 'Actors_average_income_past_movies',
 		  'IMDb_Rating',
-		  # 'IMDb_Votes',
-		  # 'BoxOffice_income',
 		  'isUSHoliday',
-		  'remake', # for some movies there are more release years e.g. 1994/2014 --> the movie from 2014 is a remake
+		  'remake',
 		  'totalActorsAwardsNo',
 		  'hasWriter',
 		  'isEnglish',
@@ -36,6 +32,8 @@ header = ['IMDbID',
 		  'Writer',
 		  'Director',
 		  'MovieTileInPlot',
+		  'Year',
+		  'Day',
 		  'Plot'
 		  ]
 
@@ -212,6 +210,8 @@ with open('../../data/database_cc.json') as data_file:
 		row += [movie_writer_feature]
 		row += [movie_director_feature]
 		row += [movie_title_in_plot]
+		row += [yearString]
+		row += [day]
 		row += [plot]
 
 		print (row)
@@ -223,4 +223,4 @@ with open('../../data/database_cc.json') as data_file:
 
 print (data_frame)
 data_frame.drop_duplicates()
-data_frame.to_csv("../../data/compressed_dataset.csv", sep='\t')
+data_frame.to_csv("../../data/compressed_dataset2.csv", sep='\t')

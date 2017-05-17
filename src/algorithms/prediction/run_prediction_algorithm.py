@@ -6,6 +6,7 @@ from sklearn.svm import SVR
 import sklearn.metrics as metrics
 
 from src.features.structures import dataset_list
+from src.plots.histograms import print_rating_hist
 
 for dataset in dataset_list.keys():
 	print ("\n >>> Using dataset: " + dataset)
@@ -17,6 +18,9 @@ for dataset in dataset_list.keys():
 	train = df[columns][msk]
 	test = df[columns][~msk]
 
+	# print_rating_hist(df[msk], 'train_rating_hist.png')
+	# print_rating_hist(df, 'test_rating_hist.png')
+
 	train_labels = np.array(df[['IMDb_Rating']][msk]).transpose()[0]
 	test_labels = np.array(df[['IMDb_Rating']][~msk]).transpose()[0]
 
@@ -24,7 +28,7 @@ for dataset in dataset_list.keys():
 	print ("Testing dataset: " + str(test.shape))
 
 	predictors = [
-		(RandomForestRegressor(n_estimators=150, min_samples_split=2), "Random Forest Regressor"),
+		(RandomForestRegressor(n_estimators=150, min_samples_split=10), "Random Forest Regressor"),
 		(LinReg.LinearRegression(), "Linear Regression"),
 		# (SVR(kernel='linear', C=0.2), "Support Vector Regression")
 		]
