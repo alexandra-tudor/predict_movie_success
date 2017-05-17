@@ -21,12 +21,13 @@ popularity = {}
 def get_trends(movie_title, year, month, day):
 
 	print (movie_title)
-	# try:
-	# Create payload and capture API tokens. Only needed for interest_over_time(), interest_by_region() & related_queries()
-	pytrend.build_payload(kw_list=[movie_title])
-	print (movie_title)
-	# except ValueError:
-	# 	return [], [0, 0, 0, 0], 0, 0
+	try:
+		# Create payload and capture API tokens. Only needed for interest_over_time(), interest_by_region() & related_queries()
+		pytrend.build_payload(kw_list=[movie_title])
+		print (movie_title)
+	except ValueError:
+		print ("You're BANNED!!!")
+		return [], [0, 0, 0, 0], 0, 0
 	interest_over_time_df_web = []
 	# Interest Over Time
 	try:
