@@ -19,7 +19,7 @@ import numpy as np
 if __name__ == '__main__':
     train = pd.read_csv('../../data/labeledTrainData.tsv', header=0, \
                     delimiter="\t", quoting=3)
-    test = pd.read_csv('../../data/comments.csv', header=0, delimiter="\t", \
+    test = pd.read_csv('../../data/comments.tsv', header=0, delimiter="\t", \
                    quoting=3 )
 
     print 'The first review is:'
@@ -101,5 +101,5 @@ if __name__ == '__main__':
     output = pd.DataFrame( data={"id":test["id"], "sentiment":result} )
 
     # Use pandas to write the comma-separated output file
-    output.to_csv('../../data/Bag_of_Words_model.csv', index=False, quoting=3)
+    output.to_csv('../../data/Bag_of_Words_model.csv', sep="\t", index=False, quoting=3)
     print "Wrote results to Bag_of_Words_model.csv"

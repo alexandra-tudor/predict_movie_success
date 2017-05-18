@@ -100,7 +100,7 @@ if __name__ == '__main__':
 
     # Read data from files
     train = pd.read_csv( os.path.join(os.path.dirname(__file__), 'data', 'labeledTrainData.tsv'), header=0, delimiter="\t", quoting=3 )
-    test = pd.read_csv(os.path.join(os.path.dirname(__file__), 'data', 'comments.csv'), header=0, delimiter="\t", quoting=3 )
+    test = pd.read_csv(os.path.join(os.path.dirname(__file__), 'data', 'comments.tsv'), header=0, delimiter="\t", quoting=3 )
 
 
     print "Cleaning training reviews"

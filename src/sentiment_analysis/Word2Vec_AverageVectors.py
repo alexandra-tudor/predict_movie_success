@@ -91,7 +91,7 @@ if __name__ == '__main__':
     # Read data from files
     train = pd.read_csv('../../data/labeledTrainData.tsv', header=0,
                         delimiter="\t", quoting=3)
-    test = pd.read_csv('../../data/comments.csv', header=0, delimiter="\t",
+    test = pd.read_csv('../../data/comments.tsv', header=0, delimiter="\t",
                        quoting=3)
     unlabeled_train = pd.read_csv("../../data/unlabeledTrainData.tsv", header=0,
                                   delimiter="\t", quoting=3)
