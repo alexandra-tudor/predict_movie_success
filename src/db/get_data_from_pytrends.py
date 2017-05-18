@@ -4,7 +4,6 @@ from time import strptime
 import pandas as pd
 from datetime import datetime, timedelta
 from pytrends.request import TrendReq
-import numpy as np
 
 from src.db.movie_mongo import getCursor
 
@@ -90,7 +89,7 @@ def get_trends(movie_title, year, month, day):
 		averages += [0]
 
 	if len(averages) < 4:
-		print ("Not all averages " + averages)
+		print (averages)
 		return [], [0, 0, 0, 0], 0, 0
 
 	averages.reverse()
