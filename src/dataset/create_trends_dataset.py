@@ -7,7 +7,7 @@ from src.db.get_data_from_pytrends import get_trends
 
 data_frame = pd.read_csv('../../data/compressed_dataset2.csv', sep='\t')
 new_df = pd.DataFrame(0, index=np.arange(len(data_frame.index)), columns=['W1', 'W2', 'W3', 'W4', 'Total_W_AVG', 'Growth_Rate'])
-thefile = open('trends_only.txt', 'w')
+thefile = open('trends_only2.txt', 'w')
 
 
 for index, row in data_frame.loc[data_frame['Year'] >= 2012].iterrows():
@@ -38,7 +38,7 @@ for index, row in data_frame.loc[data_frame['Year'] >= 2012].iterrows():
 		new_df.loc[index] = [0, 0, 0, 0, 0, 0]
 
 
-new_df.to_csv("../../data/trends_dataset_new.csv", sep='\t')
+new_df.to_csv("../../data/trends_dataset_new2.csv", sep='\t')
 new_data_frame = pd.concat([data_frame, new_df], axis=1)
 new_data_frame = new_data_frame.drop_duplicates()
-new_data_frame.to_csv("../../data/trends_dataset_joined.csv", sep='\t')
+new_data_frame.to_csv("../../data/trends_dataset_joined2.csv", sep='\t')

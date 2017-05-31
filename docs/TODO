@@ -1,5 +1,8 @@
 NLP
-    - ...
+    - sentiment analysis
+        plot
+        youtube comments
+    -
 SSL
     - !!! sters duplicate din dataset folosind pandas - done
     - impartit in train + test dataset-ul creat - done
@@ -8,3 +11,18 @@ SSL
         - nr de filme pe luni, gen, zile, etc (sa vedem cat de uniformizat e setul de training)
         - ...
     - rulat alg pentru seturile de train + test - done
+
+
+    SVD - inteles + aplicat
+Date
+    - OMDb
+    - Google Trends
+    - Box Office Mojo
+
+
+2 class classification for rating
+tf-idf
+word2vec
+
+
+

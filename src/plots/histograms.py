@@ -80,3 +80,17 @@ def print_scatter_matrix(df):
 	for i, j in zip(*plt.np.triu_indices_from(axes, k=1)):
 		axes[i, j].annotate("%.3f" % corr[i, j], (0.8, 0.8), xycoords='axes fraction', ha='center', va='center')
 	plt.show()
+
+
+def print2DPlot(df):
+	df = df[df["Total_W_AVG"] > 10]
+	df.sort_values(by=['IMDb_Rating'], ascending=[True])
+	x = df[['IMDb_Rating']]
+	y = df[['W4']]
+	# y = df[['Growth_Rate']]
+	# y = df[['Growth_Rate']]
+
+	fig, ax = plt.subplots()
+
+	ax.plot(x, y, 'ro')
+	plt.show()

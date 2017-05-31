@@ -41,27 +41,27 @@ weekday_no_map = {
 }
 
 dataset_list = {
-	"compressed_dataset.csv": [
-		'../../../data/compressed_dataset.csv',
-		[
-		'Title_words_no',
-		'Title_length',
-		'Month',
-		'Weekday',
-		'Runtime',
-		'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
-		'isUSHoliday',
-		'remake',
-		'totalActorsAwardsNo',
-		'hasWriter',
-		'isEnglish',
-		'movie', 'series', 'episode',
-		'Production',
-		'Writer',
-		'Director',
-		'MovieTileInPlot'
-		]
-	],
+	# "compressed_dataset2.csv": [
+	# 	'../../../data/compressed_dataset2.csv',
+	# 	[
+	# 	'Title_words_no',
+	# 	'Title_length',
+	# 	'Month',
+	# 	'Weekday',
+	# 	'Runtime',
+	# 	'Action', 'Adult', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Fantasy', 'Game-Show', 'History', 'Horror', 'Magical', 'Music', 'Musical', 'Mystery', 'News', 'Reality-TV', 'Romance', 'Sci-Fi', 'Short', 'Sport', 'Talk-Show', 'Thriller', 'War', 'Western', 'Film-Noir',
+	# 	'isUSHoliday',
+	# 	'remake',
+	# 	'totalActorsAwardsNo',
+	# 	'hasWriter',
+	# 	'isEnglish',
+	# 	'movie', 'series', 'episode',
+	# 	'Production',
+	# 	'Writer',
+	# 	'Director',
+	# 	'MovieTileInPlot'
+	# 	]
+	# ],
 	# "10_class_compressed_dataset.csv": [
 	# 	'../../../data/compressed_dataset.csv',
 	# 	[
@@ -105,5 +105,83 @@ dataset_list = {
 	# 		'Director',
 	# 		'MovieTileInPlot'
 	# 	]
-	# ]
+	# ],
+	"2_class_rating_dataset.csv": [
+		'../../../data/2_class_rating_dataset.csv',
+		[
+			'Title_words_no',
+			'Month',
+			'Weekday',
+			'Runtime',
+			'Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Fantasy', 'Horror', 'Romance', 'Sci-Fi', 'Thriller', 'Western',
+			'isUSHoliday',
+			'totalActorsAwardsNo',
+			'hasWriter',
+			'isEnglish',
+			'movie', 'series',
+			'Production',
+			'Writer',
+			'Director',
+			'MovieTileInPlot',
+			'W1',
+			'W2',
+			'W3',
+			'W4',
+			'Total_W_AVG',
+			'Growth_Rate'
+		]
+	],
+	"10_class_rating_dataset.csv": [
+		'../../../data/10_class_rating_dataset.csv',
+		[
+			'Title_words_no',
+			'Month',
+			'Weekday',
+			'Runtime',
+			'Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Fantasy', 'Horror', 'Romance', 'Sci-Fi', 'Thriller', 'Western',
+			'isUSHoliday',
+			'totalActorsAwardsNo',
+			'hasWriter',
+			'isEnglish',
+			'movie', 'series',
+			'Production',
+			'Writer',
+			'Director',
+			'MovieTileInPlot',
+			'W1',
+			'W2',
+			'W3',
+			'W4',
+			'Total_W_AVG',
+			'Growth_Rate'
+		]
+	],
+	"trends_dataset_joined.csv": [
+		'../../../data/trends_dataset_joined.csv',
+		[
+			'Title_words_no',
+			'Month',
+			'Weekday',
+			'Runtime',
+			'Action', 'Adventure', 'Animation','Comedy', 'Crime', 'Documentary', 'Drama',
+			'Family','Horror',
+			'Romance', 'Sci-Fi','Thriller', 'Western',
+			'isUSHoliday',
+			'totalActorsAwardsNo',
+			'hasWriter',
+			'isEnglish',
+			'movie', 'series',
+			'Production',
+			'Writer',
+			'Director',
+			'MovieTileInPlot',
+			'W1',
+			'W2',
+			'W3',
+			'W4',
+			'Total_W_AVG',
+			'Growth_Rate'
+		]
+	],
+
 }

@@ -62,7 +62,7 @@ def get_trends(movie_title, year, month, day):
 
 	if len(last_month_before_release_popularity_web) == 0:
 		return [], [0, 0, 0, 0], 0, 0
-	last_month_before_release_popularity_web = last_month_before_release_popularity_web[:12]
+	last_month_before_release_popularity_web = last_month_before_release_popularity_web[3:15]
 
 	averages = []
 	i = 0
